@@ -244,17 +244,17 @@
 				<key>Actions</key>
 				<array>
 					<dict>
-						<key>IsDisclosed</key>
-						<false/>
+						<key>ActionColor</key>
+						<string>Red</string>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6kAQAAKwAAAAEA
-						AACcAQAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC6tAwAAKwAAAAEA
+						AAClAwAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
-						XGNvY29hc3VicnRmNDAwCntcZm9u
+						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
 						MCBIZWx2ZXRpY2FOZXVlO30Ke1xj
 						b2xvcnRibDtccmVkMjU1XGdyZWVu
@@ -269,23 +269,48 @@
 						MTYwXHR4NjcyMFxwYXJkaXJuYXR1
 						cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
 						CgpcZjBcZnMyNiBcY2YyIFNlbGVj
-						dCBmaWxlIGFuZCBydW4gbWFjcm8u
-						XApQYW5kb2MgYW5kIGEgTGF0ZXgg
-						bXVzdCBiZSBpbnN0YWxsZWQufQEA
-						AAAjAAAAAQAAAAcAAABUWFQucnRm
-						EAAAAFbr0Fy2AQAAAAAAAAAAAAA=
+						dCBhIGZpbGUgYW5kIHJ1biB0aGUg
+						bWFjcm8uXApUaGlzIG1hY3JvIGhh
+						cyBzZXZlcmFsIGRlcGVuZGVuY2ll
+						cywgc3VjaCBhcyBQQU5ET0MgYW5k
+						IExBVEVYLiBJZiB5b3UgZG9uXCc5
+						MnQgaGF2ZSB0aGVtIGluc3RhbGxl
+						ZCwgaXQgd29uXCc5MnQgd29yay5c
+						ClwKSWYgeW91IHdvdWxkIGxpa2Ug
+						dG8gYWRkIG90aGVyIHZhcmlhYmxl
+						cyBhbmQgZm9ybWF0cywgcGxlYXNl
+						IGRvIGEgcHVsbCByZXF1ZXN0IGF0
+						IGh0dHBzOi8vZ2l0aHViLmNvbS9i
+						Y2RhdmFzY29uY2Vsb3MvbXlrbW1s
+						aWJyYXJ5L3RyZWUvbWFzdGVyL1Bh
+						bmRvYyBvciBqb2luIHRoZSBkaXNj
+						dXNzaW9uIGF0IGh0dHBzOi8vZm9y
+						dW0ua2V5Ym9hcmRtYWVzdHJvLmNv
+						bS90L21hY3JvLWNvbnZlcnQtbWFy
+						a2Rvd24tdG8tcGRmLWZpbGUtd2l0
+						aC1wcm9tcHQtZm9yLXBhcmFtZXRl
+						cnMvMTM3MTlcClwKVG8gZG86XApB
+						ZGQgSFRNTCBvdXRwdXRcCkFkZCBi
+						aWJsaW9ncmFwaHkgc3VwcG9ydFwK
+						QWRkIHRlbXBsYXRlIG9wdGlvbnNc
+						ClwKU291cmNlOiBodHRwczovL2dp
+						dGh1Yi5jb20vYmNkYXZhc2NvbmNl
+						bG9zL215a21tbGlicmFyeS90cmVl
+						L21hc3Rlci9QYW5kb2N9AQAAACMA
+						AAABAAAABwAAAFRYVC5ydGYQAAAA
+						etn6XLYBAAAAAAAAAAAAAA==
 						</data>
 						<key>Title</key>
 						<string>Instructions</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Take file name and open terminal</string>
+						<string>Gather file name, extension and open the terminal</string>
 						<key>Actions</key>
 						<array>
 							<dict>
 								<key>ActionName</key>
-								<string>Coletar nome e extensão</string>
+								<string>Gather file name and extension</string>
 								<key>Actions</key>
 								<array>
 									<dict>
@@ -320,7 +345,7 @@
 								<key>ActionColor</key>
 								<string>Orange</string>
 								<key>ActionName</key>
-								<string>Abrir terminal na pasta</string>
+								<string>Open terminal to folder</string>
 								<key>DisplayKind</key>
 								<string>None</string>
 								<key>IncludeStdErr</key>
@@ -365,6 +390,8 @@ end tell</string>
 								</dict>
 							</array>
 						</dict>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>For</string>
 						<key>TimeOutAbortsMacro</key>
@@ -374,7 +401,7 @@ end tell</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Command for conversion</string>
+						<string>Setting up conversion options</string>
 						<key>Actions</key>
 						<array>
 							<dict>
@@ -398,11 +425,11 @@ end tell</string>
 								<key>MacroActionType</key>
 								<string>PromptForUserInput</string>
 								<key>Prompt</key>
-								<string>Select desired output.</string>
+								<string>Only PDF, DOCX and Markdown formats are currently supported.</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
 								<key>Title</key>
-								<string>Output</string>
+								<string>Select desired output</string>
 								<key>Variables</key>
 								<array>
 									<dict>
@@ -415,7 +442,7 @@ end tell</string>
 							</dict>
 							<dict>
 								<key>ActionName</key>
-								<string>PDF</string>
+								<string>PDF Output</string>
 								<key>Conditions</key>
 								<dict>
 									<key>ConditionList</key>
@@ -445,10 +472,8 @@ end tell</string>
 								<key>ThenActions</key>
 								<array>
 									<dict>
-										<key>ActionListDisclosed</key>
-										<false/>
 										<key>ActionName</key>
-										<string>PDF</string>
+										<string>Options specific to the PDF output</string>
 										<key>Actions</key>
 										<array>
 											<dict>
@@ -469,15 +494,19 @@ end tell</string>
 														<true/>
 													</dict>
 												</array>
+												<key>IsDisclosed</key>
+												<false/>
 												<key>MacroActionType</key>
 												<string>PromptForUserInput</string>
 												<key>Prompt</key>
 												<string>! Make sure to remove spaces from file name !
-Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond, Fira Mono, Gentium Plus, GFS ..., Iosevka, Linux Biolium O, Linux Libertine, Noto Serif, SBL Greek, Source Sans Pro, Ubuntu Mono</string>
+
+Note to classicists: 
+Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, Cardo, Cousine, DejaVu, EB Garamond, Fira Mono, Gabriola, Gentium Plus, Iosevka, Linux Biolium O, Linux Libertine, Noto Serif, SBL Greek, Source Sans Pro, Ubuntu Mono and all fonts by the Greek Font Society. Most of them must be downloaded and installed.</string>
 												<key>TimeOutAbortsMacro</key>
 												<true/>
 												<key>Title</key>
-												<string>MD → PDF</string>
+												<string>Convert to PDF</string>
 												<key>Variables</key>
 												<array>
 													<dict>
@@ -494,13 +523,13 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>markdown|docx|epub|gfm|html|json|latex|markdown_phpextra|odt|opml</string>
+														<string>markdown|docx|epub|gfm|html|json|latex|markdown_mmd|markdown_phpextra|odt|opml</string>
 														<key>Variable</key>
 														<string>Source</string>
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>--toc|</string>
+														<string> |--toc</string>
 														<key>Variable</key>
 														<string>TOC</string>
 													</dict>
@@ -518,19 +547,19 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>Gentium Plus|Alegreya|Avenir Next LT Pro|Cardo|Cousine|DejaVu LGC Sans Mono|DejaVu LGC Sans|DejaVu LGC Serif|EB Garamond|Fira Mono|GFS Artemisia|GFS Didot|GFS Elpis|GFS Galatea|GFS Neohellenic|GFS Porson|Iosevka|Linux Biolium O|Linux Libertine O|Noto Mono|Noto Serif|SBL Greek Regular|Source Sans Pro|Source Serif Pro|Ubuntu Mono</string>
+														<string>Gentium Plus|Alegreya|Alverata|Avenir Next LT Pro|Cambria|Cardo|Cousine|DejaVu LGC Sans|DejaVu LGC Sans Mono|DejaVu LGC Serif|EB Garamond|Fira Mono|Gabriola|Gentium Plus|GFS Artemisia|GFS Didot|GFS Elpis|GFS Galatea|GFS Neohellenic|GFS Porson|Iosevka|Linux Biolium O|Linux Libertine O|Noto Mono|Noto Serif|SBL Greek Regular|Source Sans Pro|Ubuntu Mono</string>
 														<key>Variable</key>
 														<string>Main font</string>
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>Source Sans Pro|Alegreya Sans|Alegreya Sans Light Regular|ArimoDejaVu LGC Sans|Linux Biolium O|Microsoft Sans Serif|</string>
+														<string> |Source Sans Pro|Alegreya Sans|Alegreya Sans Light Regular|ArimoDejaVu LGC Sans|Linux Biolium O|Microsoft Sans Serif|</string>
 														<key>Variable</key>
 														<string>Sans serif</string>
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>DejaVu LGC Sans Mono|Cousine|Fira Mono|Inconsolata XL|Menlo|Monaco|Source Code Pro|Ubuntu Mono</string>
+														<string> |DejaVu LGC Sans Mono|Cousine|Fira Mono|Inconsolata XL|Menlo|Monaco|Source Code Pro|Ubuntu Mono</string>
 														<key>Variable</key>
 														<string>Mono spaced</string>
 													</dict>
@@ -569,6 +598,8 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 											<dict>
 												<key>Destination</key>
 												<string>%Variable%Rename%.%Variable%Correct Extension%</string>
+												<key>IsDisclosed</key>
+												<false/>
 												<key>MacroActionType</key>
 												<string>File</string>
 												<key>Operation</key>
@@ -582,7 +613,9 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 												<key>ActionColor</key>
 												<string>Green</string>
 												<key>ActionName</key>
-												<string>Inserir comando</string>
+												<string>Paste command to terminal</string>
+												<key>IsDisclosed</key>
+												<false/>
 												<key>MacroActionType</key>
 												<string>InsertText</string>
 												<key>Text</key>
@@ -602,7 +635,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 							</dict>
 							<dict>
 								<key>ActionName</key>
-								<string>DOCX</string>
+								<string>DOCX Output</string>
 								<key>Conditions</key>
 								<dict>
 									<key>ConditionList</key>
@@ -631,7 +664,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 								<array>
 									<dict>
 										<key>ActionName</key>
-										<string>DOCX</string>
+										<string>Options specific to the DOCX output</string>
 										<key>Actions</key>
 										<array>
 											<dict>
@@ -652,8 +685,6 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 														<true/>
 													</dict>
 												</array>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>PromptForUserInput</string>
 												<key>Prompt</key>
@@ -662,7 +693,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 												<key>TimeOutAbortsMacro</key>
 												<true/>
 												<key>Title</key>
-												<string>DOCX</string>
+												<string>Convert to DOCX</string>
 												<key>Variables</key>
 												<array>
 													<dict>
@@ -703,7 +734,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 												<key>ActionColor</key>
 												<string>Green</string>
 												<key>ActionName</key>
-												<string>Inserir comando</string>
+												<string>Paste command to terminal</string>
 												<key>IsDisclosed</key>
 												<false/>
 												<key>MacroActionType</key>
@@ -725,7 +756,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 							</dict>
 							<dict>
 								<key>ActionName</key>
-								<string>MD</string>
+								<string>MD Output</string>
 								<key>Conditions</key>
 								<dict>
 									<key>ConditionList</key>
@@ -761,7 +792,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 												<key>ActionColor</key>
 												<string>Green</string>
 												<key>ActionName</key>
-												<string>Options for conversion</string>
+												<string>Options specific to the MD output</string>
 												<key>Buttons</key>
 												<array>
 													<dict>
@@ -775,8 +806,6 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 														<true/>
 													</dict>
 												</array>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>PromptForUserInput</string>
 												<key>Prompt</key>
@@ -785,7 +814,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 												<key>TimeOutAbortsMacro</key>
 												<true/>
 												<key>Title</key>
-												<string>DOCX</string>
+												<string>Convert to Markdown</string>
 												<key>Variables</key>
 												<array>
 													<dict>
@@ -806,11 +835,19 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 														<key>Variable</key>
 														<string>Source</string>
 													</dict>
+													<dict>
+														<key>Default</key>
+														<string>Y|N</string>
+														<key>Variable</key>
+														<string>StandAlone</string>
+													</dict>
 												</array>
 											</dict>
 											<dict>
 												<key>Destination</key>
 												<string>%Variable%Rename%.%Variable%Correct Extension%</string>
+												<key>IsDisclosed</key>
+												<false/>
 												<key>MacroActionType</key>
 												<string>File</string>
 												<key>Operation</key>
@@ -819,18 +856,66 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 												<string>%Variable%Path%</string>
 											</dict>
 											<dict>
-												<key>Action</key>
-												<string>ByPasting</string>
-												<key>ActionColor</key>
-												<string>Green</string>
 												<key>ActionName</key>
-												<string>Inserir comando</string>
+												<string>Paste command to terminal</string>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>StandAlone</string>
+															<key>VariableConditionType</key>
+															<string>Is</string>
+															<key>VariableValue</key>
+															<string>Y</string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array>
+													<dict>
+														<key>Action</key>
+														<string>ByPasting</string>
+														<key>ActionColor</key>
+														<string>Green</string>
+														<key>ActionName</key>
+														<string>Inserir comando</string>
+														<key>MacroActionType</key>
+														<string>InsertText</string>
+														<key>Text</key>
+														<string>pandoc -f %Variable%Source% %Variable%Rename%.%Variable%Correct Extension% -t markdown_mmd</string>
+													</dict>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
 												<key>MacroActionType</key>
-												<string>InsertText</string>
-												<key>Text</key>
-												<string>pandoc -s -f %Variable%Source% %Variable%Rename%.%Variable%Correct Extension% -t markdown_mmd -o %Variable%Rename%.md</string>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>Action</key>
+														<string>ByPasting</string>
+														<key>ActionColor</key>
+														<string>Green</string>
+														<key>ActionName</key>
+														<string>Inserir comando</string>
+														<key>MacroActionType</key>
+														<string>InsertText</string>
+														<key>Text</key>
+														<string>pandoc -s -f %Variable%Source% %Variable%Rename%.%Variable%Correct Extension% -t markdown_mmd -o %Variable%Rename%.md</string>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
 											</dict>
 										</array>
+										<key>IsDisclosed</key>
+										<false/>
 										<key>MacroActionType</key>
 										<string>Group</string>
 										<key>TimeOutAbortsMacro</key>
@@ -848,7 +933,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Enter, aguardar e fechar</string>
+						<string>Confirm, pause and close terminal window</string>
 						<key>Actions</key>
 						<array>
 							<dict>
@@ -923,7 +1008,7 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Limpar variáveis</string>
+						<string>Clean up variables</string>
 						<key>Actions</key>
 						<array>
 							<dict>
@@ -1377,9 +1462,9 @@ Fonts with extended greek support: Alegreya, Cardo, Cousine, DejaVu, EB Garamond
 				//2jAAAD3AAAwGw=
 				</data>
 				<key>ModificationDate</key>
-				<real>581543455.910025</real>
+				<real>581636392.84368801</real>
 				<key>Name</key>
-				<string>Pandoc</string>
+				<string>Pandoc 1.0</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
