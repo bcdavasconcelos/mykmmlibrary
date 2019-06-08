@@ -307,16 +307,6 @@
 						<string></string>
 					</dict>
 					<dict>
-						<key>IsActive</key>
-						<false/>
-						<key>JustDisplay</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>SetClipboardToText</string>
-						<key>Text</key>
-						<string>%Variable%sspResult%</string>
-					</dict>
-					<dict>
 						<key>ActionName</key>
 						<string>JSON</string>
 						<key>Actions</key>
@@ -325,8 +315,8 @@
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
-								<string>title: TLG Autores e Obras
-helpMacroUUID: D9D39328-95A6-44B8-B740-C24F0A815EF7
+								<string>title: LOEB Works and Authors
+helpMacroUUID: 
 dataType: json
 jsonDisplayField: loeb_title
 jsonReturnField: loeb_url
@@ -3486,35 +3476,6 @@ customPromptWidth: 700</string>
 								<key>UseParameter</key>
 								<false/>
 							</dict>
-							<dict>
-								<key>ActionName</key>
-								<string>Show the results</string>
-								<key>Buttons</key>
-								<array>
-									<dict>
-										<key>Button</key>
-										<string>OK</string>
-										<key>Cancel</key>
-										<false/>
-									</dict>
-								</array>
-								<key>IsActive</key>
-								<false/>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>PromptForUserInput</string>
-								<key>Prompt</key>
-								<string>sspResult: "%Variable%sspResult%"
-sspResultButton: "%Variable%sspResultButton%"
-</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>Title</key>
-								<string>%ExecutingMacro%</string>
-								<key>Variables</key>
-								<array/>
-							</dict>
 						</array>
 						<key>MacroActionType</key>
 						<string>Group</string>
@@ -4046,7 +4007,7 @@ sspResultButton: "%Variable%sspResultButton%"
 				///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
 				<key>ModificationDate</key>
-				<real>581715301.01161206</real>
+				<real>581716148.97777104</real>
 				<key>Name</key>
 				<string>2. LOEB</string>
 				<key>Triggers</key>

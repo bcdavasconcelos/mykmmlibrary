@@ -317,8 +317,8 @@
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
-								<string>title: TLG Autores e Obras
-helpMacroUUID: D9D39328-95A6-44B8-B740-C24F0A815EF7
+								<string>title: TLG Works and Authors
+helpMacroUUID: 
 dataType: json
 jsonDisplayField: title
 jsonReturnField: URN
@@ -14512,35 +14512,6 @@ customPromptWidth: 500</string>
 								<key>UseParameter</key>
 								<false/>
 							</dict>
-							<dict>
-								<key>ActionName</key>
-								<string>Show the results</string>
-								<key>Buttons</key>
-								<array>
-									<dict>
-										<key>Button</key>
-										<string>OK</string>
-										<key>Cancel</key>
-										<false/>
-									</dict>
-								</array>
-								<key>IsActive</key>
-								<false/>
-								<key>IsDisclosed</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>PromptForUserInput</string>
-								<key>Prompt</key>
-								<string>sspResult: "%Variable%sspResult%"
-sspResultButton: "%Variable%sspResultButton%"
-</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>Title</key>
-								<string>%ExecutingMacro%</string>
-								<key>Variables</key>
-								<array/>
-							</dict>
 						</array>
 						<key>MacroActionType</key>
 						<string>Group</string>
@@ -14570,6 +14541,8 @@ sspResultButton: "%Variable%sspResultButton%"
 						<false/>
 						<key>ElseActions</key>
 						<array/>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>IfThenElse</string>
 						<key>ThenActions</key>
@@ -15288,7 +15261,7 @@ sspResultButton: "%Variable%sspResultButton%"
 				AAXe///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
 				<key>ModificationDate</key>
-				<real>581715228.13461304</real>
+				<real>581716167.25948906</real>
 				<key>Name</key>
 				<string>1. TLG Online</string>
 				<key>Triggers</key>
