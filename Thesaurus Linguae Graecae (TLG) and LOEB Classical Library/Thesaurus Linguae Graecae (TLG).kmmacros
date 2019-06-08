@@ -274,10 +274,10 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC40AQAAKwAAAAEA
-						AAAsAQAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC44AgAAKwAAAAEA
+						AAAwAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
-						XGNvY29hc3VicnRmNDAwCntcZm9u
+						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmc3dpc3NcZmNoYXJz
 						ZXQwIEhlbHZldGljYTt9CntcY29s
 						b3J0Ymw7XHJlZDI1NVxncmVlbjI1
@@ -289,24 +289,24 @@
 						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
 						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
 						ZW5mYWN0b3IwCgpcZjBcZnMyNCBc
-						Y2YwIFRoYW5rcyB9AQAAACMAAAAB
-						AAAABwAAAFRYVC5ydGYQAAAAilrp
-						XLYBAAAAAAAAAAAAAA==
+						Y2YwIE1hY3JvIGJ5IEJlcm5hcmRv
+						IENEQSBWYXNjb25jZWxvc1wKUGxl
+						YXNlIGNoZWNrIGh0dHBzOi8vdGlu
+						eXVybC5jb20veTJtd3lxejQgZm9y
+						IHVwZGF0ZXMgKHNob3VsZCB0aGVy
+						ZSBldmVyIGJlIGFueSkuXApcClRo
+						YW5rcyB0byBTdGVwaGVuIE1hcmdo
+						ZWltIGZvciB0aGUgZGF0YSBpbiBK
+						U09OOyBEYW4gVGhvbWFzIGZvciBc
+						JzkzU3BvdGxpZ2h0IFNlYXJjaCBQ
+						cm9tcHRcJzk0IGFuZCBKTWljaGFl
+						bFRYIGZvciBSZWdleCBtYWNyb3Mg
+						c2hhcmVkIG9uIEtNIEZvcnVtLn0B
+						AAAAIwAAAAEAAAAHAAAAVFhULnJ0
+						ZhAAAACLDfxctgEAAAAAAAAAAAAA
 						</data>
 						<key>Title</key>
-						<string>Busque pela obras ou pelo autor...</string>
-					</dict>
-					<dict>
-						<key>IsActive</key>
-						<false/>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>JustDisplay</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>SetClipboardToText</string>
-						<key>Text</key>
-						<string>%Variable%sspResult%</string>
+						<string>Info and thanks</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
@@ -15288,7 +15288,7 @@ sspResultButton: "%Variable%sspResultButton%"
 				AAXe///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
 				<key>ModificationDate</key>
-				<real>580930983.94026804</real>
+				<real>581715228.13461304</real>
 				<key>Name</key>
 				<string>1. TLG Online</string>
 				<key>Triggers</key>
