@@ -273,28 +273,15 @@
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC40AQAAKwAAAAEA
-						AAAsAQAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYxNjcx
-						XGNvY29hc3VicnRmNDAwCntcZm9u
-						dHRibFxmMFxmc3dpc3NcZmNoYXJz
-						ZXQwIEhlbHZldGljYTt9CntcY29s
-						b3J0Ymw7XHJlZDI1NVxncmVlbjI1
-						NVxibHVlMjU1O30Ke1wqXGV4cGFu
-						ZGVkY29sb3J0Ymw7O30KXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcZnMyNCBc
-						Y2YwIFRoYW5rcyB9AQAAACMAAAAB
-						AAAABwAAAFRYVC5ydGYQAAAAilrp
-						XLYBAAAAAAAAAAAAAA==
+						e1xydGYxXGFuc2lcYW5zaWNwZzEy
+						NTJcY29jb2FydGYxNjcxXGNvY29h
+						c3VicnRmNTAwCntcZm9udHRibH0K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7fQp9
 						</data>
 						<key>Title</key>
-						<string>Busque pela obras ou pelo autor...</string>
+						<string></string>
 					</dict>
 					<dict>
 						<key>IsActive</key>
@@ -3512,72 +3499,16 @@ sspResultButton: "%Variable%sspResultButton%"
 						<true/>
 					</dict>
 					<dict>
-						<key>Conditions</key>
-						<dict>
-							<key>ConditionList</key>
-							<array>
-								<dict>
-									<key>ConditionType</key>
-									<string>USBDevice</string>
-									<key>USBDeviceConditionName</key>
-									<string>HD </string>
-									<key>USBDeviceConditionSelectionType</key>
-									<string>Contains</string>
-									<key>USBDeviceConditionType</key>
-									<string>Exists</string>
-								</dict>
-							</array>
-							<key>ConditionListMatch</key>
-							<string>All</string>
-						</dict>
-						<key>ElseActions</key>
-						<array>
-							<dict>
-								<key>Application</key>
-								<dict>
-									<key>BundleIdentifier</key>
-									<string>org.mozilla.firefox</string>
-									<key>Name</key>
-									<string>Firefox</string>
-									<key>NewFile</key>
-									<string>/Applications/Firefox.app</string>
-								</dict>
-								<key>IsDefaultApplication</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>OpenURL</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>URL</key>
-								<string>file:///Users/bernardovasconcelos/Loeb%20Digital%20Library%20MMXVI/loebclassics%Variable%sspResult%.html</string>
-							</dict>
-						</array>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
-						<string>IfThenElse</string>
-						<key>ThenActions</key>
-						<array>
-							<dict>
-								<key>Application</key>
-								<dict>
-									<key>BundleIdentifier</key>
-									<string>org.mozilla.firefox</string>
-									<key>Name</key>
-									<string>Firefox</string>
-									<key>NewFile</key>
-									<string>/Applications/Firefox.app</string>
-								</dict>
-								<key>IsDefaultApplication</key>
-								<false/>
-								<key>MacroActionType</key>
-								<string>OpenURL</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>URL</key>
-								<string>file:///Volumes/Hd%20Externo/Loeb%20Digital%20Library%20MMXVI/loebclassics%Variable%sspResult%.html</string>
-							</dict>
-						</array>
+						<string>OpenURL</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
+						<key>URL</key>
+						<string>https://www.loebclassics.com%Variable%sspResult%</string>
 					</dict>
 					<dict>
 						<key>ActionColor</key>
@@ -4092,13 +4023,13 @@ sspResultButton: "%Variable%sspResultButton%"
 				///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
 				<key>ModificationDate</key>
-				<real>581290117.78822994</real>
+				<real>581714518.65812695</real>
 				<key>Name</key>
 				<string>2. LOEB</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
-				<string>C3C0F8CA-9047-4B27-B452-99D7BE33ECBE</string>
+				<string>2A5487AA-EE7C-4EBC-BBB0-8BCCFD6CC3F4</string>
 			</dict>
 		</array>
 		<key>Modifiers</key>
