@@ -2,9 +2,9 @@ Table of Contents
 =================
 
 * [Pandoc and MMD Conversion with prompt for Parameters](#PandocandMMDConversionwithpromptforParameters)
-* [Pandoc Macro 1.0 with selected files on Finder](#Pandoc Macro 1.0 with selected files on Finder)
-* [Multimarkdown Converter on Finder](#Multimarkdown Converter on Finder)
-* [Pandoc DT3 1.0 - For use in DEVONthink 3](#Pandoc DT3 1.0 - For use in DEVONthink 3)
+  * [Pandoc Macro 1.0 with selected files on Finder](#PandocMacro1.0withselectedfilesonFinder)
+  * [Multimarkdown Converter on Finder](#MultimarkdownConverteron inder)
+  * [Pandoc DT3 1.0 - For use in DEVONthink 3](#PandocDT31.0-ForuseinDEVONthink3)
 
 # Pandoc and MMD Conversion with prompt for Parameters
 
