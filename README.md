@@ -1,5 +1,5 @@
 # Keyboard Maestro (Macro Library)
 
-Some of these might be useful to some but they'll probably be too idiosyncratic for most.  
+* [Thesaurus Linguae Graecae (TLG) and LOEB Classical Library](https://github.com/bcdavasconcelos/mykmmlibrary/tree/master/Thesaurus%20Linguae%20Graecae%20(TLG)%20and%20LOEB%20Classical%20Library)
 
-Still, here they are.
+* [Pandoc and MMD](https://github.com/bcdavasconcelos/mykmmlibrary/tree/master/Pandoc%20and%20MMD)
