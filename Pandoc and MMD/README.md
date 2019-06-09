@@ -20,29 +20,40 @@ If you would like to contribute, please join the discussion at https://tinyurl.c
 ## Pandoc Macro with selected files on Finder
 
 Select a file and run the macro:
-
-<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/Pandoc1.png" alt="Prompt for Author or Work" width="70%" height="70%">
+  
+<p align="center">  
+<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/Pandoc1.png" alt="Prompt for Author or Work" class="center" width="70%" height="70%">
+</p>  
 
 ***
 
 ## Multimarkdown Converter on Finder
-
+<p align="center">  
 <img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/MMD1.png" alt="Prompt for Author or Work" width="70%" height="70%">
+</p>  
 
 ***
+
 ## Pandoc DT3 For use in DEVONthink 3
 
 **For this macro to work, YOU MUST correct the path for the temporary conversion file:**  
 
+<p align="center">  
 <img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/PandocDT3-3.png" alt="Prompt for Author or Work" width="70%" height="70%">
+ </p>  
+
 
 * Select entry and trigger macro. You'll see this prompt:  
 
-<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/PandocDT3-1.png" alt="Prompt for Author or Work" width="70%" height="70%">
+<p align="center">  
+<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/PandocDT3-1.png" alt="Prompt for Author or Work" width="70%" height="70%">  
+ </p>  
 
 * Some formats allow some customization:  
 
-<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/PandocDT3-2.png" alt="Prompt for Author or Work" width="70%" height="70%">
-
+<p align="center">  
+<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/PandocDT3-2.png" alt="Prompt for Author or Work" width="70%" height="70%">  
+</p>   
+ 
 * The resulting file will be imported into DT3.
 
