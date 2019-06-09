@@ -705,84 +705,7 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 								<key>StopOnFailure</key>
 								<false/>
 								<key>Text</key>
-								<string>use AppleScript version "2.4" -- Yosemite (10.10) or later
-use scripting additions
-
--- Convert Markdown documents to Pandoc PDFs (using XeTeX)
--- Created by Christian Grunenberg on Mon Dec 01 2008.
--- Copyright (c) 2008-2011. All rights reserved.
--- Slightly changed by Silverstone on March 18 2019
-
--- Adapted by Bernardo CDA Vasconcelos (2019-06-07) into:
--- Convert MD, PDF and DOCX with Pandoc in DT3 using Keyboard Maestro to set parameters. 
-
-
-
-tell application "Keyboard Maestro Engine"
-	
-	set theSourceExtension to getvariable "theSource"
-	set theExtension to getvariable "theOutput"
-	set theSettings to getvariable "theVariables"
-	
-end tell
-
-tell application id "DNtp"
-	try
-		set theSelection to the selection
-		if theSelection is not {} then
-			show progress indicator "Converting..." steps (count of theSelection)
-			repeat with theRecord in theSelection
-				set theName to (name of theRecord) as string
-				step progress indicator theName
-				if cancelled progress then exit repeat
-				
-				set theType to type of theRecord
-				if theType is not group and theType is not feed and theType is not smart group then
-					set Path_to_File to path of theRecord
-					
-					-- Temporary folder (Some folder that already exists!)
-					-- Don't forget to modify the PATH!
-					set theOutput to "/Users/bernardovasconcelos/Documents/" &amp; theName &amp; theExtension
-					
-					-- theOutput é uma variável
-					-- " &amp; theOutput &amp; "
-					-- mas precisa estar entre aspas:
-					-- \"" &amp; theOutput &amp; "\"
-					
-					-- Minhas configurações são uma variável, logo precisam aparecer entre aspas:
-					-- " &amp; theSettings &amp; "
-					
-					-- \"" &amp; Path_to_File &amp; "\" →  Variável entre aspas que precisa aparecer no comando também entre aspas
-					
-					-- -s -o apenas texto que já está dentro do comando
-					
-					-- Optional commands
-					do shell script "export PATH=/Library/TeX/texbin:$PATH &amp;&amp; /usr/local/bin/pandoc -s " &amp; theSourceExtension &amp; " \"" &amp; Path_to_File &amp; "\" -o\"" &amp; theOutput &amp; "\" " &amp; theSettings &amp; ""
-					
-					try
-						set theParents to parents of theRecord
-						set theFile to import theOutput to (item 1 of theParents) name theName
-						
-						repeat with i from 2 to (count of theParents)
-							replicate record theFile to (item i of theParents)
-						end repeat
-						
-						set URL of theFile to URL of theRecord
-						set creation date of theFile to creation date of theRecord
-						set modification date of theFile to modification date of theRecord
-						set comment of theFile to comment of theRecord
-						set label of theFile to label of theRecord
-					end try
-					tell application "Finder" to delete theOutput as POSIX file
-				end if
-			end repeat
-			hide progress indicator
-		end if
-	on error error_message number error_number
-		hide progress indicator
-		if the error_number is not -128 then display alert "DEVONthink Pro" message error_message as warning
-	end try
-end tell</string>
+								<string>use AppleScript version "2.4" -- Yosemite (10.10) or lateruse scripting additions-- Convert Markdown documents to Pandoc PDFs (using XeTeX)-- Created by Christian Grunenberg on Mon Dec 01 2008.-- Copyright (c) 2008-2011. All rights reserved.-- Slightly changed by Silverstone on March 18 2019-- Adapted by Bernardo CDA Vasconcelos (2019-06-07) into:-- Convert MD, PDF and DOCX with Pandoc in DT3 using Keyboard Maestro to set parameters. tell application "Keyboard Maestro Engine"		set theSourceExtension to getvariable "theSource"	set theExtension to getvariable "theOutput"	set theSettings to getvariable "theVariables"	end telltell application id "DNtp"	try		set theSelection to the selection		if theSelection is not {} then			show progress indicator "Converting..." steps (count of theSelection)			repeat with theRecord in theSelection				set theName to (name of theRecord) as string				step progress indicator theName				if cancelled progress then exit repeat								set theType to type of theRecord				if theType is not group and theType is not feed and theType is not smart group then					set Path_to_File to path of theRecord										-- Temporary folder (Some folder that already exists!)					-- Don't forget to modify the PATH!					set theOutput to "/Users/USERNAME/Documents/" &amp; theName &amp; theExtension															-- Optional commands					do shell script "export PATH=/Library/TeX/texbin:$PATH &amp;&amp; /usr/local/bin/pandoc -s " &amp; theSourceExtension &amp; " \"" &amp; Path_to_File &amp; "\" -o\"" &amp; theOutput &amp; "\" " &amp; theSettings &amp; ""										try						set theParents to parents of theRecord						set theFile to import theOutput to (item 1 of theParents) name theName												repeat with i from 2 to (count of theParents)							replicate record theFile to (item i of theParents)						end repeat												set URL of theFile to URL of theRecord						set creation date of theFile to creation date of theRecord						set modification date of theFile to modification date of theRecord						set comment of theFile to comment of theRecord						set label of theFile to label of theRecord					end try					tell application "Finder" to delete theOutput as POSIX file				end if			end repeat			hide progress indicator		end if	on error error_message number error_number		hide progress indicator		if the error_number is not -128 then display alert "DEVONthink Pro" message error_message as warning	end tryend tell</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
 								<key>TrimResults</key>
@@ -1224,7 +1147,7 @@ end tell</string>
 				//2jAAAD3AAAwGw=
 				</data>
 				<key>ModificationDate</key>
-				<real>581733236.31978905</real>
+				<real>581735522.076666</real>
 				<key>Name</key>
 				<string>10)Pandoc 1.0 DT3</string>
 				<key>Triggers</key>
