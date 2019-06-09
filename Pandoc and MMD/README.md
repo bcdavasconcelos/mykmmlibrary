@@ -4,7 +4,7 @@ Table of Contents
 * [Pandoc and MMD Conversion with prompt for Parameters](#Pandoc-and-MMD-Conversion-with-prompt-for-Parameters)
   * [Pandoc Macro 1.0 with selected files on Finder](#Pandoc-Macro-1.0-with-selected-files-on-Finder)
   * [Multimarkdown Converter on Finder](#Multimarkdown-Converter-on-Finder)
-  * [Pandoc DT3 1.0 - For use in DEVONthink 3](#Pandoc-DT3-1.0---For-use-in-DEVONthink-3)
+  * [Pandoc DT3 1.0 For use in DEVONthink 3](#Pandoc-DT3-1.0-For-use-in-DEVONthink-3)
 
 # Pandoc and MMD Conversion with prompt for Parameters
 
@@ -30,7 +30,7 @@ Select a file and run the macro:
 <img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/MMD1.png" alt="Prompt for Author or Work" width="70%" height="70%">
 
 ***
-## Pandoc DT3 1.0 - For use in DEVONthink 3
+## Pandoc DT3 1.0 For use in DEVONthink 3
 
 **For this macro to work, YOU MUST correct the path for the temporary conversion file:**  
 
