@@ -9,3 +9,12 @@ The TLG Macro also relied on Regex Macros shared on the Keyboard Maestro Forum b
 
 # Screenshots
 
+* First, trigger the macro with the choosen shortcut.
+
+* You'll see a prompt for authors and works. Enter search term, then using the arrows, select one and press return.
+<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/TLG2.png" alt="Prompt for Author or Work" width="70%" height="70%">
+
+  
+  
+* You'll be taken directly to the text on TLG Online.
+<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/TLG3.png" alt="Prompt for Author or Work" width="70%" height="70%">
