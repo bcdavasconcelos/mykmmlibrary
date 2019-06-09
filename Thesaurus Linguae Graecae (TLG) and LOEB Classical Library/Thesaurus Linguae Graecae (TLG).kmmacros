@@ -274,8 +274,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC44AgAAKwAAAAEA
-						AAAwAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC5xAgAAKwAAAAEA
+						AABpAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmc3dpc3NcZmNoYXJz
@@ -301,9 +301,12 @@
 						JzkzU3BvdGxpZ2h0IFNlYXJjaCBQ
 						cm9tcHRcJzk0IGFuZCBKTWljaGFl
 						bFRYIGZvciBSZWdleCBtYWNyb3Mg
-						c2hhcmVkIG9uIEtNIEZvcnVtLn0B
-						AAAAIwAAAAEAAAAHAAAAVFhULnJ0
-						ZhAAAACLDfxctgEAAAAAAAAAAAAA
+						c2hhcmVkIG9uIEtNIEZvcnVtLlwK
+						U291cmNlOiBodHRwczovL2dpdGh1
+						Yi5jb20vYmNkYXZhc2NvbmNlbG9z
+						L215a21tbGlicmFyeX0BAAAAIwAA
+						AAEAAAAHAAAAVFhULnJ0ZhAAAABU
+						U/xctgEAAAAAAAAAAAAA
 						</data>
 						<key>Title</key>
 						<string>Info and thanks</string>
@@ -15261,7 +15264,7 @@ customPromptWidth: 500</string>
 				AAXe///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
 				<key>ModificationDate</key>
-				<real>581716167.25948906</real>
+				<real>581733075.57551003</real>
 				<key>Name</key>
 				<string>1. TLG Online</string>
 				<key>Triggers</key>

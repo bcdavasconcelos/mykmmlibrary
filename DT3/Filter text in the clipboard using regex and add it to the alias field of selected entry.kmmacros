@@ -30,8 +30,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7BAwAAKwAAAAEA
-						AAC5AwAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7EBAAAKwAAAAEA
+						AAC8BAAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
@@ -76,9 +76,22 @@
 						bW1hLXNlcGFyYXRlZCBzdHJpbmcu
 						XApBZGQgdGhpcyBzdHJpbmcgdG8g
 						dGhlIHNlbGVjdGVkIERUMyBlbnRy
-						eS5cCgpcZnMyOCBcCn0BAAAAIwAA
-						AAEAAAAHAAAAVFhULnJ0ZhAAAABL
-						KvxctgEAAAAAAAAAAAAA
+						eS5cClwKRm9yIG1vcmUgaW5mb3Jt
+						YXRpb24sIHNlZSB0aGlzIHRocmVh
+						ZDogaHR0cHM6Ly90aW55dXJsLmNv
+						bS95MjUzd2NxcFwKClxmczI4IFwK
+						XHBhcmRcdHg1NjBcdHgxMTIwXHR4
+						MTY4MFx0eDIyNDBcdHgyODAwXHR4
+						MzM2MFx0eDM5MjBcdHg0NDgwXHR4
+						NTA0MFx0eDU2MDBcdHg2MTYwXHR4
+						NjcyMFxwYXJkaXJuYXR1cmFsXHBh
+						cnRpZ2h0ZW5mYWN0b3IwCgpcZnMy
+						NiBcY2YyIFNvdXJjZTogaHR0cHM6
+						Ly9naXRodWIuY29tL2JjZGF2YXNj
+						b25jZWxvcy9teWttbWxpYnJhcnl9
+						AQAAACMAAAABAAAABwAAAFRYVC5y
+						dGYQAAAAoVL8XLYBAAAAAAAAAAAA
+						AA==
 						</data>
 						<key>Title</key>
 						<string>How I use this macro</string>
@@ -872,7 +885,7 @@
 				Bd7///MmAAAHkgAA/ZH///ui///9owAAA9wAAMBs
 				</data>
 				<key>ModificationDate</key>
-				<real>581723716.57561004</real>
+				<real>581732896.06895602</real>
 				<key>Name</key>
 				<string>Gather declensions and add as aliases to selected entry in DT3</string>
 				<key>Triggers</key>

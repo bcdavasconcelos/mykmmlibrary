@@ -274,8 +274,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC4IAgAAKwAAAAEA
-						AAAAAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC4KAgAAKwAAAAEA
+						AAACAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmc3dpc3NcZmNoYXJz
@@ -299,9 +299,9 @@
 						ZWltIGZvciB0aGUgZGF0YSBpbiBK
 						U09OIGFuZCBEYW4gVGhvbWFzIGZv
 						ciBcJzkzU3BvdGxpZ2h0IFNlYXJj
-						aCBQcm9tcHRcJzk0Ln0BAAAAIwAA
-						AAEAAAAHAAAAVFhULnJ0ZhAAAADm
-						DfxctgEAAAAAAAAAAAAA
+						aCBQcm9tcHRcJzk0LlwKfQEAAAAj
+						AAAAAQAAAAcAAABUWFQucnRmEAAA
+						AGFT/Fy2AQAAAAAAAAAAAAA=
 						</data>
 						<key>Title</key>
 						<string></string>
@@ -4007,7 +4007,7 @@ customPromptWidth: 700</string>
 				///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
 				<key>ModificationDate</key>
-				<real>581716148.97777104</real>
+				<real>581733088.75771296</real>
 				<key>Name</key>
 				<string>2. LOEB</string>
 				<key>Triggers</key>

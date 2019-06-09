@@ -25,18 +25,44 @@
 						<string>Green</string>
 						<key>ActionName</key>
 						<string>This macro adds the selected text of the selected entry as an alias to the same selected entry</string>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
-						e1xydGYxXGFuc2lcYW5zaWNwZzEy
-						NTJcY29jb2FydGYxNjcxXGNvY29h
-						c3VicnRmNTAwCntcZm9udHRibH0K
-						e1xjb2xvcnRibDtccmVkMjU1XGdy
-						ZWVuMjU1XGJsdWUyNTU7fQp7XCpc
-						ZXhwYW5kZWRjb2xvcnRibDs7fQp9
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC5kAgAAKwAAAAEA
+						AABcAgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYxNjcx
+						XGNvY29hc3VicnRmNTAwCntcZm9u
+						dHRibFxmMFxmbmlsXGZjaGFyc2V0
+						MCBIZWx2ZXRpY2FOZXVlO30Ke1xj
+						b2xvcnRibDtccmVkMjU1XGdyZWVu
+						MjU1XGJsdWUyNTU7XHJlZDBcZ3Jl
+						ZW4wXGJsdWUwO30Ke1wqXGV4cGFu
+						ZGVkY29sb3J0Ymw7O1xjc3NyZ2Jc
+						YzBcYzBcYzBcY25hbWUgdGV4dENv
+						bG9yO30KXHBhcmRcdHg1NjBcdHgx
+						MTIwXHR4MTY4MFx0eDIyNDBcdHgy
+						ODAwXHR4MzM2MFx0eDM5MjBcdHg0
+						NDgwXHR4NTA0MFx0eDU2MDBcdHg2
+						MTYwXHR4NjcyMFxwYXJkaXJuYXR1
+						cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
+						CgpcZjBcZnMyOCBcY2YyIEZvciBt
+						b3JlIGluZm9ybWF0aW9uLCBzZWUg
+						dGhpcyB0aHJlYWQ6IGh0dHBzOi8v
+						dGlueXVybC5jb20veXhrZ29yeWhc
+						ClxwYXJkXHR4NTYwXHR4MTEyMFx0
+						eDE2ODBcdHgyMjQwXHR4MjgwMFx0
+						eDMzNjBcdHgzOTIwXHR4NDQ4MFx0
+						eDUwNDBcdHg1NjAwXHR4NjE2MFx0
+						eDY3MjBccGFyZGlybmF0dXJhbFxw
+						YXJ0aWdodGVuZmFjdG9yMAoKXGZz
+						MjYgXGNmMiBTb3VyY2U6IGh0dHBz
+						Oi8vZ2l0aHViLmNvbS9iY2RhdmFz
+						Y29uY2Vsb3MvbXlrbW1saWJyYXJ5
+						fQEAAAAjAAAAAQAAAAcAAABUWFQu
+						cnRmEAAAANVS/Fy2AQAAAAAAAAAA
+						AAA=
 						</data>
 						<key>Title</key>
 						<string></string>
@@ -157,7 +183,7 @@
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:128,0,64,255=A=110=0=0=0=KMCOLOR:211,211,211,255</string>
 				<key>ModificationDate</key>
-				<real>581721248.290694</real>
+				<real>581732948.16169095</real>
 				<key>Name</key>
 				<string>04)Add as alias</string>
 				<key>Triggers</key>

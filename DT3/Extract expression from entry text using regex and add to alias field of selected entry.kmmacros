@@ -30,8 +30,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7OAgAAKwAAAAEA
-						AADGAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7PAwAAKwAAAAEA
+						AADHAwAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
@@ -65,9 +65,21 @@
 						IHN0cmluZyB0byB0aGUgYWxpYXMg
 						ZmllbGQgb2YgdGhlIHNlbGVjdGVk
 						IERUMyBlbnRyeS5cCgpcZnMyOCBc
-						Cn0BAAAAIwAAAAEAAAAHAAAAVFhU
-						LnJ0ZhAAAADTLPxctgEAAAAAAAAA
-						AAAA
+						CkZvciBtb3JlIGluZm9ybWF0aW9u
+						LCBzZWUgdGhpcyB0aHJlYWQ6IGh0
+						dHBzOi8vdGlueXVybC5jb20veXhr
+						Z29yeWhcClxwYXJkXHR4NTYwXHR4
+						MTEyMFx0eDE2ODBcdHgyMjQwXHR4
+						MjgwMFx0eDMzNjBcdHgzOTIwXHR4
+						NDQ4MFx0eDUwNDBcdHg1NjAwXHR4
+						NjE2MFx0eDY3MjBccGFyZGlybmF0
+						dXJhbFxwYXJ0aWdodGVuZmFjdG9y
+						MAoKXGZzMjYgXGNmMiBTb3VyY2U6
+						IGh0dHBzOi8vZ2l0aHViLmNvbS9i
+						Y2RhdmFzY29uY2Vsb3MvbXlrbW1s
+						aWJyYXJ5fQEAAAAjAAAAAQAAAAcA
+						AABUWFQucnRmEAAAAJpS/Fy2AQAA
+						AAAAAAAAAAA=
 						</data>
 						<key>Title</key>
 						<string>How I use this macro</string>
@@ -628,7 +640,7 @@
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:128,64,3,255=B=110=0=0=0=KMCOLOR:211,211,211,255</string>
 				<key>ModificationDate</key>
-				<real>581723454.37721097</real>
+				<real>581732889.49925494</real>
 				<key>Name</key>
 				<string>05)Extrair numeração Bekker</string>
 				<key>Triggers</key>

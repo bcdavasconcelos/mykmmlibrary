@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>ActiveAndOnceWithPalette</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>576951631.31305504</real>
+		<key>CustomIconData</key>
+		<data>
+		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
+		bGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		AAAAAAAAAG1sdWMAAAAAAAAAHwAAAAxza1NLAAAAKAAAAYRkYURLAAAALgAA
+		AaxjYUVTAAAAJAAAAdp2aVZOAAAAJAAAAf5wdEJSAAAAJgAAAiJ1a1VBAAAA
+		KgAAAkhmckZVAAAAKAAAAnJodUhVAAAAKAAAApp6aFRXAAAAFgAAAsJuYk5P
+		AAAAJgAAAthjc0NaAAAAIgAAAv5oZUlMAAAAHgAAAyBpdElUAAAAKAAAAz5y
+		b1JPAAAAJAAAA2ZkZURFAAAALAAAA4prb0tSAAAAFgAAA7ZzdlNFAAAAJgAA
+		Ath6aENOAAAAFgAAA8xqYUpQAAAAGgAAA+JlbEdSAAAAIgAAA/xwdFBPAAAA
+		JgAABB5ubE5MAAAAKAAABERlc0VTAAAAJgAABB50aFRIAAAAJAAABGx0clRS
+		AAAAIgAABJBmaUZJAAAAKAAABLJockhSAAAAKAAABNpwbFBMAAAALAAABQJy
+		dVJVAAAAIgAABS5hckVHAAAAJgAABVBlblVTAAAAJgAABXYAVgFhAGUAbwBi
+		AGUAYwBuAP0AIABSAEcAQgAgAHAAcgBvAGYAaQBsAEcAZQBuAGUAcgBlAGwA
+		IABSAEcAQgAtAGIAZQBzAGsAcgBpAHYAZQBsAHMAZQBQAGUAcgBmAGkAbAAg
+		AFIARwBCACAAZwBlAG4A6AByAGkAYwBDHqUAdQAgAGgA7ABuAGgAIABSAEcA
+		QgAgAEMAaAB1AG4AZwBQAGUAcgBmAGkAbAAgAFIARwBCACAARwBlAG4A6QBy
+		AGkAYwBvBBcEMAQzBDAEOwRMBD0EOAQ5ACAEPwRABD4ERAQwBDkEOwAgAFIA
+		RwBCAFAAcgBvAGYAaQBsACAAZwDpAG4A6QByAGkAcQB1AGUAIABSAFYAQgDB
+		AGwAdABhAGwA4QBuAG8AcwAgAFIARwBCACAAcAByAG8AZgBpAGyQGnUoACAA
+		UgBHAEIAIIJyX2ljz4/wAEcAZQBuAGUAcgBpAHMAawAgAFIARwBCAC0AcABy
+		AG8AZgBpAGwATwBiAGUAYwBuAP0AIABSAEcAQgAgAHAAcgBvAGYAaQBsBeQF
+		6AXVBeQF2QXcACAAUgBHAEIAIAXbBdwF3AXZAFAAcgBvAGYAaQBsAG8AIABS
+		AEcAQgAgAGcAZQBuAGUAcgBpAGMAbwBQAHIAbwBmAGkAbAAgAFIARwBCACAA
+		ZwBlAG4AZQByAGkAYwBBAGwAbABnAGUAbQBlAGkAbgBlAHMAIABSAEcAQgAt
+		AFAAcgBvAGYAaQBsx3y8GAAgAFIARwBCACDVBLhc0wzHfGZukBoAIABSAEcA
+		QgAgY8+P8GWHTvZOAIIsACAAUgBHAEIAIDDXMO0w1TChMKQw6wOTA7UDvQO5
+		A7oDzAAgA8ADwQO/A8YDrwO7ACAAUgBHAEIAUABlAHIAZgBpAGwAIABSAEcA
+		QgAgAGcAZQBuAOkAcgBpAGMAbwBBAGwAZwBlAG0AZQBlAG4AIABSAEcAQgAt
+		AHAAcgBvAGYAaQBlAGwOQg4bDiMORA4fDiUOTAAgAFIARwBCACAOFw4xDkgO
+		Jw5EDhsARwBlAG4AZQBsACAAUgBHAEIAIABQAHIAbwBmAGkAbABpAFkAbABl
+		AGkAbgBlAG4AIABSAEcAQgAtAHAAcgBvAGYAaQBpAGwAaQBHAGUAbgBlAHIA
+		aQENAGsAaQAgAFIARwBCACAAcAByAG8AZgBpAGwAVQBuAGkAdwBlAHIAcwBh
+		AGwAbgB5ACAAcAByAG8AZgBpAGwAIABSAEcAQgQeBDEESQQ4BDkAIAQ/BEAE
+		PgREBDgEOwRMACAAUgBHAEIGRQZEBkEAIAYqBjkGMQZKBkEAIABSAEcAQgAg
+		BicGRAY5BicGRQBHAGUAbgBlAHIAaQBjACAAUgBHAEIAIABQAHIAbwBmAGkA
+		bABldGV4dAAAAABDb3B5cmlnaHQgMjAwNyBBcHBsZSBJbmMuLCBhbGwgcmln
+		aHRzIHJlc2VydmVkLgBYWVogAAAAAAAA81IAAQAAAAEWz1hZWiAAAAAAAAB0
+		TQAAPe4AAAPQWFlaIAAAAAAAAFp1AACscwAAFzRYWVogAAAAAAAAKBoAABWf
+		AAC4NmN1cnYAAAAAAAAAAQHNAABzZjMyAAAAAAABDEIAAAXe///zJgAAB5IA
+		AP2R///7ov///aMAAAPcAADAbIAAIFA4JBYNB4RCYVC4ZDYdD4hEYlE4pFYt
+		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
+		AAAAAAAAAB8AAAAMc2tTSwAAACgAAAGEZGFESwAAAC4AAAGsY2FFUwAAACQA
+		AAHadmlWTgAAACQAAAH+cHRCUgAAACYAAAIidWtVQQAAACoAAAJIZnJGVQAA
+		ACgAAAJyaHVIVQAAACgAAAKaemhUVwAAABYAAALCbmJOTwAAACYAAALYY3ND
+		WgAAACIAAAL+aGVJTAAAAB4AAAMgaXRJVAAAACgAAAM+cm9STwAAACQAAANm
+		ZGVERQAAACwAAAOKa29LUgAAABYAAAO2c3ZTRQAAACYAAALYemhDTgAAABYA
+		AAPMamFKUAAAABoAAAPiZWxHUgAAACIAAAP8cHRQTwAAACYAAAQebmxOTAAA
+		ACgAAAREZXNFUwAAACYAAAQedGhUSAAAACQAAARsdHJUUgAAACIAAASQZmlG
+		SQAAACgAAASyaHJIUgAAACgAAATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUu
+		YXJFRwAAACYAAAVQZW5VUwAAACYAAAV2AFYBYQBlAG8AYgBlAGMAbgD9ACAA
+		UgBHAEIAIABwAHIAbwBmAGkAbABHAGUAbgBlAHIAZQBsACAAUgBHAEIALQBi
+		AGUAcwBrAHIAaQB2AGUAbABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcA
+		ZQBuAOgAcgBpAGMAQx6lAHUAIABoAOwAbgBoACAAUgBHAEIAIABDAGgAdQBu
+		AGcAUABlAHIAZgBpAGwAIABSAEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAE
+		MwQwBDsETAQ9BDgEOQAgBD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIAbwBm
+		AGkAbAAgAGcA6QBuAOkAcgBpAHEAdQBlACAAUgBWAEIAwQBsAHQAYQBsAOEA
+		bgBvAHMAIABSAEcAQgAgAHAAcgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9p
+		Y8+P8ABHAGUAbgBlAHIAaQBzAGsAIABSAEcAQgAtAHAAcgBvAGYAaQBsAE8A
+		YgBlAGMAbgD9ACAAUgBHAEIAIABwAHIAbwBmAGkAbAXkBegF1QXkBdkF3AAg
+		AFIARwBCACAF2wXcBdwF2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUA
+		bgBlAHIAaQBjAG8AUAByAG8AZgBpAGwAIABSAEcAQgAgAGcAZQBuAGUAcgBp
+		AGMAQQBsAGwAZwBlAG0AZQBpAG4AZQBzACAAUgBHAEIALQBQAHIAbwBmAGkA
+		bMd8vBgAIABSAEcAQgAg1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072
+		TgCCLAAgAFIARwBCACAw1zDtMNUwoTCkMOsDkwO1A70DuQO6A8wAIAPAA8ED
+		vwPGA68DuwAgAFIARwBCAFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUAbgDp
+		AHIAaQBjAG8AQQBsAGcAZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkA
+		ZQBsDkIOGw4jDkQOHw4lDkwAIABSAEcAQgAgDhcOMQ5IDicORA4bAEcAZQBu
+		AGUAbAAgAFIARwBCACAAUAByAG8AZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAA
+		UgBHAEIALQBwAHIAbwBmAGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkAIABS
+		AEcAQgAgAHAAcgBvAGYAaQBsAFUAbgBpAHcAZQByAHMAYQBsAG4AeQAgAHAA
+		cgBvAGYAaQBsACAAUgBHAEIEHgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAg
+		AFIARwBCBkUGRAZBACAGKgY5BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYnBkUA
+		RwBlAG4AZQByAGkAYwAgAFIARwBCACAAUAByAG8AZgBpAGwAZXRleHQAAAAA
+		Q29weXJpZ2h0IDIwMDcgQXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZl
+		ZC4AWFlaIAAAAAAAAPNSAAEAAAABFs9YWVogAAAAAAAAdE0AAD3uAAAD0FhZ
+		WiAAAAAAAABadQAArHMAABc0WFlaIAAAAAAAACgaAAAVnwAAuDZjdXJ2AAAA
+		AAAAAAEBzQAAc2YzMgAAAAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L///2j
+		AAAD3AAAwGyAACBQOCQWDQeEQmFQuDAoDAsLBAEhAQP+LQoAwKMxmGQR4Ph4
+		N97Pl6uuGFMnnBUD01HQrvt+P+CxmZPd7PsAPKbgAAgMCRqDAQBgYANRRo1U
+		LJapEsyeUqeWHQsTCZQKZT0BgB+hkMgB1O99AABudzQJ+v6gAChUSjUilUyG
+		Q4FhWJBAQgEAgICXieigRDMnEdJqY6O55WFlHovo1rt1lKq0wN4PeQvZ9SWO
+		wcHAoIh4FggGBcMhcQjAtJ5dJrDThcHAmmpnNdgJfM7WDhAFhMRAoD3MNBkR
+		DIsahLO542FdHAnG5mNZfJPbdGB7jdbzfBsSDIrIVRpZ4AEEABdHcq8zndDp
+		dHqbvehUNBwSjIqHJIJZ5A4KeI+lzmNVevQ9LavW6z3A2+IrEATrvAKBbxDy
+		LD+v/ALbQG9oNA6Ez5DQQ77AqrpdD+L8IwBCaGQq30MPkNREvsCYMPEP4vRH
+		ErMxOCoNg8E4aCoNpGEoeMXAAXY+C2OBlmoXhIxojoIgYCgSgYBAGguCAIAs
+		D4rjsTBSHsf4BAAWZFjOMBpm4ZBQyWhihAIBABAEAYCn8fp+n2CkphWmgAHW
+		eh1msfk6HvNNBUGgyAgAEQEAAAMAAAABABAAAAEBAAMAAAABABAAAAECAAMA
+		AAAEAAAdAAEDAAMAAAABAAUAAAEGAAMAAAABAAIAAAEKAAMAAAABAAEAAAER
+		AAQAAAABAAAaZgESAAMAAAABAAEAAAEVAAMAAAABAAQAAAEWAAMAAAABABAA
+		AAEXAAQAAAABAAAByAEcAAMAAAABAAEAAAEoAAMAAAABAAIAAAE9AAMAAAAB
+		AAIAAAFSAAMAAAABAAEAAAFTAAMAAAAEAAAdCIdzAAcAAAfYAAAdEAAAAAAA
+		CAAIAAgACAABAAEAAQABAAAH2GFwcGwCIAAAbW50clJHQiBYWVogB9kAAgAZ
+		AAsAGgALYWNzcEFQUEwAAAAAYXBwbAAAAAAAAAAAAAAAAAAAAAAAAPbWAAEA
+		AAAA0y1hcHBsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		AAAAAAAAAAAAAAALZGVzYwAAAQgAAABvZHNjbQAAAXgAAAWcY3BydAAABxQA
+		AAA4d3RwdAAAB0wAAAAUclhZWgAAB2AAAAAUZ1hZWgAAB3QAAAAUYlhZWgAA
+		B4gAAAAUclRSQwAAB5wAAAAOY2hhZAAAB6wAAAAsYlRSQwAAB5wAAAAOZ1RS
+		QwAAB5wAAAAOZGVzYwAAAAAAAAAUR2VuZXJpYyBSR0IgUHJvZmlsZQAAAAAA
+		AAAAAAAAFEdlbmVyaWMgUkdCIFByb2ZpbGUAAAAAAAAAAAAAAAAAAAAAAAAA
+		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG1sdWMAAAAAAAAAHwAA
+		AAxza1NLAAAAKAAAAYRkYURLAAAALgAAAaxjYUVTAAAAJAAAAdp2aVZOAAAA
+		JAAAAf5wdEJSAAAAJgAAAiJ1a1VBAAAAKgAAAkhmckZVAAAAKAAAAnJodUhV
+		AAAAKAAAApp6aFRXAAAAFgAAAsJuYk5PAAAAJgAAAthjc0NaAAAAIgAAAv5o
+		ZUlMAAAAHgAAAyBpdElUAAAAKAAAAz5yb1JPAAAAJAAAA2ZkZURFAAAALAAA
+		A4prb0tSAAAAFgAAA7ZzdlNFAAAAJgAAAth6aENOAAAAFgAAA8xqYUpQAAAA
+		GgAAA+JlbEdSAAAAIgAAA/xwdFBPAAAAJgAABB5ubE5MAAAAKAAABERlc0VT
+		AAAAJgAABB50aFRIAAAAJAAABGx0clRSAAAAIgAABJBmaUZJAAAAKAAABLJo
+		ckhSAAAAKAAABNpwbFBMAAAALAAABQJydVJVAAAAIgAABS5hckVHAAAAJgAA
+		BVBlblVTAAAAJgAABXYAVgFhAGUAbwBiAGUAYwBuAP0AIABSAEcAQgAgAHAA
+		cgBvAGYAaQBsAEcAZQBuAGUAcgBlAGwAIABSAEcAQgAtAGIAZQBzAGsAcgBp
+		AHYAZQBsAHMAZQBQAGUAcgBmAGkAbAAgAFIARwBCACAAZwBlAG4A6AByAGkA
+		YwBDHqUAdQAgAGgA7ABuAGgAIABSAEcAQgAgAEMAaAB1AG4AZwBQAGUAcgBm
+		AGkAbAAgAFIARwBCACAARwBlAG4A6QByAGkAYwBvBBcEMAQzBDAEOwRMBD0E
+		OAQ5ACAEPwRABD4ERAQwBDkEOwAgAFIARwBCAFAAcgBvAGYAaQBsACAAZwDp
+		AG4A6QByAGkAcQB1AGUAIABSAFYAQgDBAGwAdABhAGwA4QBuAG8AcwAgAFIA
+		RwBCACAAcAByAG8AZgBpAGyQGnUoACAAUgBHAEIAIIJyX2ljz4/wAEcAZQBu
+		AGUAcgBpAHMAawAgAFIARwBCAC0AcAByAG8AZgBpAGwATwBiAGUAYwBuAP0A
+		IABSAEcAQgAgAHAAcgBvAGYAaQBsBeQF6AXVBeQF2QXcACAAUgBHAEIAIAXb
+		BdwF3AXZAFAAcgBvAGYAaQBsAG8AIABSAEcAQgAgAGcAZQBuAGUAcgBpAGMA
+		bwBQAHIAbwBmAGkAbAAgAFIARwBCACAAZwBlAG4AZQByAGkAYwBBAGwAbABn
+		AGUAbQBlAGkAbgBlAHMAIABSAEcAQgAtAFAAcgBvAGYAaQBsx3y8GAAgAFIA
+		RwBCACDVBLhc0wzHfGZukBoAIABSAEcAQgAgY8+P8GWHTvZOAIIsACAAUgBH
+		AEIAIDDXMO0w1TChMKQw6wOTA7UDvQO5A7oDzAAgA8ADwQO/A8YDrwO7ACAA
+		UgBHAEIAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcAZQBuAOkAcgBpAGMAbwBB
+		AGwAZwBlAG0AZQBlAG4AIABSAEcAQgAtAHAAcgBvAGYAaQBlAGwOQg4bDiMO
+		RA4fDiUOTAAgAFIARwBCACAOFw4xDkgOJw5EDhsARwBlAG4AZQBsACAAUgBH
+		AEIAIABQAHIAbwBmAGkAbABpAFkAbABlAGkAbgBlAG4AIABSAEcAQgAtAHAA
+		cgBvAGYAaQBpAGwAaQBHAGUAbgBlAHIAaQENAGsAaQAgAFIARwBCACAAcABy
+		AG8AZgBpAGwAVQBuAGkAdwBlAHIAcwBhAGwAbgB5ACAAcAByAG8AZgBpAGwA
+		IABSAEcAQgQeBDEESQQ4BDkAIAQ/BEAEPgREBDgEOwRMACAAUgBHAEIGRQZE
+		BkEAIAYqBjkGMQZKBkEAIABSAEcAQgAgBicGRAY5BicGRQBHAGUAbgBlAHIA
+		aQBjACAAUgBHAEIAIABQAHIAbwBmAGkAbABldGV4dAAAAABDb3B5cmlnaHQg
+		MjAwNyBBcHBsZSBJbmMuLCBhbGwgcmlnaHRzIHJlc2VydmVkLgBYWVogAAAA
+		AAAA81IAAQAAAAEWz1hZWiAAAAAAAAB0TQAAPe4AAAPQWFlaIAAAAAAAAFp1
+		AACscwAAFzRYWVogAAAAAAAAKBoAABWfAAC4NmN1cnYAAAAAAAAAAQHNAABz
+		ZjMyAAAAAAABDEIAAAXe///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
+		</data>
+		<key>KeyCode</key>
+		<integer>121</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Red</string>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC4iAwAAKwAAAAEA
+						AAAaAwAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYxNjcx
+						XGNvY29hc3VicnRmNTAwCntcZm9u
+						dHRibFxmMFxmbmlsXGZjaGFyc2V0
+						MCBIZWx2ZXRpY2FOZXVlO30Ke1xj
+						b2xvcnRibDtccmVkMjU1XGdyZWVu
+						MjU1XGJsdWUyNTU7XHJlZDBcZ3Jl
+						ZW4wXGJsdWUwO30Ke1wqXGV4cGFu
+						ZGVkY29sb3J0Ymw7O1xjc3NyZ2Jc
+						YzBcYzBcYzBcY25hbWUgdGV4dENv
+						bG9yO30KXHBhcmRcdHg1NjBcdHgx
+						MTIwXHR4MTY4MFx0eDIyNDBcdHgy
+						ODAwXHR4MzM2MFx0eDM5MjBcdHg0
+						NDgwXHR4NTA0MFx0eDU2MDBcdHg2
+						MTYwXHR4NjcyMFxwYXJkaXJuYXR1
+						cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
+						CgpcZjBcZnMyNiBcY2YyIFNlbGVj
+						dCBhIGZpbGUgYW5kIHJ1biB0aGUg
+						bWFjcm8uXApUaGlzIG1hY3JvIGhh
+						cyBzZXZlcmFsIGRlcGVuZGVuY2ll
+						cywgc3VjaCBhcyBQQU5ET0MgYW5k
+						IExBVEVYLiBJZiB5b3UgZG9uXCc5
+						MnQgaGF2ZSB0aGVtIGluc3RhbGxl
+						ZCwgaXQgd29uXCc5MnQgd29yay5c
+						ClwKSWYgeW91IHdvdWxkIGxpa2Ug
+						dG8gYWRkIG90aGVyIHZhcmlhYmxl
+						cyBhbmQgZm9ybWF0cywgcGxlYXNl
+						IGRvIGEgcHVsbCByZXF1ZXN0IG9y
+						IGpvaW4gdGhlIGRpc2N1c3Npb24g
+						YXQgaHR0cHM6Ly90aW55dXJsLmNv
+						bS95Mnh2MmxjNSBvciBzZW5kIHNt
+						b2tlIHNpZ25zIDspXApcClRvIGRv
+						OlwKQWRkIGJpYmxpb2dyYXBoeSBz
+						dXBwb3J0XApBZGQgdGVtcGxhdGUg
+						b3B0aW9uc1wKXApTb3VyY2U6IGh0
+						dHBzOi8vZ2l0aHViLmNvbS9iY2Rh
+						dmFzY29uY2Vsb3MvbXlrbW1saWJy
+						YXJ5L3RyZWUvbWFzdGVyL1BhbmRv
+						Y30BAAAAIwAAAAEAAAAHAAAAVFhU
+						LnJ0ZhAAAAD1U/xctgEAAAAAAAAA
+						AAAA
+						</data>
+						<key>Title</key>
+						<string>Instructions</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>DT3 specific configurations (backup file before conversion)</string>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>Application</key>
+									<dict>
+										<key>BundleIdentifier</key>
+										<string>com.devon-technologies.think3</string>
+										<key>Name</key>
+										<string>DEVONthink 3</string>
+										<key>NewFile</key>
+										<string>/Applications/DEVONthink 3.app</string>
+									</dict>
+									<key>ApplicationConditionType</key>
+									<string>Running</string>
+									<key>ConditionType</key>
+									<string>Application</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array/>
+						<key>IsActive</key>
+						<false/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>AllWindows</key>
+								<true/>
+								<key>AlreadyActivatedActionType</key>
+								<string>Normal</string>
+								<key>Application</key>
+								<dict>
+									<key>BundleIdentifier</key>
+									<string>com.devon-technologies.think3</string>
+									<key>Name</key>
+									<string>DEVONthink 3</string>
+									<key>NewFile</key>
+									<string>/Applications/DEVONthink 3.app</string>
+								</dict>
+								<key>MacroActionType</key>
+								<string>ActivateApplication</string>
+								<key>ReopenWindows</key>
+								<false/>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>DisplayKind</key>
+								<string>None</string>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteAppleScript</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Path</key>
+								<string></string>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>Text</key>
+								<string>-- Create new version
+-- Created by Christian Grunenberg on Wed Feb 01 2006.
+-- Copyright (c) 2006. All rights reserved.
+
+tell application "DEVONthink 3"
+	try
+		set theSelection to the selection
+		repeat with theRecord in theSelection
+			if type of theRecord is not group then
+				set theLocation to location of theRecord
+				set theLocation to theLocation &amp; my replace_chars(name of theRecord, "/", "_") &amp; " Versions"
+				set theGroup to create location theLocation
+				set theDuplicate to duplicate record theRecord to theGroup
+				set name of theDuplicate to (modification date of theRecord) as string
+				set locking of theDuplicate to true
+			end if
+		end repeat
+	on error error_message number error_number
+		if the error_number is not -128 then
+			try
+				display alert "DEVONthink Pro" message error_message as warning
+			on error number error_number
+				if error_number is -1708 then display dialog error_message buttons {"OK"} default button 1
+			end try
+		end if
+	end try
+end tell
+
+on replace_chars(this_text, search_string, replacement_string)
+	local od
+	set {od, AppleScript's text item delimiters} to {AppleScript's text item delimiters, search_string}
+	set the item_list to every text item of this_text
+	set AppleScript's text item delimiters to replacement_string
+	set this_text to the item_list as string
+	set AppleScript's text item delimiters to od
+	return this_text
+end replace_chars</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ActionResultConditionType</key>
+											<string>IsOK</string>
+											<key>ActionResultText</key>
+											<string>OK</string>
+											<key>ConditionType</key>
+											<string>ActionResult</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>MacroActionType</key>
+								<string>PauseUntil</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SelectMenuItem</string>
+								<key>Menu</key>
+								<array>
+									<string>Data</string>
+									<string>Show in Finder</string>
+								</array>
+								<key>TargetApplication</key>
+								<dict>
+									<key>BundleIdentifier</key>
+									<string>com.devon-technologies.think3</string>
+									<key>Name</key>
+									<string>DEVONthink 3</string>
+									<key>NewFile</key>
+									<string>/Applications/DEVONthink 3.app</string>
+								</dict>
+								<key>TargetingType</key>
+								<string>Specific</string>
+							</dict>
+							<dict>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>Application</key>
+											<dict>
+												<key>BundleIdentifier</key>
+												<string>com.apple.finder</string>
+												<key>Name</key>
+												<string>Finder</string>
+												<key>NewFile</key>
+												<string>/System/Library/CoreServices/Finder.app</string>
+											</dict>
+											<key>ApplicationConditionType</key>
+											<string>Active</string>
+											<key>ConditionType</key>
+											<string>Application</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>MacroActionType</key>
+								<string>PauseUntil</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Setting up conversion options</string>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>Options for conversion</string>
+								<key>Buttons</key>
+								<array>
+									<dict>
+										<key>Button</key>
+										<string>OK</string>
+									</dict>
+									<dict>
+										<key>Button</key>
+										<string>Cancel</string>
+										<key>Cancel</key>
+										<true/>
+									</dict>
+								</array>
+								<key>MacroActionType</key>
+								<string>PromptForUserInput</string>
+								<key>Prompt</key>
+								<string>Only PDF, DOCX and Markdown formats are currently supported.</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>Title</key>
+								<string>Select desired output</string>
+								<key>Variables</key>
+								<array>
+									<dict>
+										<key>Default</key>
+										<string>.pdf|.docx|.md|.opml|.html|.rtf|.latex</string>
+										<key>Variable</key>
+										<string>theOutput</string>
+									</dict>
+									<dict>
+										<key>Default</key>
+										<string>markdown_mmd|docx|epub|gfm|html|json|latex|markdown|markdown_phpextra|odt|opml</string>
+										<key>Variable</key>
+										<string>Source</string>
+									</dict>
+								</array>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Variable%Template%</string>
+								<key>Variable</key>
+								<string>theVariables</string>
+							</dict>
+							<dict>
+								<key>ActionName</key>
+								<string>PDF Output</string>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>theOutput</string>
+											<key>VariableConditionType</key>
+											<string>Is</string>
+											<key>VariableValue</key>
+											<string>.pdf</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActionListDisclosed</key>
+								<false/>
+								<key>ElseActions</key>
+								<array/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionName</key>
+										<string>Options specific to the PDF output</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>ActionColor</key>
+												<string>Green</string>
+												<key>ActionName</key>
+												<string>Options for conversion</string>
+												<key>Buttons</key>
+												<array>
+													<dict>
+														<key>Button</key>
+														<string>OK</string>
+													</dict>
+													<dict>
+														<key>Button</key>
+														<string>Cancel</string>
+														<key>Cancel</key>
+														<true/>
+													</dict>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>PromptForUserInput</string>
+												<key>Prompt</key>
+												<string>Note to classicists: 
+Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, Cardo, Cousine, DejaVu, EB Garamond, Fira Mono, Gabriola, Gentium Plus, Iosevka, Linux Biolium O, Linux Libertine, Noto Serif, SBL Greek, Source Sans Pro, Ubuntu Mono and all fonts by the Greek Font Society. Most of them must be downloaded and installed.</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>Title</key>
+												<string>Convert to PDF</string>
+												<key>Variables</key>
+												<array>
+													<dict>
+														<key>Default</key>
+														<string> |--toc</string>
+														<key>Variable</key>
+														<string>TOC</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string> |--toc-depth=3|--toc-depth=4|--toc-depth=5|--toc-depth=6</string>
+														<key>Variable</key>
+														<string>TOC Depth</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>--pdf-engine=xelatex</string>
+														<key>Variable</key>
+														<string>Engine</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>Gentium Plus|Alegreya|Alverata Irregular|Avenir Next LT Pro|Cambria|Cardo|Cousine|DejaVu LGC Sans|DejaVu LGC Sans Mono|DejaVu LGC Serif|EB Garamond|Fira Mono|Gabriola|Gentium Plus|GFS Artemisia|GFS Didot|GFS Elpis|GFS Galatea|GFS Neohellenic|GFS Porson|Iosevka|Linux Biolium O|Linux Libertine O|Noto Mono|Noto Serif|SBL Greek Regular|Source Sans Pro|Ubuntu Mono</string>
+														<key>Variable</key>
+														<string>Main font</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string> |Source Sans Pro|Alegreya Sans|Alegreya Sans Light Regular|Arimo|DejaVu LGC Sans|Linux Biolium O|Microsoft Sans Serif|</string>
+														<key>Variable</key>
+														<string>Sans serif</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string> |DejaVu LGC Sans Mono|Cousine|Fira Mono|Inconsolata XL|Menlo|Monaco|Source Code Pro|Ubuntu Mono</string>
+														<key>Variable</key>
+														<string>Mono spaced</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>13pt|10pt|11pt|12pt|14pt|15pt</string>
+														<key>Variable</key>
+														<string>Font size</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>-V 'geometry: top=3cm, left=3cm, right=2cm, bottom=2cm'|</string>
+														<key>Variable</key>
+														<string>Layout</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>plain|headings|empty</string>
+														<key>Variable</key>
+														<string>Page Style</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>2.0|1.5|1.0|</string>
+														<key>Variable</key>
+														<string>Linestretch</string>
+													</dict>
+													<dict>
+														<key>Default</key>
+														<string>blue|darkblue|red|</string>
+														<key>Variable</key>
+														<string>Colorlinks</string>
+													</dict>
+												</array>
+											</dict>
+											<dict>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%Variable%Engine% %Variable%TOC% %Variable%TOC Depth% -V 'mainfont=%Variable%Main font%' -V 'sansfont=%Variable%Sans serif%' -V 'monofont=%Variable%Mono spaced%' -V 'fontsize=%Variable%Font size%' %Variable%Layout% -V 'linestretch:%Variable%Linestretch%' -V 'colorlinks:%Variable%colorlinks%' -V 'pagestyle:%Variable%Page style%'</string>
+												<key>Variable</key>
+												<string>theVariables</string>
+											</dict>
+										</array>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>-f %Variable%Source%</string>
+								<key>Variable</key>
+								<string>theSource</string>
+							</dict>
+							<dict>
+								<key>DisplayKind</key>
+								<string>None</string>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteAppleScript</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Path</key>
+								<string></string>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>Text</key>
+								<string>use AppleScript version "2.4" -- Yosemite (10.10) or later
+use scripting additions
+
+-- Convert Markdown documents to Pandoc PDFs (using XeTeX)
+-- Created by Christian Grunenberg on Mon Dec 01 2008.
+-- Copyright (c) 2008-2011. All rights reserved.
+-- Slightly changed by Silverstone on March 18 2019
+
+-- Adapted by Bernardo CDA Vasconcelos (2019-06-07) into:
+-- Convert MD, PDF and DOCX with Pandoc in DT3 using Keyboard Maestro to set parameters. 
+
+
+
+tell application "Keyboard Maestro Engine"
+	
+	set theSourceExtension to getvariable "theSource"
+	set theExtension to getvariable "theOutput"
+	set theSettings to getvariable "theVariables"
+	
+end tell
+
+tell application id "DNtp"
+	try
+		set theSelection to the selection
+		if theSelection is not {} then
+			show progress indicator "Converting..." steps (count of theSelection)
+			repeat with theRecord in theSelection
+				set theName to (name of theRecord) as string
+				step progress indicator theName
+				if cancelled progress then exit repeat
+				
+				set theType to type of theRecord
+				if theType is not group and theType is not feed and theType is not smart group then
+					set Path_to_File to path of theRecord
+					
+					-- Temporary folder (Some folder that already exists!)
+					-- Don't forget to modify the PATH!
+					set theOutput to "/Users/bernardovasconcelos/Documents/" &amp; theName &amp; theExtension
+					
+					-- theOutput é uma variável
+					-- " &amp; theOutput &amp; "
+					-- mas precisa estar entre aspas:
+					-- \"" &amp; theOutput &amp; "\"
+					
+					-- Minhas configurações são uma variável, logo precisam aparecer entre aspas:
+					-- " &amp; theSettings &amp; "
+					
+					-- \"" &amp; Path_to_File &amp; "\" →  Variável entre aspas que precisa aparecer no comando também entre aspas
+					
+					-- -s -o apenas texto que já está dentro do comando
+					
+					-- Optional commands
+					do shell script "export PATH=/Library/TeX/texbin:$PATH &amp;&amp; /usr/local/bin/pandoc -s " &amp; theSourceExtension &amp; " \"" &amp; Path_to_File &amp; "\" -o\"" &amp; theOutput &amp; "\" " &amp; theSettings &amp; ""
+					
+					try
+						set theParents to parents of theRecord
+						set theFile to import theOutput to (item 1 of theParents) name theName
+						
+						repeat with i from 2 to (count of theParents)
+							replicate record theFile to (item i of theParents)
+						end repeat
+						
+						set URL of theFile to URL of theRecord
+						set creation date of theFile to creation date of theRecord
+						set modification date of theFile to modification date of theRecord
+						set comment of theFile to comment of theRecord
+						set label of theFile to label of theRecord
+					end try
+					tell application "Finder" to delete theOutput as POSIX file
+				end if
+			end repeat
+			hide progress indicator
+		end if
+	on error error_message number error_number
+		hide progress indicator
+		if the error_number is not -128 then display alert "DEVONthink Pro" message error_message as warning
+	end try
+end tell</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>Group</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Clean up variables</string>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>theVariables</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Source</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>theOutput</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Colorlinks</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Linestretch</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Layout</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Engine</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Sans Serif</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Main font</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Mono spaced</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>TOC Depth</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>TOC Depth</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>""</string>
+								<key>Variable</key>
+								<string>Page style</string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Group</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>578559486.39733803</real>
+				<key>CustomIconData</key>
+				<data>
+				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
+				dWyt17L3ZvXdutM8K13frbPSkGBSS32vxgq/WDL+Xsv9
+				e7AF8MBXywJhYkmGLrEDmlOyamDr24QvfhK+OFL54mJF
+				ijBOKrsVJu0Ra7hBjeECN8Qo4BAjhEKOIQI42NiUHKIE
+				cwhRziBHQIUdIgR1LVRpMQYoy1izHT3IMZMgVtCjgAHo
+				QMYlEMmEDM+QI0JAlsGlABbE1K2yBmtzga8ABsSBGzyz
+				YMuI3iB5JAAPDNZBy/gAMCYKpV/bfktGyQPPgADOaHIK
+				rdaKsyx6NIwU0gRTy41YAAXrQuliC6J0WX0rhAivEeJg
+				QImRpCa11HKQMPhAx7amIIT8gRQSBZlsYSzMpSSBFL11
+				sfZGydlbL2Zs3Z2z9oF9ICAAABEBAAADAAAAAQBAAAAB
+				AQADAAAAAQBAAAABAgADAAAABAAACF4BAwADAAAAAQAF
+				AAABBgADAAAAAQACAAABCgADAAAAAQABAAABEQAEAAAA
+				AQAAAAgBEgADAAAAAQABAAABFQADAAAAAQAEAAABFgAD
+				AAAAAQBAAAABFwAEAAAAAQAAB4MBHAADAAAAAQABAAAB
+				KAADAAAAAQACAAABPQADAAAAAQACAAABUgADAAAAAQAB
+				AAABUwADAAAABAAACGaHcwAHAAAH2AAACG4AABO+AAgA
+				CAAIAAgAAQABAAEAAQAAB9hhcHBsAiAAAG1udHJSR0Ig
+				WFlaIAfZAAIAGQALABoAC2Fjc3BBUFBMAAAAAGFwcGwA
+				AAAAAAAAAAAAAAAAAAAAAAD21gABAAAAANMtYXBwbAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAC2Rlc2MAAAEIAAAAb2RzY20AAAF4
+				AAAFnGNwcnQAAAcUAAAAOHd0cHQAAAdMAAAAFHJYWVoA
+				AAdgAAAAFGdYWVoAAAd0AAAAFGJYWVoAAAeIAAAAFHJU
+				UkMAAAecAAAADmNoYWQAAAesAAAALGJUUkMAAAecAAAA
+				DmdUUkMAAAecAAAADmRlc2MAAAAAAAAAFEdlbmVyaWMg
+				UkdCIFByb2ZpbGUAAAAAAAAAAAAAABRHZW5lcmljIFJH
+				QiBQcm9maWxlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtbHVjAAAA
+				AAAAAB8AAAAMc2tTSwAAACgAAAGEZGFESwAAAC4AAAGs
+				Y2FFUwAAACQAAAHadmlWTgAAACQAAAH+cHRCUgAAACYA
+				AAIidWtVQQAAACoAAAJIZnJGVQAAACgAAAJyaHVIVQAA
+				ACgAAAKaemhUVwAAABYAAALCbmJOTwAAACYAAALYY3ND
+				WgAAACIAAAL+aGVJTAAAAB4AAAMgaXRJVAAAACgAAAM+
+				cm9STwAAACQAAANmZGVERQAAACwAAAOKa29LUgAAABYA
+				AAO2c3ZTRQAAACYAAALYemhDTgAAABYAAAPMamFKUAAA
+				ABoAAAPiZWxHUgAAACIAAAP8cHRQTwAAACYAAAQebmxO
+				TAAAACgAAAREZXNFUwAAACYAAAQedGhUSAAAACQAAARs
+				dHJUUgAAACIAAASQZmlGSQAAACgAAASyaHJIUgAAACgA
+				AATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUuYXJFRwAA
+				ACYAAAVQZW5VUwAAACYAAAV2AFYBYQBlAG8AYgBlAGMA
+				bgD9ACAAUgBHAEIAIABwAHIAbwBmAGkAbABHAGUAbgBl
+				AHIAZQBsACAAUgBHAEIALQBiAGUAcwBrAHIAaQB2AGUA
+				bABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcAZQBu
+				AOgAcgBpAGMAQx6lAHUAIABoAOwAbgBoACAAUgBHAEIA
+				IABDAGgAdQBuAGcAUABlAHIAZgBpAGwAIABSAEcAQgAg
+				AEcAZQBuAOkAcgBpAGMAbwQXBDAEMwQwBDsETAQ9BDgE
+				OQAgBD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIAbwBm
+				AGkAbAAgAGcA6QBuAOkAcgBpAHEAdQBlACAAUgBWAEIA
+				wQBsAHQAYQBsAOEAbgBvAHMAIABSAEcAQgAgAHAAcgBv
+				AGYAaQBskBp1KAAgAFIARwBCACCCcl9pY8+P8ABHAGUA
+				bgBlAHIAaQBzAGsAIABSAEcAQgAtAHAAcgBvAGYAaQBs
+				AE8AYgBlAGMAbgD9ACAAUgBHAEIAIABwAHIAbwBmAGkA
+				bAXkBegF1QXkBdkF3AAgAFIARwBCACAF2wXcBdwF2QBQ
+				AHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUAbgBlAHIA
+				aQBjAG8AUAByAG8AZgBpAGwAIABSAEcAQgAgAGcAZQBu
+				AGUAcgBpAGMAQQBsAGwAZwBlAG0AZQBpAG4AZQBzACAA
+				UgBHAEIALQBQAHIAbwBmAGkAbMd8vBgAIABSAEcAQgAg
+				1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072TgCC
+				LAAgAFIARwBCACAw1zDtMNUwoTCkMOsDkwO1A70DuQO6
+				A8wAIAPAA8EDvwPGA68DuwAgAFIARwBCAFAAZQByAGYA
+				aQBsACAAUgBHAEIAIABnAGUAbgDpAHIAaQBjAG8AQQBs
+				AGcAZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkA
+				ZQBsDkIOGw4jDkQOHw4lDkwAIABSAEcAQgAgDhcOMQ5I
+				DicORA4bAEcAZQBuAGUAbAAgAFIARwBCACAAUAByAG8A
+				ZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAAUgBHAEIALQBw
+				AHIAbwBmAGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkA
+				IABSAEcAQgAgAHAAcgBvAGYAaQBsAFUAbgBpAHcAZQBy
+				AHMAYQBsAG4AeQAgAHAAcgBvAGYAaQBsACAAUgBHAEIE
+				HgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAgAFIARwBC
+				BkUGRAZBACAGKgY5BjEGSgZBACAAUgBHAEIAIAYnBkQG
+				OQYnBkUARwBlAG4AZQByAGkAYwAgAFIARwBCACAAUABy
+				AG8AZgBpAGwAZXRleHQAAAAAQ29weXJpZ2h0IDIwMDcg
+				QXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZlZC4A
+				WFlaIAAAAAAAAPNSAAEAAAABFs9YWVogAAAAAAAAdE0A
+				AD3uAAAD0FhZWiAAAAAAAABadQAArHMAABc0WFlaIAAA
+				AAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEBzQAAc2Yz
+				MgAAAAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L///2j
+				AAAD3AAAwGyAACBQOCQWDQeEQmFQuGQ2HQ+IRGJROKRW
+				LQ4vwMfQN/Q8AxyBoWBuGLxAPwM9wMBQN/w+VwJhQNQw
+				+ZwIvSWBjeBsqcQ4bQNkz0AKKBxmHJuBmSBpCBsWUQMY
+				QNAQNrQNeQN30KGBGBkSBiqpQNoSGBjuBnCBpyBmWH0i
+				BUqBFGBrCBrOBkyBjigVqhTqBMiBrSBk2BlCBq+02u20
+				mBleBqqBraBkmBj+BzG+TiNwJgwNbwMlQMrQNU4mBWyj
+				4yBY6BZCBZKBZSBZaYZnNQPOwLPwLQwLRwLSwK1afF2/
+				G4/I5ONQNhwO3AAT7aENnFQIe5fPaDRaTTADUQ3n3AAa
+				wAa4AbAAbIAZsAc2BNOBizpQdqQMWwPr7XddrfdzhOq8
+				DVPG5DXuUgT2PcABnKggYqIGb6Bo+hyWoEEKBlYsSBhk
+				/DsP23jtuA7rvoY8Ljta5LYuWgUEwWgSooEEqBm6i4Ro
+				GbcMoFDbrQ6ADdgA3oAN+ADggA4bvOKADxPI8z0PVBCB
+				xaAEXgAsCBGwi4UKpHAAR0AD8gAzEev5IL/SLAESQFJc
+				UPTFT2yhBiBSqAErotLKBKqgSxxzDj9TFD7+xC/7iNS4
+				zVwI88DPW5k3xcr6Bzois7ABPAAT1Lk+TA7M/zJQMzUH
+				ANCwHE8CxTA9FoFKMpzlSCKUlSlLS7L8wx9IEhSJI0Ro
+				XEtDVHRFS0VFdGSlR0rSxLU8w1TFZzHW0RSRJVDybNsW
+				ThKlH2NO8t1jHlaRBIdnUJJMTPLNcnVPBVq1XbFJ21ZV
+				NR/b1bzPXU02jRMn1RdNrzrY9K2THc+27QFv0FI9w2hX
+				tpVNYN80bGEZRpG124BTMPXhgd5U/NFQzVUk2YXN2G2G
+				gUHIFCCBQkhsKABCyBQxZE94pZdN2bgtcoVXdRXJj1zY
+				YAD4IE+T5oK+qBPvmV31rMtcWfccmXvc7nujoaCOpT9Z
+				aTeNwVBcVeZ3X2PgA2mK6oiT2NzP2L05glPYNrmEa/hW
+				xR5sqIbPrOMa3jeugAuSBLogS7IEvCBL0gSg7qiK/AAw
+				CBMEgTCIEwyBMRm2moEpiBKcgSU4cACpoEaKBl0gZ7cS
+				ACuIEr04rDmAAJEgSzIEtHLIcmoAJunuWgAcHTp/w6hK
+				IgSjIb4j2I6h2U9MgRAoGdvTpPziVJYl0edv0/sez7Xt
+				+4hCAgAAEQEAAAMAAAABACAAAAEBAAMAAAABACAAAAEC
+				AAMAAAAEAAAUkAEDAAMAAAABAAUAAAEGAAMAAAABAAIA
+				AAEKAAMAAAABAAEAAAERAAQAAAABAAAQRgESAAMAAAAB
+				AAEAAAEVAAMAAAABAAQAAAEWAAMAAAABACAAAAEXAAQA
+				AAABAAADdwEcAAMAAAABAAEAAAEoAAMAAAABAAIAAAE9
+				AAMAAAABAAIAAAFSAAMAAAABAAEAAAFTAAMAAAAEAAAU
+				mIdzAAcAAAfYAAAUoAAAHdwACAAIAAgACAABAAEAAQAB
+				AAAH2GFwcGwCIAAAbW50clJHQiBYWVogB9kAAgAZAAsA
+				GgALYWNzcEFQUEwAAAAAYXBwbAAAAAAAAAAAAAAAAAAA
+				AAAAAPbWAAEAAAAA0y1hcHBsAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL
+				ZGVzYwAAAQgAAABvZHNjbQAAAXgAAAWcY3BydAAABxQA
+				AAA4d3RwdAAAB0wAAAAUclhZWgAAB2AAAAAUZ1hZWgAA
+				B3QAAAAUYlhZWgAAB4gAAAAUclRSQwAAB5wAAAAOY2hh
+				ZAAAB6wAAAAsYlRSQwAAB5wAAAAOZ1RSQwAAB5wAAAAO
+				ZGVzYwAAAAAAAAAUR2VuZXJpYyBSR0IgUHJvZmlsZQAA
+				AAAAAAAAAAAAFEdlbmVyaWMgUkdCIFByb2ZpbGUAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAG1sdWMAAAAAAAAAHwAAAAxza1NL
+				AAAAKAAAAYRkYURLAAAALgAAAaxjYUVTAAAAJAAAAdp2
+				aVZOAAAAJAAAAf5wdEJSAAAAJgAAAiJ1a1VBAAAAKgAA
+				AkhmckZVAAAAKAAAAnJodUhVAAAAKAAAApp6aFRXAAAA
+				FgAAAsJuYk5PAAAAJgAAAthjc0NaAAAAIgAAAv5oZUlM
+				AAAAHgAAAyBpdElUAAAAKAAAAz5yb1JPAAAAJAAAA2Zk
+				ZURFAAAALAAAA4prb0tSAAAAFgAAA7ZzdlNFAAAAJgAA
+				Ath6aENOAAAAFgAAA8xqYUpQAAAAGgAAA+JlbEdSAAAA
+				IgAAA/xwdFBPAAAAJgAABB5ubE5MAAAAKAAABERlc0VT
+				AAAAJgAABB50aFRIAAAAJAAABGx0clRSAAAAIgAABJBm
+				aUZJAAAAKAAABLJockhSAAAAKAAABNpwbFBMAAAALAAA
+				BQJydVJVAAAAIgAABS5hckVHAAAAJgAABVBlblVTAAAA
+				JgAABXYAVgFhAGUAbwBiAGUAYwBuAP0AIABSAEcAQgAg
+				AHAAcgBvAGYAaQBsAEcAZQBuAGUAcgBlAGwAIABSAEcA
+				QgAtAGIAZQBzAGsAcgBpAHYAZQBsAHMAZQBQAGUAcgBm
+				AGkAbAAgAFIARwBCACAAZwBlAG4A6AByAGkAYwBDHqUA
+				dQAgAGgA7ABuAGgAIABSAEcAQgAgAEMAaAB1AG4AZwBQ
+				AGUAcgBmAGkAbAAgAFIARwBCACAARwBlAG4A6QByAGkA
+				YwBvBBcEMAQzBDAEOwRMBD0EOAQ5ACAEPwRABD4ERAQw
+				BDkEOwAgAFIARwBCAFAAcgBvAGYAaQBsACAAZwDpAG4A
+				6QByAGkAcQB1AGUAIABSAFYAQgDBAGwAdABhAGwA4QBu
+				AG8AcwAgAFIARwBCACAAcAByAG8AZgBpAGyQGnUoACAA
+				UgBHAEIAIIJyX2ljz4/wAEcAZQBuAGUAcgBpAHMAawAg
+				AFIARwBCAC0AcAByAG8AZgBpAGwATwBiAGUAYwBuAP0A
+				IABSAEcAQgAgAHAAcgBvAGYAaQBsBeQF6AXVBeQF2QXc
+				ACAAUgBHAEIAIAXbBdwF3AXZAFAAcgBvAGYAaQBsAG8A
+				IABSAEcAQgAgAGcAZQBuAGUAcgBpAGMAbwBQAHIAbwBm
+				AGkAbAAgAFIARwBCACAAZwBlAG4AZQByAGkAYwBBAGwA
+				bABnAGUAbQBlAGkAbgBlAHMAIABSAEcAQgAtAFAAcgBv
+				AGYAaQBsx3y8GAAgAFIARwBCACDVBLhc0wzHfGZukBoA
+				IABSAEcAQgAgY8+P8GWHTvZOAIIsACAAUgBHAEIAIDDX
+				MO0w1TChMKQw6wOTA7UDvQO5A7oDzAAgA8ADwQO/A8YD
+				rwO7ACAAUgBHAEIAUABlAHIAZgBpAGwAIABSAEcAQgAg
+				AGcAZQBuAOkAcgBpAGMAbwBBAGwAZwBlAG0AZQBlAG4A
+				IABSAEcAQgAtAHAAcgBvAGYAaQBlAGwOQg4bDiMORA4f
+				DiUOTAAgAFIARwBCACAOFw4xDkgOJw5EDhsARwBlAG4A
+				ZQBsACAAUgBHAEIAIABQAHIAbwBmAGkAbABpAFkAbABl
+				AGkAbgBlAG4AIABSAEcAQgAtAHAAcgBvAGYAaQBpAGwA
+				aQBHAGUAbgBlAHIAaQENAGsAaQAgAFIARwBCACAAcABy
+				AG8AZgBpAGwAVQBuAGkAdwBlAHIAcwBhAGwAbgB5ACAA
+				cAByAG8AZgBpAGwAIABSAEcAQgQeBDEESQQ4BDkAIAQ/
+				BEAEPgREBDgEOwRMACAAUgBHAEIGRQZEBkEAIAYqBjkG
+				MQZKBkEAIABSAEcAQgAgBicGRAY5BicGRQBHAGUAbgBl
+				AHIAaQBjACAAUgBHAEIAIABQAHIAbwBmAGkAbABldGV4
+				dAAAAABDb3B5cmlnaHQgMjAwNyBBcHBsZSBJbmMuLCBh
+				bGwgcmlnaHRzIHJlc2VydmVkLgBYWVogAAAAAAAA81IA
+				AQAAAAEWz1hZWiAAAAAAAAB0TQAAPe4AAAPQWFlaIAAA
+				AAAAAFp1AACscwAAFzRYWVogAAAAAAAAKBoAABWfAAC4
+				NmN1cnYAAAAAAAAAAQHNAABzZjMyAAAAAAABDEIAAAXe
+				///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbIAAIFA4
+				JBYNB4RCYVC4KV4GRYG/IGA4GhYG4IZAxBAz3A37AwJA
+				13A1TB1DE4GMIGwYGf4G7IzAgpA0DAx/A2hHoGX4OnoG
+				vIGToGmoGvpjCSFAzNA1lAyJAzFPYGwoGSoGoIGSIGLY
+				G/4OAYG04GuIGYIGtoGPqhUoFVIFVoFJ4EeYGnYG2oOJ
+				oGY4Gh53Z7Ta4NPrbVYHcgAcoGbYG1oOKoGk4Gjr/ArR
+				ArVAqjg6nhrjA8VAtCAGjBxfk9RAp5lsDmrYALcALgAM
+				Ro9HpYNp4FlN3lQBlwBmQBm4LhNhntpoMXjcfkdSANXv
+				9bw9fsdniLpArtArxBr1Ar5Ar9qsBmMFxc7b6vWa3Xa/
+				YbHZfLwfPBONQIFQoFRIFRqOg6koEpaBKagSntcgzEIo
+				gSVIEX6Bj6gZ4KOmaBJqgSboEnKBI+8iDIcgSIIEiSDQ
+				uABzqOjaBI7DiQJEkj/xjGSMoCAAABEBAAADAAAAAQAQ
+				AAABAQADAAAAAQAQAAABAgADAAAABAAAHq4BAwADAAAA
+				AQAFAAABBgADAAAAAQACAAABCgADAAAAAQABAAABEQAE
+				AAAAAQAAHHgBEgADAAAAAQABAAABFQADAAAAAQAEAAAB
+				FgADAAAAAQAQAAABFwAEAAAAAQAAAWMBHAADAAAAAQAB
+				AAABKAADAAAAAQACAAABPQADAAAAAQACAAABUgADAAAA
+				AQABAAABUwADAAAABAAAHraHcwAHAAAH2AAAHr4AAAAA
+				AAgACAAIAAgAAQABAAEAAQAAB9hhcHBsAiAAAG1udHJS
+				R0IgWFlaIAfZAAIAGQALABoAC2Fjc3BBUFBMAAAAAGFw
+				cGwAAAAAAAAAAAAAAAAAAAAAAAD21gABAAAAANMtYXBw
+				bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAC2Rlc2MAAAEIAAAAb2RzY20A
+				AAF4AAAFnGNwcnQAAAcUAAAAOHd0cHQAAAdMAAAAFHJY
+				WVoAAAdgAAAAFGdYWVoAAAd0AAAAFGJYWVoAAAeIAAAA
+				FHJUUkMAAAecAAAADmNoYWQAAAesAAAALGJUUkMAAAec
+				AAAADmdUUkMAAAecAAAADmRlc2MAAAAAAAAAFEdlbmVy
+				aWMgUkdCIFByb2ZpbGUAAAAAAAAAAAAAABRHZW5lcmlj
+				IFJHQiBQcm9maWxlAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtbHVj
+				AAAAAAAAAB8AAAAMc2tTSwAAACgAAAGEZGFESwAAAC4A
+				AAGsY2FFUwAAACQAAAHadmlWTgAAACQAAAH+cHRCUgAA
+				ACYAAAIidWtVQQAAACoAAAJIZnJGVQAAACgAAAJyaHVI
+				VQAAACgAAAKaemhUVwAAABYAAALCbmJOTwAAACYAAALY
+				Y3NDWgAAACIAAAL+aGVJTAAAAB4AAAMgaXRJVAAAACgA
+				AAM+cm9STwAAACQAAANmZGVERQAAACwAAAOKa29LUgAA
+				ABYAAAO2c3ZTRQAAACYAAALYemhDTgAAABYAAAPMamFK
+				UAAAABoAAAPiZWxHUgAAACIAAAP8cHRQTwAAACYAAAQe
+				bmxOTAAAACgAAAREZXNFUwAAACYAAAQedGhUSAAAACQA
+				AARsdHJUUgAAACIAAASQZmlGSQAAACgAAASyaHJIUgAA
+				ACgAAATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUuYXJF
+				RwAAACYAAAVQZW5VUwAAACYAAAV2AFYBYQBlAG8AYgBl
+				AGMAbgD9ACAAUgBHAEIAIABwAHIAbwBmAGkAbABHAGUA
+				bgBlAHIAZQBsACAAUgBHAEIALQBiAGUAcwBrAHIAaQB2
+				AGUAbABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcA
+				ZQBuAOgAcgBpAGMAQx6lAHUAIABoAOwAbgBoACAAUgBH
+				AEIAIABDAGgAdQBuAGcAUABlAHIAZgBpAGwAIABSAEcA
+				QgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAEMwQwBDsETAQ9
+				BDgEOQAgBD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIA
+				bwBmAGkAbAAgAGcA6QBuAOkAcgBpAHEAdQBlACAAUgBW
+				AEIAwQBsAHQAYQBsAOEAbgBvAHMAIABSAEcAQgAgAHAA
+				cgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9pY8+P8ABH
+				AGUAbgBlAHIAaQBzAGsAIABSAEcAQgAtAHAAcgBvAGYA
+				aQBsAE8AYgBlAGMAbgD9ACAAUgBHAEIAIABwAHIAbwBm
+				AGkAbAXkBegF1QXkBdkF3AAgAFIARwBCACAF2wXcBdwF
+				2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUAbgBl
+				AHIAaQBjAG8AUAByAG8AZgBpAGwAIABSAEcAQgAgAGcA
+				ZQBuAGUAcgBpAGMAQQBsAGwAZwBlAG0AZQBpAG4AZQBz
+				ACAAUgBHAEIALQBQAHIAbwBmAGkAbMd8vBgAIABSAEcA
+				QgAg1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072
+				TgCCLAAgAFIARwBCACAw1zDtMNUwoTCkMOsDkwO1A70D
+				uQO6A8wAIAPAA8EDvwPGA68DuwAgAFIARwBCAFAAZQBy
+				AGYAaQBsACAAUgBHAEIAIABnAGUAbgDpAHIAaQBjAG8A
+				QQBsAGcAZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBm
+				AGkAZQBsDkIOGw4jDkQOHw4lDkwAIABSAEcAQgAgDhcO
+				MQ5IDicORA4bAEcAZQBuAGUAbAAgAFIARwBCACAAUABy
+				AG8AZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAAUgBHAEIA
+				LQBwAHIAbwBmAGkAaQBsAGkARwBlAG4AZQByAGkBDQBr
+				AGkAIABSAEcAQgAgAHAAcgBvAGYAaQBsAFUAbgBpAHcA
+				ZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYAaQBsACAAUgBH
+				AEIEHgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAgAFIA
+				RwBCBkUGRAZBACAGKgY5BjEGSgZBACAAUgBHAEIAIAYn
+				BkQGOQYnBkUARwBlAG4AZQByAGkAYwAgAFIARwBCACAA
+				UAByAG8AZgBpAGwAZXRleHQAAAAAQ29weXJpZ2h0IDIw
+				MDcgQXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZl
+				ZC4AWFlaIAAAAAAAAPNSAAEAAAABFs9YWVogAAAAAAAA
+				dE0AAD3uAAAD0FhZWiAAAAAAAABadQAArHMAABc0WFla
+				IAAAAAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEBzQAA
+				c2YzMgAAAAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L/
+				//2jAAAD3AAAwGw=
+				</data>
+				<key>ModificationDate</key>
+				<real>581733236.31978905</real>
+				<key>Name</key>
+				<string>10)Pandoc 1.0 DT3</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>8E6D6D95-473A-4CEF-B515-3B5902FD76E9</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>ω Paletta mãe</string>
+		<key>PaletteUnderMouse</key>
+		<true/>
+		<key>Theme</key>
+		<dict>
+			<key>Opacity</key>
+			<integer>100</integer>
+			<key>Size</key>
+			<integer>20</integer>
+			<key>Theme</key>
+			<string>Evening</string>
+			<key>UseDefaultInstead</key>
+			<false/>
+			<key>UseTitle</key>
+			<false/>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>F81DB325-3711-4C9B-B984-1961A27634D8</string>
+		<key>UID</key>
+		<string>6375CCA5-497F-49BA-9D3A-856AC17BD7DE</string>
+	</dict>
+</array>
+</plist>
