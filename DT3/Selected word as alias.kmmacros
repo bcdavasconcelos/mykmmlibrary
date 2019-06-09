@@ -24,14 +24,14 @@
 						<key>ActionColor</key>
 						<string>Green</string>
 						<key>ActionName</key>
-						<string>This macro adds the selected text of the selected entry as an alias to the same selected entry</string>
+						<string>README</string>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC5kAgAAKwAAAAEA
-						AABcAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC5QAgAAKwAAAAEA
+						AABIAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
@@ -47,25 +47,24 @@
 						NDgwXHR4NTA0MFx0eDU2MDBcdHg2
 						MTYwXHR4NjcyMFxwYXJkaXJuYXR1
 						cmFsXHBhcnRpZ2h0ZW5mYWN0b3Iw
-						CgpcZjBcZnMyOCBcY2YyIEZvciBt
-						b3JlIGluZm9ybWF0aW9uLCBzZWUg
-						dGhpcyB0aHJlYWQ6IGh0dHBzOi8v
-						dGlueXVybC5jb20veXhrZ29yeWhc
-						ClxwYXJkXHR4NTYwXHR4MTEyMFx0
-						eDE2ODBcdHgyMjQwXHR4MjgwMFx0
-						eDMzNjBcdHgzOTIwXHR4NDQ4MFx0
-						eDUwNDBcdHg1NjAwXHR4NjE2MFx0
-						eDY3MjBccGFyZGlybmF0dXJhbFxw
-						YXJ0aWdodGVuZmFjdG9yMAoKXGZz
-						MjYgXGNmMiBTb3VyY2U6IGh0dHBz
-						Oi8vZ2l0aHViLmNvbS9iY2RhdmFz
-						Y29uY2Vsb3MvbXlrbW1saWJyYXJ5
-						fQEAAAAjAAAAAQAAAAcAAABUWFQu
-						cnRmEAAAANVS/Fy2AQAAAAAAAAAA
-						AAA=
+						CgpcZjBcZnMyOCBcY2YyIElmIHlv
+						dSBoYXZlIGEgd29yZCB5b3Ugd2Fu
+						dCB0byBhZGQgYXMgYWxpYXMgb2Yg
+						YSBzcGVjaWZpYyBlbnRyeSwgYWxs
+						IHlvdSdsbCBoYXZlIHRvIGRvIGlz
+						IHNlbGVjdCBpdCBhbmQgcnVuIHRo
+						ZSBtYWNyby5cClRoZSBtYWNybyB3
+						aWxsIGV4dHJhY3QgZXhpc3Rpbmcg
+						YWxpYXNlcywgYWRkIHRoZSBuZXcg
+						d29yZCB0byB0aGUgc3RyaW5nIGFu
+						ZCBwYXN0ZSB0aGVtIGFsbCBiYWNr
+						IHRvIHRoZSBgYWxpYXNgIGZpZWxk
+						Ln0BAAAAIwAAAAEAAAAHAAAAVFhU
+						LnJ0ZhAAAAARQ/1ctgEAAAAAAAAA
+						AAAA
 						</data>
 						<key>Title</key>
-						<string></string>
+						<string>Selected word as alias</string>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -183,9 +182,9 @@
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:128,0,64,255=A=110=0=0=0=KMCOLOR:211,211,211,255</string>
 				<key>ModificationDate</key>
-				<real>581732948.16169095</real>
+				<real>581794451.42828298</real>
 				<key>Name</key>
-				<string>04)Add as alias</string>
+				<string>04)Selected word as alias</string>
 				<key>Triggers</key>
 				<array>
 					<dict>

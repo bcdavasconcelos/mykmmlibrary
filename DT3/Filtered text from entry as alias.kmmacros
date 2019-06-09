@@ -30,14 +30,14 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7PAwAAKwAAAAEA
-						AADHAwAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC59AwAAKwAAAAEA
+						AAB1AwAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
-						MCBIZWx2ZXRpY2FOZXVlLUJvbGQ7
-						XGYxXGZuaWxcZmNoYXJzZXQwIEhl
-						bHZldGljYU5ldWU7fQp7XGNvbG9y
+						MCBIZWx2ZXRpY2FOZXVlO1xmMVxm
+						bmlsXGZjaGFyc2V0MCBIZWx2ZXRp
+						Y2FOZXVlLUJvbGQ7fQp7XGNvbG9y
 						dGJsO1xyZWQyNTVcZ3JlZW4yNTVc
 						Ymx1ZTI1NTtccmVkMFxncmVlbjBc
 						Ymx1ZTA7fQp7XCpcZXhwYW5kZWRj
@@ -49,40 +49,36 @@
 						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
 						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
 						cGFydGlnaHRlbmZhY3RvcjAKClxm
-						MFxiXGZzMzAgXGNmMiBIZXJlIGlz
-						IHdoYXQgdGhlIG1hY3JvIHdpbGwg
-						ZG86ClxmMVxiMCBcCkl0IHdpbGwg
-						Y29weSB0aGUgdGV4dCBvZiB0aGUg
-						c2VsZWN0ZWQgZW50cnkgdG8gdGhl
-						IGNsaXBib2FyZC5cCkl0IHdpbGwg
-						ZmlsdGVyIG91dCB3b3Jkcy9leHBy
-						ZXNzaW9ucyBtYXRjaGluZyByZWdl
-						eDogXFxkKlthfGJdXFxkXFxkXApJ
-						dCB3aWwgdGhlbiBnZXQgdGhlc2Ug
-						d29yZHMgaW50byBhIGNvbW1hLXNl
-						cGFyYXRlZCBzdHJpbmcuXApGaW5h
-						bGx5LCBpdCB3aWxsIGFkZCB0aGlz
-						IHN0cmluZyB0byB0aGUgYWxpYXMg
-						ZmllbGQgb2YgdGhlIHNlbGVjdGVk
-						IERUMyBlbnRyeS5cCgpcZnMyOCBc
-						CkZvciBtb3JlIGluZm9ybWF0aW9u
-						LCBzZWUgdGhpcyB0aHJlYWQ6IGh0
-						dHBzOi8vdGlueXVybC5jb20veXhr
-						Z29yeWhcClxwYXJkXHR4NTYwXHR4
-						MTEyMFx0eDE2ODBcdHgyMjQwXHR4
-						MjgwMFx0eDMzNjBcdHgzOTIwXHR4
-						NDQ4MFx0eDUwNDBcdHg1NjAwXHR4
-						NjE2MFx0eDY3MjBccGFyZGlybmF0
-						dXJhbFxwYXJ0aWdodGVuZmFjdG9y
-						MAoKXGZzMjYgXGNmMiBTb3VyY2U6
-						IGh0dHBzOi8vZ2l0aHViLmNvbS9i
-						Y2RhdmFzY29uY2Vsb3MvbXlrbW1s
-						aWJyYXJ5fQEAAAAjAAAAAQAAAAcA
-						AABUWFQucnRmEAAAAJpS/Fy2AQAA
-						AAAAAAAAAAA=
+						MFxmczI4IFxjZjIgVG8gdW5kZXJz
+						dGFuZCB0aGUgdXNlIG9mIHRoaXMg
+						bWFjcm8sIHJlYWQgdGhlIHNlY29u
+						ZCBwYXJ0IG9mIHRoZSBwcmV2aW91
+						cyB0ZXh0IFtIb3cgSSB1c2UgV2lr
+						aS1MaW5rcyBhbmQgQWxpYXNlcyAo
+						cHQuMildKGh0dHBzOi8vZGlzY291
+						cnNlLmRldm9udGVjaG5vbG9naWVz
+						LmNvbS90L2hvdy1pLXVzZS13aWtp
+						LWxpbmtzLWFuZC1hbGlhc2VzLXB0
+						LTIvNDc4NzMpLlwKXAoKXGYxXGIg
+						V2hhdCB0aGUgbWFjcm8gd2lsbCBk
+						bwpcZjBcYjAgXAoqIENvcHkgdGhl
+						IHRleHQgb2YgdGhlIHNlbGVjdGVk
+						IGAgZW50cnkgYCB0byB0aGUgY2xp
+						cGJvYXJkLlwKKiBGaWx0ZXIgb3V0
+						IHdvcmRzL2V4cHJlc3Npb25zIG1h
+						dGNoaW5nIHJlZ2V4IGAgXFxkKlth
+						fGJdXFxkXFxkIGBcCiogR2V0IHRo
+						ZXNlIHdvcmRzIGludG8gYSBjb21t
+						YS1zZXBhcmF0ZWQgc3RyaW5nLlwK
+						KiBBZGQgdGhpcyBzdHJpbmcgdG8g
+						dGhlIGAgYWxpYXMgYCBmaWVsZCBv
+						ZiB0aGUgc2VsZWN0ZWQgRFQzIGBl
+						bnRyeWAuXAp9AQAAACMAAAABAAAA
+						BwAAAFRYVC5ydGYQAAAAG0P9XLYB
+						AAAAAAAAAAAAAA==
 						</data>
 						<key>Title</key>
-						<string>How I use this macro</string>
+						<string>Filtered text from entry as alias</string>
 					</dict>
 					<dict>
 						<key>ActionColor</key>
@@ -640,9 +636,9 @@
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:128,64,3,255=B=110=0=0=0=KMCOLOR:211,211,211,255</string>
 				<key>ModificationDate</key>
-				<real>581732889.49925494</real>
+				<real>581794458.60953903</real>
 				<key>Name</key>
-				<string>05)Extrair numeração Bekker</string>
+				<string>05)Filtered text from entry as alias</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>

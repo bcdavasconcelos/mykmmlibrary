@@ -30,14 +30,14 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7EBAAAKwAAAAEA
-						AAC8BAAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC4HBgAAKwAAAAEA
+						AAD/BQAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
-						MCBIZWx2ZXRpY2FOZXVlLUJvbGQ7
-						XGYxXGZuaWxcZmNoYXJzZXQwIEhl
-						bHZldGljYU5ldWU7fQp7XGNvbG9y
+						MCBIZWx2ZXRpY2FOZXVlO1xmMVxm
+						bmlsXGZjaGFyc2V0MCBIZWx2ZXRp
+						Y2FOZXVlLUJvbGQ7fQp7XGNvbG9y
 						dGJsO1xyZWQyNTVcZ3JlZW4yNTVc
 						Ymx1ZTI1NTtccmVkMFxncmVlbjBc
 						Ymx1ZTA7fQp7XCpcZXhwYW5kZWRj
@@ -49,112 +49,67 @@
 						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
 						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
 						cGFydGlnaHRlbmZhY3RvcjAKClxm
-						MFxiXGZzMzAgXGNmMiBIZXJlIGlz
-						IHdoYXQgSSBkbzoKXGYxXGIwIFwK
-						aS4gSSB3aWxsIG1ha2Ugc3VyZSBJ
-						IGhhdmUgdGhlIGNvcnJlY3QgZW50
-						cnkgc2VsZWN0ZWQgaW4gRFQzLlwK
-						aWkuIEkgb3BlbiBhIGFwcCBjYWxs
-						ZWQgTXlvc290aXMgKGh0dHBzOi8v
-						Z2l0aHViLmNvbS9nZWJya24vTXlv
-						c290aXMpLCB3aGljaCBwcm92aWRl
-						cyBtZSB3aXRoIHRoZSBmdWxsIGRl
-						Y2xlbnNpb24gb2YgYW5jaWVudCBn
-						cmVlayB3b3Jkcy4gXAppaWkuIEkg
-						d2lsbCB0aGVuIHNlbGVjdCB0aGUg
-						ZGVjbGVuc2lvbiB0YWJsZXMgb2Yg
-						dGhlIHdvcmQgSSBuZWVkIHRvIHBh
-						cnNlLlwKaXYuIFRoZW4sIEkgZXhl
-						Y3V0ZSB0aGUgbWFjcm8uIFwKXAoK
-						XGYwXGIgSGVyZSBpcyB3aGF0IHRo
-						ZSBtYWNybyB3aWxsIGRvOgpcZjFc
-						YjAgXApDb3B5IHRoZSBzZWxlY3Rl
-						ZCB0ZXh0IHRvIGNsaXBib2FyZC5c
-						CkZpbHRlciBncmVlayB3b3JkcyBv
-						dXQgb2YgdGhlIHRleHQuXApHZXQg
-						dGhlc2Ugd29yZHMgaW50byBhIGNv
-						bW1hLXNlcGFyYXRlZCBzdHJpbmcu
-						XApBZGQgdGhpcyBzdHJpbmcgdG8g
-						dGhlIHNlbGVjdGVkIERUMyBlbnRy
-						eS5cClwKRm9yIG1vcmUgaW5mb3Jt
-						YXRpb24sIHNlZSB0aGlzIHRocmVh
-						ZDogaHR0cHM6Ly90aW55dXJsLmNv
-						bS95MjUzd2NxcFwKClxmczI4IFwK
-						XHBhcmRcdHg1NjBcdHgxMTIwXHR4
-						MTY4MFx0eDIyNDBcdHgyODAwXHR4
-						MzM2MFx0eDM5MjBcdHg0NDgwXHR4
-						NTA0MFx0eDU2MDBcdHg2MTYwXHR4
-						NjcyMFxwYXJkaXJuYXR1cmFsXHBh
-						cnRpZ2h0ZW5mYWN0b3IwCgpcZnMy
-						NiBcY2YyIFNvdXJjZTogaHR0cHM6
-						Ly9naXRodWIuY29tL2JjZGF2YXNj
-						b25jZWxvcy9teWttbWxpYnJhcnl9
-						AQAAACMAAAABAAAABwAAAFRYVC5y
-						dGYQAAAAoVL8XLYBAAAAAAAAAAAA
-						AA==
+						MFxmczI4IFxjZjIgIFRvIHVuZGVy
+						c3RhbmQgdGhlIHVzZSBvZiB0aGlz
+						IG1hY3JvLCByZWFkIFtIb3cgSSB1
+						c2Ugd2lraS1saW5rcyBhbmQgYWxp
+						YXNlc10oaHR0cHM6Ly9kaXNjb3Vy
+						c2UuZGV2b250ZWNobm9sb2dpZXMu
+						Y29tL3QvaG93LWktdXNlLXdpa2kt
+						bGlua3MtYW5kLWFsaWFzZXMvNDc4
+						NDYpLlwKXAoKXGYxXGIgV2hhdCBJ
+						IHdpbGwgZG8KXGYwXGIwIFwKMS4g
+						TWFrZSBzdXJlIEkgaGF2ZSB0aGUg
+						Y29ycmVjdCBgZW50cnlgIHNlbGVj
+						dGVkIGluIERUMy5cCjIuIE9wZW4g
+						YSBhcHAgY2FsbGVkIE15b3NvdGlz
+						IChodHRwczovL2dpdGh1Yi5jb20v
+						Z2VicmtuL015b3NvdGlzKSwgd2hp
+						Y2ggcHJvdmlkZXMgbWUgd2l0aCB0
+						aGUgZnVsbCBkZWNsZW5zaW9uIG9m
+						IGFuY2llbnQgZ3JlZWsgd29yZHMu
+						IFwKMy4gU2VsZWN0IHRoZSBkZWNs
+						ZW5zaW9uIHRhYmxlcyBvZiB0aGUg
+						d29yZCBJIG5lZWQgdG8gcGFyc2Uu
+						XAo0LiBFeGVjdXRlIHRoZSBtYWNy
+						by4gXApcCgpcZjFcYiBXaGF0IHRo
+						ZSBtYWNybyB3aWxsIGRvClxmMFxi
+						MCBcCjEuIENvcHkgdGhlIHNlbGVj
+						dGVkIHRleHQgdG8gY2xpcGJvYXJk
+						LlwKMi4gRmlsdGVyIGdyZWVrIHdv
+						cmRzIG91dCBvZiB0aGUgdGV4dC5c
+						CjMuIEdldCB0aGVzZSB3b3JkcyBp
+						bnRvIGEgY29tbWEtc2VwYXJhdGVk
+						IHN0cmluZy5cCjQuIEFkZCB0aGlz
+						IHN0cmluZyB0byB0aGUgc2VsZWN0
+						ZWQgRFQzIGBlbnRyeWAuXApcCgpc
+						ZjFcYiBXaGF0IHlvdSBzaG91bGQg
+						ZG8KXGYwXGIwIFwKMS4gRmluZCBh
+						IHBsYWNlIHdoZXJlIHlvdSBjYW4g
+						ZWFzaWx5IGdldCB0aGUgZnVsbCBw
+						YXJzaW5nIG9mIHRoZSB3b3JkLlwK
+						Mi4gRmlndXJlIG91dCBhIHdheSB0
+						byBmaWx0ZXIgaXQgdXNpbmcgYHJl
+						Z2V4YC4gKFlvdSBtaWdodCB3YW50
+						IHRvIGNoZWNrIG91dCBodHRwczov
+						L3JlZ2V4MTAxLmNvbSlcCjMuIEVk
+						aXQgdGhlIFJFRCBzZWN0aW9uIG1h
+						cmtlZCBmb3IgY3VzdG9taXphdGlv
+						bi5cClwKClxmMVxiIE5vdGUKXGYw
+						XGIwIFwKKiBUbyBmaWx0ZXIgb3V0
+						IHRleHQgaW4gbGF0aW4gc2NyaXB0
+						LCB5b3UgbWlnaHQgd2FudCB0byB0
+						cnkgYCBcXGJbQS1aXVtBLVpdK1xc
+						YiBgXAoqIFRoaXMgbWFjcm8gaXMg
+						YWxyZWFkeSBzZXQgdG8gZmlsdGVy
+						IHBvbHl0b25pYyBncmVlayB1c2lu
+						ZyBgXFxiXFxwXHtHcmVla1x9K2Bc
+						ClwKXApcCn0BAAAAIwAAAAEAAAAH
+						AAAAVFhULnJ0ZhAAAAAwQ/1ctgEA
+						AAAAAAAAAAAA
 						</data>
 						<key>Title</key>
-						<string>How I use this macro</string>
-					</dict>
-					<dict>
-						<key>ActionColor</key>
-						<string>Orange</string>
-						<key>ActionName</key>
-						<string>README</string>
-						<key>MacroActionType</key>
-						<string>Comment</string>
-						<key>StyledText</key>
-						<data>
-						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC57AwAAKwAAAAEA
-						AABzAwAAe1xydGYxXGFuc2lcYW5z
-						aWNwZzEyNTJcY29jb2FydGYxNjcx
-						XGNvY29hc3VicnRmNTAwCntcZm9u
-						dHRibFxmMFxmbmlsXGZjaGFyc2V0
-						MCBIZWx2ZXRpY2FOZXVlLUJvbGQ7
-						XGYxXGZuaWxcZmNoYXJzZXQwIEhl
-						bHZldGljYU5ldWU7fQp7XGNvbG9y
-						dGJsO1xyZWQyNTVcZ3JlZW4yNTVc
-						Ymx1ZTI1NTtccmVkMFxncmVlbjBc
-						Ymx1ZTA7fQp7XCpcZXhwYW5kZWRj
-						b2xvcnRibDs7XGNzc3JnYlxjMFxj
-						MFxjMFxjbmFtZSB0ZXh0Q29sb3I7
-						fQpccGFyZFx0eDU2MFx0eDExMjBc
-						dHgxNjgwXHR4MjI0MFx0eDI4MDBc
-						dHgzMzYwXHR4MzkyMFx0eDQ0ODBc
-						dHg1MDQwXHR4NTYwMFx0eDYxNjBc
-						dHg2NzIwXHBhcmRpcm5hdHVyYWxc
-						cGFydGlnaHRlbmZhY3RvcjAKClxm
-						MFxiXGZzMzAgXGNmMiBIZXJlIGlz
-						IHdoYXQgeW91IHNob3VsZCBkbzpc
-						CgpcZjFcYjAgMS4gRmluZCBhIHBs
-						YWNlIHdoZXJlIHlvdSBjYW4gZWFz
-						aWx5IGdldCB0aGUgZnVsbCBwYXJz
-						aW5nIG9mIHRoZSB3b3JkLlwKMi4g
-						RmlndXJlIG91dCBhIHdheSB0byBm
-						aWx0ZXIgaXQgdXNpbmcgcmVnZXgu
-						IChZb3UgbWlnaHQgd2FudCB0byBj
-						aGVjayBvdXQgaHR0cHM6Ly9yZWdl
-						eDEwMS5jb20pXApUbyBmaWx0ZXIg
-						b3V0IHRleHQgaW4gbGF0aW4gc2Ny
-						aXB0LCB5b3UgbWlnaHQgd2FudCB0
-						byB0cnkgXHVsIFxcYltBLVpdW0Et
-						Wl0rXFxiXApcdWxub25lIFRoaXMg
-						bWFjcm8gaXMgYWxyZWFkeSBzZXQg
-						dG8gZmlsdGVyIHBvbHl0b25pYyBn
-						cmVlayB1c2luZyBcdWwgXFxiXFxw
-						XHtHcmVla1x9K1x1bG5vbmUgXApc
-						Clx1bCBZb3Ugd2lsbCB0aGVuIGhh
-						dmUgdG8gZWRpdCB0aGUgClxmMFxi
-						IFJFRApcZjFcYjAgIHNlY3Rpb24g
-						YmVsb3cgbWFya2VkIGZvciBjdXN0
-						b21pemF0aW9uLgpcZnMyOCBcdWxu
-						b25lIFwKfQEAAAAjAAAAAQAAAAcA
-						AABUWFQucnRmEAAAAMUu/Fy2AQAA
-						AAAAAAAAAAA=
-						</data>
-						<key>Title</key>
-						<string>How to customize this macro to your own needs</string>
+						<string>Filtered text from clipboard as alias  </string>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -885,9 +840,9 @@
 				Bd7///MmAAAHkgAA/ZH///ui///9owAAA9wAAMBs
 				</data>
 				<key>ModificationDate</key>
-				<real>581732896.06895602</real>
+				<real>581794479.26467896</real>
 				<key>Name</key>
-				<string>Gather declensions and add as aliases to selected entry in DT3</string>
+				<string>Filtered text from clipboard as alias</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
