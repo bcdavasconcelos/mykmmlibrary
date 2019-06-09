@@ -54,9 +54,9 @@ So, when you are on finder: select a file and run the macro:
 
 ***
 
-Likewise, this macro does essentially the same thing, but it uses the MMD engine for converting.  
-
 ## Multimarkdown Converter on Finder
+Likewise, this macro does essentially the same thing, but it uses the MMD engine for converting.    
+  
 <p align="center">  
 <img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/MMD1.png" alt="Prompt for Author or Work" width="70%" height="70%">
 </p>  
