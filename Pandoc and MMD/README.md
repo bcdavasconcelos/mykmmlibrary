@@ -45,7 +45,8 @@ If you would like to contribute, please join the discussion at https://tinyurl.c
 
 ## Pandoc Macro for selected files on Finder
 
-Select a file and run the macro:
+This is essently the same as the last one, but it does not rely on AppleScript and will work directly on Finder.   
+So, when you are on finder: select a file and run the macro:
   
 <p align="center">  
 <img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/Pandoc1.png" alt="Prompt for Author or Work" class="center" width="70%" height="70%">
@@ -53,9 +54,12 @@ Select a file and run the macro:
 
 ***
 
+Likewise, this macro does essentially the same thing, but it uses the MMD engine for converting.  
+
 ## Multimarkdown Converter on Finder
 <p align="center">  
 <img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/MMD1.png" alt="Prompt for Author or Work" width="70%" height="70%">
 </p>  
 
 
+If you have any suggestions for improvement, they are more thane welcome.
