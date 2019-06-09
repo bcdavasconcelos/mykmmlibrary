@@ -34,7 +34,7 @@ If you would like to contribute, please join the discussion at https://tinyurl.c
 
 * It would be nice to add bibliography and templates support at some point.
  
-* Now the resulting file will be imported into DT3.
+* After conversion, the resulting file will be imported into DT3.
 
 **PLEASE NOTE: For this macro to work, YOU MUST correct the path for the temporary conversion file:**  
 
