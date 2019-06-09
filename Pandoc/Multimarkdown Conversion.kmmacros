@@ -245,12 +245,12 @@
 				<array>
 					<dict>
 						<key>ActionName</key>
-						<string>Tomar nome do arquivo e abrir terminal</string>
+						<string>Gather file name and extension. Open terminal to folder.</string>
 						<key>Actions</key>
 						<array>
 							<dict>
 								<key>ActionName</key>
-								<string>Coletar nome e extensão</string>
+								<string>Gather file name and extension</string>
 								<key>Actions</key>
 								<array>
 									<dict>
@@ -285,7 +285,7 @@
 								<key>ActionColor</key>
 								<string>Orange</string>
 								<key>ActionName</key>
-								<string>Abrir terminal na pasta</string>
+								<string>Open terminal to folder.</string>
 								<key>DisplayKind</key>
 								<string>None</string>
 								<key>IncludeStdErr</key>
@@ -330,8 +330,6 @@ end tell</string>
 								</dict>
 							</array>
 						</dict>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>For</string>
 						<key>TimeOutAbortsMacro</key>
@@ -341,7 +339,7 @@ end tell</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Opções, inserir comando e executar</string>
+						<string>Settings</string>
 						<key>Actions</key>
 						<array>
 							<dict>
@@ -363,11 +361,11 @@ end tell</string>
 								<key>MacroActionType</key>
 								<string>PromptForUserInput</string>
 								<key>Prompt</key>
-								<string>ATENÇÃO: Não usar espaço no nome do arquivo.</string>
+								<string>! Make sure to remove spaces from file name !</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
 								<key>Title</key>
-								<string>Conversão com MMD</string>
+								<string>File conversion using Multimarkdown</string>
 								<key>Variables</key>
 								<array>
 									<dict>
@@ -486,6 +484,8 @@ end tell</string>
 								<true/>
 							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -493,7 +493,7 @@ end tell</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>Limpar variáveis</string>
+						<string>Cleanup variables</string>
 						<key>Actions</key>
 						<array>
 							<dict>
@@ -557,6 +557,8 @@ end tell</string>
 								<string>Output</string>
 							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -568,9 +570,9 @@ end tell</string>
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/MultiMarkdown Converter Pro.app</string>
 				<key>ModificationDate</key>
-				<real>581267604.23729205</real>
+				<real>581718272.53326595</real>
 				<key>Name</key>
-				<string>Conversão: MMD</string>
+				<string>Multimarkdown Conversion</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -596,17 +598,13 @@ end tell</string>
 		<true/>
 		<key>Theme</key>
 		<dict>
-			<key>Columns</key>
-			<integer>20</integer>
 			<key>Opacity</key>
 			<integer>100</integer>
 			<key>Size</key>
-			<integer>27</integer>
+			<integer>18</integer>
 			<key>Theme</key>
-			<string>Custom</string>
+			<string>Red Wine</string>
 			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseText</key>
 			<false/>
 			<key>UseTitle</key>
 			<false/>

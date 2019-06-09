@@ -251,8 +251,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6tAwAAKwAAAAEA
-						AAClAwAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7sAgAAKwAAAAEA
+						AADkAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
 						XGNvY29hc3VicnRmNTAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
@@ -277,31 +277,22 @@
 						MnQgaGF2ZSB0aGVtIGluc3RhbGxl
 						ZCwgaXQgd29uXCc5MnQgd29yay5c
 						ClwKSWYgeW91IHdvdWxkIGxpa2Ug
-						dG8gYWRkIG90aGVyIHZhcmlhYmxl
-						cyBhbmQgZm9ybWF0cywgcGxlYXNl
-						IGRvIGEgcHVsbCByZXF1ZXN0IGF0
-						IGh0dHBzOi8vZ2l0aHViLmNvbS9i
-						Y2RhdmFzY29uY2Vsb3MvbXlrbW1s
-						aWJyYXJ5L3RyZWUvbWFzdGVyL1Bh
-						bmRvYyBvciBqb2luIHRoZSBkaXNj
-						dXNzaW9uIGF0IGh0dHBzOi8vZm9y
-						dW0ua2V5Ym9hcmRtYWVzdHJvLmNv
-						bS90L21hY3JvLWNvbnZlcnQtbWFy
-						a2Rvd24tdG8tcGRmLWZpbGUtd2l0
-						aC1wcm9tcHQtZm9yLXBhcmFtZXRl
-						cnMvMTM3MTlcClwKVG8gZG86XApB
-						ZGQgSFRNTCBvdXRwdXRcCkFkZCBi
-						aWJsaW9ncmFwaHkgc3VwcG9ydFwK
-						QWRkIHRlbXBsYXRlIG9wdGlvbnNc
-						ClwKU291cmNlOiBodHRwczovL2dp
-						dGh1Yi5jb20vYmNkYXZhc2NvbmNl
-						bG9zL215a21tbGlicmFyeS90cmVl
-						L21hc3Rlci9QYW5kb2N9AQAAACMA
-						AAABAAAABwAAAFRYVC5ydGYQAAAA
-						etn6XLYBAAAAAAAAAAAAAA==
+						dG8gY29udHJpYnV0ZSwgcGxlYXNl
+						IGpvaW4gdGhlIGRpc2N1c3Npb24g
+						YXQgaHR0cHM6Ly90aW55dXJsLmNv
+						bS95Mnh2MmxjNVwKXApUbyBkbzpc
+						CkFkZCBvdGhlciBpbnB1dHMgYW5k
+						IG91dHB1dHNcCkFkZCBiaWJsaW9n
+						cmFwaHkgc3VwcG9ydFwKQWRkIHRl
+						bXBsYXRlIG9wdGlvbnNcClwKU291
+						cmNlOiBodHRwczovL2dpdGh1Yi5j
+						b20vYmNkYXZhc2NvbmNlbG9zL215
+						a21tbGlicmFyeX0BAAAAIwAAAAEA
+						AAAHAAAAVFhULnJ0ZhAAAAASGPxc
+						tgEAAAAAAAAAAAAA
 						</data>
 						<key>Title</key>
-						<string>Instructions</string>
+						<string>Info</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
@@ -334,8 +325,6 @@
 										<string>Extension</string>
 									</dict>
 								</array>
-								<key>IsDisclosed</key>
-								<false/>
 								<key>MacroActionType</key>
 								<string>Group</string>
 								<key>TimeOutAbortsMacro</key>
@@ -350,8 +339,6 @@
 								<string>None</string>
 								<key>IncludeStdErr</key>
 								<true/>
-								<key>IsDisclosed</key>
-								<false/>
 								<key>MacroActionType</key>
 								<string>ExecuteAppleScript</string>
 								<key>NotifyOnFailure</key>
@@ -379,6 +366,76 @@ end tell</string>
 								<key>UseText</key>
 								<true/>
 							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Red</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>Comment</string>
+								<key>StyledText</key>
+								<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6qAQAA
+								KwAAAAEAAACi
+								AQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNTAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBIZWx2ZXRp
+								Y2FOZXVlO30K
+								e1xjb2xvcnRi
+								bDtccmVkMjU1
+								XGdyZWVuMjU1
+								XGJsdWUyNTU7
+								XHJlZDBcZ3Jl
+								ZW4wXGJsdWUw
+								O30Ke1wqXGV4
+								cGFuZGVkY29s
+								b3J0Ymw7O1xj
+								c3NyZ2JcYzBc
+								YzBcYzBcY25h
+								bWUgdGV4dENv
+								bG9yO30KXHBh
+								cmRcdHg1NjBc
+								dHgxMTIwXHR4
+								MTY4MFx0eDIy
+								NDBcdHgyODAw
+								XHR4MzM2MFx0
+								eDM5MjBcdHg0
+								NDgwXHR4NTA0
+								MFx0eDU2MDBc
+								dHg2MTYwXHR4
+								NjcyMFxwYXJk
+								aXJuYXR1cmFs
+								XHBhcnRpZ2h0
+								ZW5mYWN0b3Iw
+								CgpcZjBcZnMy
+								NiBcY2YyIEkg
+								ZGlkIG5vdCB3
+								cml0ZSB0aGlz
+								IHNjcmlwdCwg
+								SSBmb3VuZCBp
+								dCwgYnV0IEkg
+								Y2FuXCc5MnQg
+								cmVtZW1iZXIg
+								d2hlcmUufQEA
+								AAAjAAAAAQAA
+								AAcAAABUWFQu
+								cnRmEAAAAFUY
+								/Fy2AQAAAAAA
+								AAAAAAA=
+								</data>
+								<key>Title</key>
+								<string>Note</string>
+							</dict>
 						</array>
 						<key>Collections</key>
 						<dict>
@@ -390,8 +447,6 @@ end tell</string>
 								</dict>
 							</array>
 						</dict>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>For</string>
 						<key>TimeOutAbortsMacro</key>
@@ -465,8 +520,6 @@ end tell</string>
 								<false/>
 								<key>ElseActions</key>
 								<array/>
-								<key>IsDisclosed</key>
-								<false/>
 								<key>MacroActionType</key>
 								<string>IfThenElse</string>
 								<key>ThenActions</key>
@@ -494,8 +547,6 @@ end tell</string>
 														<true/>
 													</dict>
 												</array>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>PromptForUserInput</string>
 												<key>Prompt</key>
@@ -523,7 +574,7 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>markdown|docx|epub|gfm|html|json|latex|markdown_mmd|markdown_phpextra|odt|opml</string>
+														<string>markdown_mmd|docx|epub|gfm|html|json|latex|markdown|markdown_phpextra|odt|opml</string>
 														<key>Variable</key>
 														<string>Source</string>
 													</dict>
@@ -547,13 +598,13 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string>Gentium Plus|Alegreya|Alverata|Avenir Next LT Pro|Cambria|Cardo|Cousine|DejaVu LGC Sans|DejaVu LGC Sans Mono|DejaVu LGC Serif|EB Garamond|Fira Mono|Gabriola|Gentium Plus|GFS Artemisia|GFS Didot|GFS Elpis|GFS Galatea|GFS Neohellenic|GFS Porson|Iosevka|Linux Biolium O|Linux Libertine O|Noto Mono|Noto Serif|SBL Greek Regular|Source Sans Pro|Ubuntu Mono</string>
+														<string>Gentium Plus|Alegreya|Alverata Irregular|Avenir Next LT Pro|Cambria|Cardo|Cousine|DejaVu LGC Sans|DejaVu LGC Sans Mono|DejaVu LGC Serif|EB Garamond|Fira Mono|Gabriola|Gentium Plus|GFS Artemisia|GFS Didot|GFS Elpis|GFS Galatea|GFS Neohellenic|GFS Porson|Iosevka|Linux Biolium O|Linux Libertine O|Noto Mono|Noto Serif|SBL Greek Regular|Source Sans Pro|Ubuntu Mono</string>
 														<key>Variable</key>
 														<string>Main font</string>
 													</dict>
 													<dict>
 														<key>Default</key>
-														<string> |Source Sans Pro|Alegreya Sans|Alegreya Sans Light Regular|ArimoDejaVu LGC Sans|Linux Biolium O|Microsoft Sans Serif|</string>
+														<string> |Source Sans Pro|Alegreya Sans|Alegreya Sans Light Regular|Arimo|DejaVu LGC Sans|Linux Biolium O|Microsoft Sans Serif|</string>
 														<key>Variable</key>
 														<string>Sans serif</string>
 													</dict>
@@ -598,8 +649,6 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 											<dict>
 												<key>Destination</key>
 												<string>%Variable%Rename%.%Variable%Correct Extension%</string>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>File</string>
 												<key>Operation</key>
@@ -614,16 +663,12 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 												<string>Green</string>
 												<key>ActionName</key>
 												<string>Paste command to terminal</string>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>InsertText</string>
 												<key>Text</key>
 												<string>pandoc -s -f %Variable%Source% %Variable%Rename%.%Variable%Correct Extension% %Variable%Engine% %Variable%TOC% %Variable%TOC Depth% -V 'mainfont=%Variable%Main font%' -V 'sansfont=%Variable%Sans serif%' -V 'monofont=%Variable%Mono spaced%' -V 'fontsize=%Variable%Font size%' %Variable%Layout% -V 'linestretch:%Variable%Linestretch%' -V 'colorlinks:%Variable%colorlinks%' -V 'pagestyle:%Variable%Page style%' -o %Variable%Rename%.pdf</string>
 											</dict>
 										</array>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>Group</string>
 										<key>TimeOutAbortsMacro</key>
@@ -719,8 +764,6 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 											<dict>
 												<key>Destination</key>
 												<string>%Variable%Rename%.%Variable%Correct Extension%</string>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>File</string>
 												<key>Operation</key>
@@ -735,8 +778,6 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 												<string>Green</string>
 												<key>ActionName</key>
 												<string>Paste command to terminal</string>
-												<key>IsDisclosed</key>
-												<false/>
 												<key>MacroActionType</key>
 												<string>InsertText</string>
 												<key>Text</key>
@@ -914,8 +955,6 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 												<true/>
 											</dict>
 										</array>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>Group</string>
 										<key>TimeOutAbortsMacro</key>
@@ -1462,7 +1501,7 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 				//2jAAAD3AAAwGw=
 				</data>
 				<key>ModificationDate</key>
-				<real>581636392.84368801</real>
+				<real>581718125.79007995</real>
 				<key>Name</key>
 				<string>Pandoc 1.0</string>
 				<key>Triggers</key>
@@ -1479,17 +1518,13 @@ Use fonts with "greek extended" support, such as: Alegreya, Alverata, Cambria, C
 		<true/>
 		<key>Theme</key>
 		<dict>
-			<key>Columns</key>
-			<integer>20</integer>
 			<key>Opacity</key>
 			<integer>100</integer>
 			<key>Size</key>
-			<integer>27</integer>
+			<integer>18</integer>
 			<key>Theme</key>
-			<string>Custom</string>
+			<string>Red Wine</string>
 			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseText</key>
 			<false/>
 			<key>UseTitle</key>
 			<false/>

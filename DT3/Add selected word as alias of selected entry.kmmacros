@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>OnceWithPalette</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>571786045.54625595</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/Applications/DEVONthink 3.app</string>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>ActionName</key>
+						<string>This macro adds the selected text of the selected entry as an alias to the same selected entry</string>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						e1xydGYxXGFuc2lcYW5zaWNwZzEy
+						NTJcY29jb2FydGYxNjcxXGNvY29h
+						c3VicnRmNTAwCntcZm9udHRibH0K
+						e1xjb2xvcnRibDtccmVkMjU1XGdy
+						ZWVuMjU1XGJsdWUyNTU7fQp7XCpc
+						ZXhwYW5kZWRjb2xvcnRibDs7fQp9
+						</data>
+						<key>Title</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>Copy</string>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ClipboardSwitcherMacroAction</string>
+						<key>Name</key>
+						<string>020A05C3-3FBB-4372-A0AA-A0A563D8C0C7</string>
+						<key>RedundandDisplayName</key>
+						<string>Temporary</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Get existing aliases</string>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>use AppleScript version "2.4" -- Yosemite (10.10) or lateruse scripting additionstell application id "DNtp"	try		set theSelection to selection		if theSelection is {} then error "Select an item, please"				repeat with thisItem in theSelection						set thisText to the aliases of item 1 of theSelection			set the clipboard to thisText								end repeat	end tryend tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%NamedClipboard%Temporary%, %SystemClipboard%</string>
+						<key>Variable</key>
+						<string>Aliases</string>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>JustDisplay</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetClipboardToText</string>
+						<key>Text</key>
+						<string>%Variable%Aliases%</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Set aliases to clipboard</string>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>use AppleScript version "2.4" -- Yosemite (10.10) or lateruse scripting additionstell application id "DNtp"	try		set theSelection to selection		if theSelection is {} then error "Select an item, please"				repeat with thisItem in theSelection						set theKey to the clipboard			set aliases of thisItem to theKey					end repeat	end tryend tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%Delete%</string>
+						<key>Variable</key>
+						<string>Temporary</string>
+					</dict>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%Delete%</string>
+						<key>Variable</key>
+						<string>SystemClipboard</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>509135479.99229401</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Rounded=KMCOLOR:128,0,64,255=A=110=0=0=0=KMCOLOR:211,211,211,255</string>
+				<key>ModificationDate</key>
+				<real>581721248.290694</real>
+				<key>Name</key>
+				<string>04)Add as alias</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>7</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>768</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>20715E3F-5B59-465D-AFE6-805D954B421E</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>α Apps - Devonthink</string>
+		<key>PaletteUnderMouse</key>
+		<true/>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.devon-technologies.think3</string>
+					<key>Name</key>
+					<string>DEVONthink 3</string>
+					<key>NewFile</key>
+					<string>/Applications/DEVONthink 3.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Theme</key>
+		<dict>
+			<key>Opacity</key>
+			<integer>100</integer>
+			<key>Theme</key>
+			<string>Red Night</string>
+			<key>UseDefaultInstead</key>
+			<false/>
+			<key>UseTitle</key>
+			<false/>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>B1C7E396-7867-4AC4-9A4E-E476A78351A8</string>
+		<key>UID</key>
+		<string>90DCEB0F-16C9-4AB0-A78A-C4EEA21A6C19</string>
+	</dict>
+</array>
+</plist>
