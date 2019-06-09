@@ -42,4 +42,6 @@ Select a file and run the macro:
 
 * The resulting file will be imported into DT3.
 
-For this macro to work, YOU MUST 
+**For this macro to work, YOU MUST correct the path for the temporary conversion file:**  
+
+<img src="https://github.com/bcdavasconcelos/mykmmlibrary/blob/master/Screenshots/PandocDT3-3.png" alt="Prompt for Author or Work" width="70%" height="70%">
