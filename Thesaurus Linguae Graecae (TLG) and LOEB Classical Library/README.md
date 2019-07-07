@@ -6,6 +6,7 @@ The TLG Macro also relied on Regex Macros shared on the Keyboard Maestro Forum b
 
 # Dependencies
 * You must have [Spotlight Search Prompt installed](https://forum.keyboardmaestro.com/t/macro-spotlight-search-prompt/4665).
+* [Keyboard Maestro](https://www.keyboardmaestro.com)
 
 # Screenshots
 
