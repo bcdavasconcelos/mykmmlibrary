@@ -4,263 +4,9 @@
 <array>
 	<dict>
 		<key>Activate</key>
-		<string>ActiveAndOnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
+		<string>Normal</string>
 		<key>CreationDate</key>
-		<real>580484712.26169801</real>
-		<key>CustomIconData</key>
-		<data>
-		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
-		ZWxHUgAAACIAAAP8cHRQTwAAACYAAAQebmxOTAAAACgAAAREZXNFUwAAACYA
-		AAQedGhUSAAAACQAAARsdHJUUgAAACIAAASQZmlGSQAAACgAAASyaHJIUgAA
-		ACgAAATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUuYXJFRwAAACYAAAVQZW5V
-		UwAAACYAAAV2AFYBYQBlAG8AYgBlAGMAbgD9ACAAUgBHAEIAIABwAHIAbwBm
-		AGkAbABHAGUAbgBlAHIAZQBsACAAUgBHAEIALQBiAGUAcwBrAHIAaQB2AGUA
-		bABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcAZQBuAOgAcgBpAGMAQx6l
-		AHUAIABoAOwAbgBoACAAUgBHAEIAIABDAGgAdQBuAGcAUABlAHIAZgBpAGwA
-		IABSAEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAEMwQwBDsETAQ9BDgEOQAg
-		BD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIAbwBmAGkAbAAgAGcA6QBuAOkA
-		cgBpAHEAdQBlACAAUgBWAEIAwQBsAHQAYQBsAOEAbgBvAHMAIABSAEcAQgAg
-		AHAAcgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9pY8+P8ABHAGUAbgBlAHIA
-		aQBzAGsAIABSAEcAQgAtAHAAcgBvAGYAaQBsAE8AYgBlAGMAbgD9ACAAUgBH
-		AEIAIABwAHIAbwBmAGkAbAXkBegF1QXkBdkF3AAgAFIARwBCACAF2wXcBdwF
-		2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUAbgBlAHIAaQBjAG8AUABy
-		AG8AZgBpAGwAIABSAEcAQgAgAGcAZQBuAGUAcgBpAGMAQQBsAGwAZwBlAG0A
-		ZQBpAG4AZQBzACAAUgBHAEIALQBQAHIAbwBmAGkAbMd8vBgAIABSAEcAQgAg
-		1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072TgCCLAAgAFIARwBCACAw
-		1zDtMNUwoTCkMOsDkwO1A70DuQO6A8wAIAPAA8EDvwPGA68DuwAgAFIARwBC
-		AFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUAbgDpAHIAaQBjAG8AQQBsAGcA
-		ZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkAZQBsDkIOGw4jDkQOHw4l
-		DkwAIABSAEcAQgAgDhcOMQ5IDicORA4bAEcAZQBuAGUAbAAgAFIARwBCACAA
-		UAByAG8AZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAAUgBHAEIALQBwAHIAbwBm
-		AGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkAIABSAEcAQgAgAHAAcgBvAGYA
-		aQBsAFUAbgBpAHcAZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYAaQBsACAAUgBH
-		AEIEHgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAgAFIARwBCBkUGRAZBACAG
-		KgY5BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYnBkUARwBlAG4AZQByAGkAYwAg
-		AFIARwBCACAAUAByAG8AZgBpAGwAZXRleHQAAAAAQ29weXJpZ2h0IDIwMDcg
-		QXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZlZC4AWFlaIAAAAAAAAPNS
-		AAEAAAABFs9YWVogAAAAAAAAdE0AAD3uAAAD0FhZWiAAAAAAAABadQAArHMA
-		ABc0WFlaIAAAAAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEBzQAAc2YzMgAA
-		AAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L///2jAAAD3AAAwGyAACBQOCQW
-		DQeEQmFQuGQ2HQ+IRGJROKRWLReMRmNRuOR2CgEBgUEhAXkVAvNtMhMPx6O5
-		vR6YTGHgYIBgWBMblFKgkOCofOxjKk5PJrsRHzKkUmDBAXERABIak4/v99vo
-		APh0t1juddJgegB/v9+0qyRwAgEBBgiGZfgkNCUfWKx2B/PtzLZJDZ9O9ztC
-		y3+LgcKB4cBkkGpiACzgOwP/FAQDAB4M9cIR3tFdH3AZuJhUdldSAsQjArvB
-		ortA0ynSACgO9uhs3dJDGxPt75zcQcCA0JiQOE46NN7uZtL91MFRE8Mkk1so
-		DhMOjCCOlfJ4mvZyNdabnuQMIjEkojvkg7uiuk7sNdZg8VkA71AnIjGgB6uB
-		oLHjqMod3OAIDgUCjfjoax+nyep2nMWpItofp+HwAgGAkEINCYOBogEAoEAa
-		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
-		AAAERGVzRVMAAAAmAAAEHnRoVEgAAAAkAAAEbHRyVFIAAAAiAAAEkGZpRkkA
-		AAAoAAAEsmhySFIAAAAoAAAE2nBsUEwAAAAsAAAFAnJ1UlUAAAAiAAAFLmFy
-		RUcAAAAmAAAFUGVuVVMAAAAmAAAFdgBWAWEAZQBvAGIAZQBjAG4A/QAgAFIA
-		RwBCACAAcAByAG8AZgBpAGwARwBlAG4AZQByAGUAbAAgAFIARwBCAC0AYgBl
-		AHMAawByAGkAdgBlAGwAcwBlAFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUA
-		bgDoAHIAaQBjAEMepQB1ACAAaADsAG4AaAAgAFIARwBCACAAQwBoAHUAbgBn
-		AFAAZQByAGYAaQBsACAAUgBHAEIAIABHAGUAbgDpAHIAaQBjAG8EFwQwBDME
-		MAQ7BEwEPQQ4BDkAIAQ/BEAEPgREBDAEOQQ7ACAAUgBHAEIAUAByAG8AZgBp
-		AGwAIABnAOkAbgDpAHIAaQBxAHUAZQAgAFIAVgBCAMEAbAB0AGEAbADhAG4A
-		bwBzACAAUgBHAEIAIABwAHIAbwBmAGkAbJAadSgAIABSAEcAQgAggnJfaWPP
-		j/AARwBlAG4AZQByAGkAcwBrACAAUgBHAEIALQBwAHIAbwBmAGkAbABPAGIA
-		ZQBjAG4A/QAgAFIARwBCACAAcAByAG8AZgBpAGwF5AXoBdUF5AXZBdwAIABS
-		AEcAQgAgBdsF3AXcBdkAUAByAG8AZgBpAGwAbwAgAFIARwBCACAAZwBlAG4A
-		ZQByAGkAYwBvAFAAcgBvAGYAaQBsACAAUgBHAEIAIABnAGUAbgBlAHIAaQBj
-		AEEAbABsAGcAZQBtAGUAaQBuAGUAcwAgAFIARwBCAC0AUAByAG8AZgBpAGzH
-		fLwYACAAUgBHAEIAINUEuFzTDMd8Zm6QGgAgAFIARwBCACBjz4/wZYdO9k4A
-		giwAIABSAEcAQgAgMNcw7TDVMKEwpDDrA5MDtQO9A7kDugPMACADwAPBA78D
-		xgOvA7sAIABSAEcAQgBQAGUAcgBmAGkAbAAgAFIARwBCACAAZwBlAG4A6QBy
-		AGkAYwBvAEEAbABnAGUAbQBlAGUAbgAgAFIARwBCAC0AcAByAG8AZgBpAGUA
-		bA5CDhsOIw5EDh8OJQ5MACAAUgBHAEIAIA4XDjEOSA4nDkQOGwBHAGUAbgBl
-		AGwAIABSAEcAQgAgAFAAcgBvAGYAaQBsAGkAWQBsAGUAaQBuAGUAbgAgAFIA
-		RwBCAC0AcAByAG8AZgBpAGkAbABpAEcAZQBuAGUAcgBpAQ0AawBpACAAUgBH
-		AEIAIABwAHIAbwBmAGkAbABVAG4AaQB3AGUAcgBzAGEAbABuAHkAIABwAHIA
-		bwBmAGkAbAAgAFIARwBCBB4EMQRJBDgEOQAgBD8EQAQ+BEQEOAQ7BEwAIABS
-		AEcAQgZFBkQGQQAgBioGOQYxBkoGQQAgAFIARwBCACAGJwZEBjkGJwZFAEcA
-		ZQBuAGUAcgBpAGMAIABSAEcAQgAgAFAAcgBvAGYAaQBsAGV0ZXh0AAAAAENv
-		cHlyaWdodCAyMDA3IEFwcGxlIEluYy4sIGFsbCByaWdodHMgcmVzZXJ2ZWQu
-		AFhZWiAAAAAAAADzUgABAAAAARbPWFlaIAAAAAAAAHRNAAA97gAAA9BYWVog
-		AAAAAAAAWnUAAKxzAAAXNFhZWiAAAAAAAAAoGgAAFZ8AALg2Y3VydgAAAAAA
-		AAABAc0AAHNmMzIAAAAAAAEMQgAABd7///MmAAAHkgAA/ZH///ui///9owAA
-		A9wAAMBsgAAgUDgkFg0HhEJhULhkNAABAgGBgAfz9fL/ir7h0bjkDAYKBwbC
-		5BMKxd7NWp4e7obi8jsvhoNEo3M4WIJgTDwaC5TDtZSwNMwoUFAIDAgHCo9L
-		SqAICAkRCYbGjlWKMFD+fT3d9DmAKDwsKQKDQnJTxa7CRocJ52azrYqpMT0b
-		rMT9cjoBCxAL6yeTXYiOfDpbq/DJINTHh9Fc64Sw4AD/jF2hIHCgeHARGBHQ
-		zoXqdIuPioMEY0MIVHhZTzmWqQHD5djjZOShAUHRWUT5dbhYrzbbJTMEAQHB
-		QTDhQO7bezhaSudjIVpk2UDAgMCQiCw/LqudC7TRBrFahATG5RTAMEIyLTkW
-		CJEr9fD0dOSCIyJKJANFAruZq0OUMygOhuDQmDgZB2mOVo2nkbJjEooQBAMB
-		IIgyI40mKdRhFIKZ9nidRroa+4BsKNZkqKo5zlsSYZIwfqNI2BwTh0NoDgsE
-		IenWYZSisoQGBEGQvAqHwuFCc5bkqITAsGhkSgPAQ4GmfR2nIZR7nObaXMSh
-		zIAGBIHg2CYbCeQh6G4ZRWwuUoqIYAQCgOBoIBaIg/gCAwEAc+6IKGyB/Mgf
-		58n4eh3HGeJqmARDo0OmCAgAABEBAAADAAAAAQAQAAABAQADAAAAAQAQAAAB
-		AgADAAAABAAAIqQBAwADAAAAAQAFAAABBgADAAAAAQACAAABCgADAAAAAQAB
-		AAABEQAEAAAAAQAAIAQBEgADAAAAAQABAAABFQADAAAAAQAEAAABFgADAAAA
-		AQAQAAABFwAEAAAAAQAAAc0BHAADAAAAAQABAAABKAADAAAAAQACAAABPQAD
-		AAAAAQACAAABUgADAAAAAQABAAABUwADAAAABAAAIqyHcwAHAAAH2AAAIrQA
-		AAAAAAgACAAIAAgAAQABAAEAAQAAB9hhcHBsAiAAAG1udHJSR0IgWFlaIAfZ
-		AAIAGQALABoAC2Fjc3BBUFBMAAAAAGFwcGwAAAAAAAAAAAAAAAAAAAAAAAD2
-		1gABAAAAANMtYXBwbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-		AAAAAAAAAAAAAAAAAAAAC2Rlc2MAAAEIAAAAb2RzY20AAAF4AAAFnGNwcnQA
-		AAcUAAAAOHd0cHQAAAdMAAAAFHJYWVoAAAdgAAAAFGdYWVoAAAd0AAAAFGJY
-		WVoAAAeIAAAAFHJUUkMAAAecAAAADmNoYWQAAAesAAAALGJUUkMAAAecAAAA
-		DmdUUkMAAAecAAAADmRlc2MAAAAAAAAAFEdlbmVyaWMgUkdCIFByb2ZpbGUA
-		AAAAAAAAAAAAABRHZW5lcmljIFJHQiBQcm9maWxlAAAAAAAAAAAAAAAAAAAA
-		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtbHVjAAAAAAAA
-		AB8AAAAMc2tTSwAAACgAAAGEZGFESwAAAC4AAAGsY2FFUwAAACQAAAHadmlW
-		TgAAACQAAAH+cHRCUgAAACYAAAIidWtVQQAAACoAAAJIZnJGVQAAACgAAAJy
-		aHVIVQAAACgAAAKaemhUVwAAABYAAALCbmJOTwAAACYAAALYY3NDWgAAACIA
-		AAL+aGVJTAAAAB4AAAMgaXRJVAAAACgAAAM+cm9STwAAACQAAANmZGVERQAA
-		ACwAAAOKa29LUgAAABYAAAO2c3ZTRQAAACYAAALYemhDTgAAABYAAAPMamFK
-		UAAAABoAAAPiZWxHUgAAACIAAAP8cHRQTwAAACYAAAQebmxOTAAAACgAAARE
-		ZXNFUwAAACYAAAQedGhUSAAAACQAAARsdHJUUgAAACIAAASQZmlGSQAAACgA
-		AASyaHJIUgAAACgAAATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUuYXJFRwAA
-		ACYAAAVQZW5VUwAAACYAAAV2AFYBYQBlAG8AYgBlAGMAbgD9ACAAUgBHAEIA
-		IABwAHIAbwBmAGkAbABHAGUAbgBlAHIAZQBsACAAUgBHAEIALQBiAGUAcwBr
-		AHIAaQB2AGUAbABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcAZQBuAOgA
-		cgBpAGMAQx6lAHUAIABoAOwAbgBoACAAUgBHAEIAIABDAGgAdQBuAGcAUABl
-		AHIAZgBpAGwAIABSAEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAEMwQwBDsE
-		TAQ9BDgEOQAgBD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIAbwBmAGkAbAAg
-		AGcA6QBuAOkAcgBpAHEAdQBlACAAUgBWAEIAwQBsAHQAYQBsAOEAbgBvAHMA
-		IABSAEcAQgAgAHAAcgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9pY8+P8ABH
-		AGUAbgBlAHIAaQBzAGsAIABSAEcAQgAtAHAAcgBvAGYAaQBsAE8AYgBlAGMA
-		bgD9ACAAUgBHAEIAIABwAHIAbwBmAGkAbAXkBegF1QXkBdkF3AAgAFIARwBC
-		ACAF2wXcBdwF2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUAbgBlAHIA
-		aQBjAG8AUAByAG8AZgBpAGwAIABSAEcAQgAgAGcAZQBuAGUAcgBpAGMAQQBs
-		AGwAZwBlAG0AZQBpAG4AZQBzACAAUgBHAEIALQBQAHIAbwBmAGkAbMd8vBgA
-		IABSAEcAQgAg1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072TgCCLAAg
-		AFIARwBCACAw1zDtMNUwoTCkMOsDkwO1A70DuQO6A8wAIAPAA8EDvwPGA68D
-		uwAgAFIARwBCAFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUAbgDpAHIAaQBj
-		AG8AQQBsAGcAZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkAZQBsDkIO
-		Gw4jDkQOHw4lDkwAIABSAEcAQgAgDhcOMQ5IDicORA4bAEcAZQBuAGUAbAAg
-		AFIARwBCACAAUAByAG8AZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAAUgBHAEIA
-		LQBwAHIAbwBmAGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkAIABSAEcAQgAg
-		AHAAcgBvAGYAaQBsAFUAbgBpAHcAZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYA
-		aQBsACAAUgBHAEIEHgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAgAFIARwBC
-		BkUGRAZBACAGKgY5BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYnBkUARwBlAG4A
-		ZQByAGkAYwAgAFIARwBCACAAUAByAG8AZgBpAGwAZXRleHQAAAAAQ29weXJp
-		Z2h0IDIwMDcgQXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZlZC4AWFla
-		IAAAAAAAAPNSAAEAAAABFs9YWVogAAAAAAAAdE0AAD3uAAAD0FhZWiAAAAAA
-		AABadQAArHMAABc0WFlaIAAAAAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEB
-		zQAAc2YzMgAAAAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L///2jAAAD3AAA
-		wGw=
-		</data>
-		<key>DisplayToggle</key>
-		<false/>
-		<key>KeyCode</key>
-		<integer>115</integer>
+		<real>587329043.32769895</real>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -269,39 +15,45 @@
 					<dict>
 						<key>ActionColor</key>
 						<string>Yellow</string>
+						<key>ActionName</key>
+						<string>Macro Info</string>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC4KAgAAKwAAAAEA
-						AAACAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC5gAgAAKwAAAAEA
+						AABYAgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
-						XGNvY29hc3VicnRmNTAwCntcZm9u
-						dHRibFxmMFxmc3dpc3NcZmNoYXJz
-						ZXQwIEhlbHZldGljYTt9CntcY29s
-						b3J0Ymw7XHJlZDI1NVxncmVlbjI1
-						NVxibHVlMjU1O30Ke1wqXGV4cGFu
-						ZGVkY29sb3J0Ymw7O30KXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcZnMyNCBc
-						Y2YwIE1hY3JvIGJ5IEJlcm5hcmRv
-						IENEQSBWYXNjb25jZWxvc1wKUGxl
-						YXNlIGNoZWNrIGh0dHBzOi8vdGlu
-						eXVybC5jb20veTJtd3lxejQgZm9y
-						IHVwZGF0ZXMgKHNob3VsZCB0aGVy
-						ZSBldmVyIGJlIGFueSkuXApcClRo
-						YW5rcyB0byBTdGVwaGVuIE1hcmdo
-						ZWltIGZvciB0aGUgZGF0YSBpbiBK
-						U09OIGFuZCBEYW4gVGhvbWFzIGZv
-						ciBcJzkzU3BvdGxpZ2h0IFNlYXJj
-						aCBQcm9tcHRcJzk0LlwKfQEAAAAj
-						AAAAAQAAAAcAAABUWFQucnRmEAAA
-						AGFT/Fy2AQAAAAAAAAAAAAA=
+						XGNvY29hc3VicnRmNjAwCntcZm9u
+						dHRibFxmMFxmbmlsXGZjaGFyc2V0
+						MCBTb3VyY2VDb2RlUHJvRm9yUG93
+						ZXJsaW5lLVNlbWlib2xkO30Ke1xj
+						b2xvcnRibDtccmVkMjU1XGdyZWVu
+						MjU1XGJsdWUyNTU7fQp7XCpcZXhw
+						YW5kZWRjb2xvcnRibDs7fQpccGFy
+						ZFx0eDU2MFx0eDExMjBcdHgxNjgw
+						XHR4MjI0MFx0eDI4MDBcdHgzMzYw
+						XHR4MzkyMFx0eDQ0ODBcdHg1MDQw
+						XHR4NTYwMFx0eDYxNjBcdHg2NzIw
+						XHBhcmRpcm5hdHVyYWxccGFydGln
+						aHRlbmZhY3RvcjAKClxmMFxiXGZz
+						MjQgXGNmMCBNYWNybyBieSBCZXJu
+						YXJkbyBDREEgVmFzY29uY2Vsb3Nc
+						ClBsZWFzZSBjaGVjayBodHRwczov
+						L3Rpbnl1cmwuY29tL3kybXd5cXo0
+						IGZvciB1cGRhdGVzIChzaG91bGQg
+						dGhlcmUgZXZlciBiZSBhbnkpLlwK
+						XApGaWVsZHMgaW4gcmVkIG11c3Qg
+						YmUgdXBkYXRlZCBmb3IgbWFjcm8g
+						dG8gd29yayBwcm9wZXJseS5cClwK
+						VGhhbmtzIHRvIFN0ZXBoZW4gTWFy
+						Z2hlaW0gZm9yIHRoZSBkYXRhIGlu
+						IEpTT04gYW5kIERhbiBUaG9tYXMg
+						Zm9yIFwnOTNTcG90bGlnaHQgU2Vh
+						cmNoIFByb21wdFwnOTQuXAp9AQAA
+						ACMAAAABAAAABwAAAFRYVC5ydGYQ
+						AAAAvLdRXbYBAAAAAAAAAAAAAA==
 						</data>
 						<key>Title</key>
 						<string></string>
@@ -312,10 +64,14 @@
 						<key>Actions</key>
 						<array>
 							<dict>
+								<key>ActionName</key>
+								<string>JSON Options</string>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
-								<string>title: LOEB Works and Authors
+								<string>title: LOEB Classical Library
 helpMacroUUID: 
 dataType: json
 jsonDisplayField: loeb_title
@@ -328,6 +84,10 @@ customPromptWidth: 700</string>
 								<string>sspOptions</string>
 							</dict>
 							<dict>
+								<key>ActionName</key>
+								<string>JSON Data</string>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -3457,6 +3217,72 @@ customPromptWidth: 700</string>
         "loeb_number": "521",
         "loeb_title": "Heroicus. Gymnasticus. Discourses 1 and 2",
         "loeb_url": "/view/LCL521/2014/volume.xml"
+    },
+    {
+        "loeb_author": "SALLUST, Fragments of the Histories. Letters to Caesar",
+        "loeb_number": "522",
+        "loeb_title": "SALLUST, Fragments of the Histories. Letters to Caesar",
+        "loeb_url": "/view/LCL522/2015/volume.xml"
+    },
+       {
+        "loeb_author": "GALEN, On the Constitution of the Art of Medicine. The Art of Medicine. A Method of Medicine to Glaucon",
+        "loeb_number": "523",
+        "loeb_title":  "GALEN, On the Constitution of the Art of Medicine. The Art of Medicine. A Method of Medicine to Glaucon",
+        "loeb_url": "/view/LCL523/2016/volume.xml"
+	},
+	{
+        "loeb_author": "Early Greek Philosophy, Volume I: Introductory and Reference Materials",
+        "loeb_number": "524",
+        "loeb_title": "Early Greek Philosophy, Volume I: Introductory and Reference Materials",
+        "loeb_url": "/view/LCL524/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume II: Beginnings and Early Ionian Thinkers, Part 1",
+        "loeb_number": "525",
+        "loeb_title": "Early Greek Philosophy, Volume II: Beginnings and Early Ionian Thinkers, Part 1",
+        "loeb_url": "/view/LCL525/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume III: Early Ionian Thinkers, Part 2",
+        "loeb_number": "526",
+        "loeb_title": "Early Greek Philosophy, Volume III: Early Ionian Thinkers, Part 2",
+        "loeb_url": "/view/LCL526/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume IV: Western Greek Thinkers, Part 1",
+        "loeb_number": "527",
+        "loeb_title": "Early Greek Philosophy, Volume IV: Western Greek Thinkers, Part 1",
+        "loeb_url": "/view/LCL527/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume V: Western Greek Thinkers, Part 2",
+        "loeb_number": "528",
+        "loeb_title": "Early Greek Philosophy, Volume V: Western Greek Thinkers, Part 2",
+        "loeb_url": "/view/LCL528/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume VI: Later Ionian and Athenian Thinkers, Part 1",
+        "loeb_number": "529",
+        "loeb_title": "Early Greek Philosophy, Volume VI: Later Ionian and Athenian Thinkers, Part 1",
+        "loeb_url": "/view/LCL529/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume VII: Later Ionian and Athenian Thinkers, Part 2",
+        "loeb_number": "530",
+        "loeb_title": "Early Greek Philosophy, Volume VII: Later Ionian and Athenian Thinkers, Part 2",
+        "loeb_url": "/view/LCL530/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume VIII: Sophists, Part 1",
+        "loeb_number": "531",
+        "loeb_title": "Early Greek Philosophy, Volume VIII: Sophists, Part 1",
+        "loeb_url": "/view/LCL531/2016/volume.xml"
+    },
+        {
+        "loeb_author": "Early Greek Philosophy, Volume IX: Sophists, Part 2",
+        "loeb_number": "532",
+        "loeb_title": "Early Greek Philosophy, Volume IX: Sophists, Part 2",
+        "loeb_url": "/view/LCL532/2016/volume.xml"
     }
 ]</string>
 								<key>Variable</key>
@@ -3466,6 +3292,8 @@ customPromptWidth: 700</string>
 								<key>ActionColor</key>
 								<string>Green</string>
 								<key>Asynchronously</key>
+								<false/>
+								<key>IsDisclosed</key>
 								<false/>
 								<key>MacroActionType</key>
 								<string>ExecuteMacro</string>
@@ -3477,22 +3305,842 @@ customPromptWidth: 700</string>
 								<false/>
 							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
 					<dict>
-						<key>IsDefaultApplication</key>
-						<true/>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>ActionName</key>
+						<string>Prompt: “Source” and "DT3"</string>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
-						<string>OpenURL</string>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>Open in DEVONthink 3?
+Use LOEB Online or Offline?</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
-						<key>URL</key>
-						<string>https://www.loebclassics.com%Variable%sspResult%</string>
+						<key>Title</key>
+						<string>DEVONthink</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string>YES|NO</string>
+								<key>Variable</key>
+								<string>DT3</string>
+							</dict>
+							<dict>
+								<key>Default</key>
+								<string>Offline|Online</string>
+								<key>Variable</key>
+								<string>Source</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>ActionName</key>
+						<string>Main Switch</string>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>Source</string>
+									<key>VariableConditionType</key>
+									<string>Is</string>
+									<key>VariableValue</key>
+									<string>Offline</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Yellow</string>
+								<key>ActionName</key>
+								<string>ONLINE</string>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>DT3</string>
+											<key>VariableConditionType</key>
+											<string>Is</string>
+											<key>VariableValue</key>
+											<string>YES</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Green</string>
+										<key>ActionName</key>
+										<string>SAFARI</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>IsDefaultApplication</key>
+												<true/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>OpenURL</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>URL</key>
+												<string>https://www.loebclassics.com%Variable%sspResult%</string>
+											</dict>
+										</array>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Yellow</string>
+										<key>ActionName</key>
+										<string>DT3</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>JustDisplay</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetClipboardToText</string>
+												<key>Text</key>
+												<string>https://www.loebclassics.com%Variable%sspResult%</string>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Red</string>
+												<key>IsDefaultApplication</key>
+												<true/>
+												<key>MacroActionType</key>
+												<string>OpenURL</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>URL</key>
+												<string>FOLDER</string>
+											</dict>
+											<dict>
+												<key>ActionListDisclosed</key>
+												<false/>
+												<key>Actions</key>
+												<array>
+													<dict>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>KeyCode</key>
+														<integer>45</integer>
+														<key>MacroActionType</key>
+														<string>SimulateKeystroke</string>
+														<key>Modifiers</key>
+														<integer>256</integer>
+														<key>ReleaseAll</key>
+														<false/>
+														<key>TargetApplication</key>
+														<dict/>
+														<key>TargetingType</key>
+														<string>Front</string>
+													</dict>
+													<dict>
+														<key>ActionName</key>
+														<string>Create record name LCL + Number</string>
+														<key>Actions</key>
+														<array>
+															<dict>
+																<key>ActionName</key>
+																<string>JSON Data Filter</string>
+																<key>Conditions</key>
+																<dict>
+																	<key>ConditionList</key>
+																	<array>
+																		<dict>
+																			<key>ConditionType</key>
+																			<string>Variable</string>
+																			<key>Variable</key>
+																			<string>sspResult</string>
+																			<key>VariableConditionType</key>
+																			<string>IsNotEmpty</string>
+																			<key>VariableValue</key>
+																			<string>value</string>
+																		</dict>
+																	</array>
+																	<key>ConditionListMatch</key>
+																	<string>All</string>
+																</dict>
+																<key>ElseActionListDisclosed</key>
+																<false/>
+																<key>ElseActions</key>
+																<array/>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>IfThenElse</string>
+																<key>ThenActions</key>
+																<array>
+																	<dict>
+																		<key>ActionName</key>
+																		<string>LCL Number</string>
+																		<key>Actions</key>
+																		<array>
+																			<dict>
+																				<key>ActionColor</key>
+																				<string>Teal</string>
+																				<key>IsDisclosed</key>
+																				<false/>
+																				<key>MacroActionType</key>
+																				<string>SetVariableToText</string>
+																				<key>Text</key>
+																				<string>%Variable%sspResult%</string>
+																				<key>Variable</key>
+																				<string>Local__Source_Data</string>
+																			</dict>
+																			<dict>
+																				<key>ActionColor</key>
+																				<string>Yellow</string>
+																				<key>Actions</key>
+																				<array>
+																					<dict>
+																						<key>Action</key>
+																						<string>IgnoreCaseRegEx</string>
+																						<key>ActionColor</key>
+																						<string>Yellow</string>
+																						<key>ActionName</key>
+																						<string>Extract Just the Number in Capture Group #1</string>
+																						<key>Captures</key>
+																						<array>
+																							<string></string>
+																						</array>
+																						<key>MacroActionType</key>
+																						<string>SearchRegEx</string>
+																						<key>Search</key>
+																						<string>\d{3}</string>
+																						<key>Source</key>
+																						<string>Variable</string>
+																						<key>Variable</key>
+																						<string>Local__Number</string>
+																					</dict>
+																					<dict>
+																						<key>IsDisclosed</key>
+																						<false/>
+																						<key>MacroActionType</key>
+																						<string>SetVariableToText</string>
+																						<key>Text</key>
+																						<string>%Variable%Local__TestResult%%Variable%Local__Number%
+</string>
+																						<key>Variable</key>
+																						<string>Local__TestResult_DOIS</string>
+																					</dict>
+																				</array>
+																				<key>Collections</key>
+																				<dict>
+																					<key>CollectionList</key>
+																					<array>
+																						<dict>
+																							<key>CollectionType</key>
+																							<string>SubstringsIn</string>
+																							<key>ResultType</key>
+																							<string>String</string>
+																							<key>Search</key>
+																							<string>\d{3}</string>
+																							<key>SearchKind</key>
+																							<string>Match</string>
+																							<key>Source</key>
+																							<string>Variable</string>
+																							<key>Variable</key>
+																							<string>Local__Source_Data</string>
+																						</dict>
+																					</array>
+																				</dict>
+																				<key>IsDisclosed</key>
+																				<false/>
+																				<key>MacroActionType</key>
+																				<string>For</string>
+																				<key>TimeOutAbortsMacro</key>
+																				<true/>
+																				<key>Variable</key>
+																				<string>Local__Number</string>
+																			</dict>
+																		</array>
+																		<key>IsDisclosed</key>
+																		<false/>
+																		<key>MacroActionType</key>
+																		<string>Group</string>
+																		<key>TimeOutAbortsMacro</key>
+																		<true/>
+																	</dict>
+																	<dict>
+																		<key>ActionName</key>
+																		<string>Text replace in variables (\n replacement)</string>
+																		<key>Actions</key>
+																		<array>
+																			<dict>
+																				<key>Action</key>
+																				<string>IgnoreCaseString</string>
+																				<key>MacroActionType</key>
+																				<string>SearchReplace</string>
+																				<key>Replace</key>
+																				<string></string>
+																				<key>Search</key>
+																				<string>\n</string>
+																				<key>Source</key>
+																				<string>Variable</string>
+																				<key>Variable</key>
+																				<string>Local__TestResult_UM</string>
+																			</dict>
+																			<dict>
+																				<key>Action</key>
+																				<string>IgnoreCaseString</string>
+																				<key>MacroActionType</key>
+																				<string>SearchReplace</string>
+																				<key>Replace</key>
+																				<string></string>
+																				<key>Search</key>
+																				<string>\n</string>
+																				<key>Source</key>
+																				<string>Variable</string>
+																				<key>Variable</key>
+																				<string>Local__TestResult_DOIS</string>
+																			</dict>
+																		</array>
+																		<key>IsDisclosed</key>
+																		<false/>
+																		<key>MacroActionType</key>
+																		<string>Group</string>
+																		<key>TimeOutAbortsMacro</key>
+																		<true/>
+																	</dict>
+																</array>
+																<key>TimeOutAbortsMacro</key>
+																<true/>
+															</dict>
+															<dict>
+																<key>ActionName</key>
+																<string>Set variable recordname</string>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>SetVariableToText</string>
+																<key>Text</key>
+																<string>LCL%Variable%Local__TestResult_DOIS%</string>
+																<key>Variable</key>
+																<string>recordname</string>
+															</dict>
+														</array>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>Group</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+													</dict>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Group</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Set record Name, Code and Tag</string>
+												<key>DisplayKind</key>
+												<string>None</string>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteAppleScript</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>use AppleScript version "2.4" -- Yosemite (10.10) or later
+use scripting additions
+
+tell application id "DNtp"
+	try
+		set theSelection to selection
+		if theSelection is {} then error "Select an item, please"
+		
+		repeat with thisItem in theSelection
+			
+			set the tags of item 1 of theSelection to "LOEB Online" as string
+			
+			tell application id "KM*E"
+				set theName to ""
+				set theName to value of variable "recordname"
+			end tell
+			
+			set the name of item 1 of theSelection to theName
+			
+			set the name of item 1 of theSelection to theName
+			
+			try
+				add custom meta data theName for "TLG" to item 1 of theSelection
+			end try
+			
+			
+		end repeat
+	end try
+end tell
+</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+										</array>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>OFFLINE</string>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>DT3</string>
+											<key>VariableConditionType</key>
+											<string>Is</string>
+											<key>VariableValue</key>
+											<string>YES</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Red</string>
+										<key>ActionName</key>
+										<string>FIREFOX</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>ActionColor</key>
+												<string>Red</string>
+												<key>Application</key>
+												<dict>
+													<key>BundleIdentifier</key>
+													<string>org.mozilla.firefox</string>
+													<key>Name</key>
+													<string>Firefox</string>
+													<key>NewFile</key>
+													<string>/Applications/Firefox.app</string>
+												</dict>
+												<key>IsDefaultApplication</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>OpenURL</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>URL</key>
+												<string>file:///INSERT PATH TO FOLDER DO NOT CHANGE THE REST OF THE ADDRESS/Loeb%20Digital%20Library%20MMXVI/loebclassics%Variable%sspResult%.html</string>
+											</dict>
+										</array>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Green</string>
+										<key>ActionName</key>
+										<string>DT3</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>JustDisplay</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetClipboardToText</string>
+												<key>Text</key>
+												<string>file:///Users/bernardovasconcelos/Loeb%20Digital%20Library%20MMXVI/loebclassics%Variable%sspResult%.html</string>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Red</string>
+												<key>IsDefaultApplication</key>
+												<true/>
+												<key>MacroActionType</key>
+												<string>OpenURL</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>URL</key>
+												<string>URLx-devon...</string>
+											</dict>
+											<dict>
+												<key>Actions</key>
+												<array>
+													<dict>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>KeyCode</key>
+														<integer>45</integer>
+														<key>MacroActionType</key>
+														<string>SimulateKeystroke</string>
+														<key>Modifiers</key>
+														<integer>256</integer>
+														<key>ReleaseAll</key>
+														<false/>
+														<key>TargetApplication</key>
+														<dict/>
+														<key>TargetingType</key>
+														<string>Front</string>
+													</dict>
+													<dict>
+														<key>ActionName</key>
+														<string>Create record name LCL + Number</string>
+														<key>Actions</key>
+														<array>
+															<dict>
+																<key>ActionName</key>
+																<string>JSON Data Filter</string>
+																<key>Conditions</key>
+																<dict>
+																	<key>ConditionList</key>
+																	<array>
+																		<dict>
+																			<key>ConditionType</key>
+																			<string>Variable</string>
+																			<key>Variable</key>
+																			<string>sspResult</string>
+																			<key>VariableConditionType</key>
+																			<string>IsNotEmpty</string>
+																			<key>VariableValue</key>
+																			<string>value</string>
+																		</dict>
+																	</array>
+																	<key>ConditionListMatch</key>
+																	<string>All</string>
+																</dict>
+																<key>ElseActionListDisclosed</key>
+																<false/>
+																<key>ElseActions</key>
+																<array/>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>IfThenElse</string>
+																<key>ThenActions</key>
+																<array>
+																	<dict>
+																		<key>ActionName</key>
+																		<string>LCL Number</string>
+																		<key>Actions</key>
+																		<array>
+																			<dict>
+																				<key>ActionColor</key>
+																				<string>Teal</string>
+																				<key>IsDisclosed</key>
+																				<false/>
+																				<key>MacroActionType</key>
+																				<string>SetVariableToText</string>
+																				<key>Text</key>
+																				<string>%Variable%sspResult%</string>
+																				<key>Variable</key>
+																				<string>Local__Source_Data</string>
+																			</dict>
+																			<dict>
+																				<key>ActionColor</key>
+																				<string>Yellow</string>
+																				<key>Actions</key>
+																				<array>
+																					<dict>
+																						<key>Action</key>
+																						<string>IgnoreCaseRegEx</string>
+																						<key>ActionColor</key>
+																						<string>Yellow</string>
+																						<key>ActionName</key>
+																						<string>Extract Just the Number in Capture Group #1</string>
+																						<key>Captures</key>
+																						<array>
+																							<string></string>
+																						</array>
+																						<key>MacroActionType</key>
+																						<string>SearchRegEx</string>
+																						<key>Search</key>
+																						<string>\d{3}</string>
+																						<key>Source</key>
+																						<string>Variable</string>
+																						<key>Variable</key>
+																						<string>Local__Number</string>
+																					</dict>
+																					<dict>
+																						<key>IsDisclosed</key>
+																						<false/>
+																						<key>MacroActionType</key>
+																						<string>SetVariableToText</string>
+																						<key>Text</key>
+																						<string>%Variable%Local__TestResult%%Variable%Local__Number%
+</string>
+																						<key>Variable</key>
+																						<string>Local__TestResult_DOIS</string>
+																					</dict>
+																				</array>
+																				<key>Collections</key>
+																				<dict>
+																					<key>CollectionList</key>
+																					<array>
+																						<dict>
+																							<key>CollectionType</key>
+																							<string>SubstringsIn</string>
+																							<key>ResultType</key>
+																							<string>String</string>
+																							<key>Search</key>
+																							<string>\d{3}</string>
+																							<key>SearchKind</key>
+																							<string>Match</string>
+																							<key>Source</key>
+																							<string>Variable</string>
+																							<key>Variable</key>
+																							<string>Local__Source_Data</string>
+																						</dict>
+																					</array>
+																				</dict>
+																				<key>IsDisclosed</key>
+																				<false/>
+																				<key>MacroActionType</key>
+																				<string>For</string>
+																				<key>TimeOutAbortsMacro</key>
+																				<true/>
+																				<key>Variable</key>
+																				<string>Local__Number</string>
+																			</dict>
+																		</array>
+																		<key>IsDisclosed</key>
+																		<false/>
+																		<key>MacroActionType</key>
+																		<string>Group</string>
+																		<key>TimeOutAbortsMacro</key>
+																		<true/>
+																	</dict>
+																	<dict>
+																		<key>ActionName</key>
+																		<string>Text replace in variables (\n replacement)</string>
+																		<key>Actions</key>
+																		<array>
+																			<dict>
+																				<key>Action</key>
+																				<string>IgnoreCaseString</string>
+																				<key>MacroActionType</key>
+																				<string>SearchReplace</string>
+																				<key>Replace</key>
+																				<string></string>
+																				<key>Search</key>
+																				<string>\n</string>
+																				<key>Source</key>
+																				<string>Variable</string>
+																				<key>Variable</key>
+																				<string>Local__TestResult_UM</string>
+																			</dict>
+																			<dict>
+																				<key>Action</key>
+																				<string>IgnoreCaseString</string>
+																				<key>MacroActionType</key>
+																				<string>SearchReplace</string>
+																				<key>Replace</key>
+																				<string></string>
+																				<key>Search</key>
+																				<string>\n</string>
+																				<key>Source</key>
+																				<string>Variable</string>
+																				<key>Variable</key>
+																				<string>Local__TestResult_DOIS</string>
+																			</dict>
+																		</array>
+																		<key>IsDisclosed</key>
+																		<false/>
+																		<key>MacroActionType</key>
+																		<string>Group</string>
+																		<key>TimeOutAbortsMacro</key>
+																		<true/>
+																	</dict>
+																</array>
+																<key>TimeOutAbortsMacro</key>
+																<true/>
+															</dict>
+															<dict>
+																<key>IsDisclosed</key>
+																<false/>
+																<key>MacroActionType</key>
+																<string>SetVariableToText</string>
+																<key>Text</key>
+																<string>LCL%Variable%Local__TestResult_DOIS%</string>
+																<key>Variable</key>
+																<string>recordname</string>
+															</dict>
+														</array>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>Group</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+													</dict>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Group</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Set record Name, Code and Tag</string>
+												<key>DisplayKind</key>
+												<string>None</string>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteAppleScript</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>use AppleScript version "2.4" -- Yosemite (10.10) or later
+use scripting additions
+
+tell application id "DNtp"
+	try
+		set theSelection to selection
+		if theSelection is {} then error "Select an item, please"
+		
+		repeat with thisItem in theSelection
+			
+			set the tags of item 1 of theSelection to "LOEB Offline" as string
+			
+			tell application id "KM*E"
+				set theName to ""
+				set theName to value of variable "recordname"
+			end tell
+			
+			set the name of item 1 of theSelection to theName
+			
+			set the name of item 1 of theSelection to theName
+			
+			try
+				add custom meta data theName for "TLG" to item 1 of theSelection
+			end try
+			
+			
+		end repeat
+	end try
+end tell
+</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+										</array>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>ActionColor</key>
@@ -3509,7 +4157,25 @@ customPromptWidth: 700</string>
 								<key>Variable</key>
 								<string>sspResult</string>
 							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Delete%</string>
+								<key>Variable</key>
+								<string>DT3</string>
+							</dict>
+							<dict>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Delete%</string>
+								<key>Variable</key>
+								<string>Source</string>
+							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -4006,43 +4672,24 @@ customPromptWidth: 700</string>
 				NmN1cnYAAAAAAAAAAQHNAABzZjMyAAAAAAABDEIAAAXe
 				///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
+				<key>IsActive</key>
+				<false/>
 				<key>ModificationDate</key>
-				<real>581733088.75771296</real>
+				<real>587330189.10908198</real>
 				<key>Name</key>
-				<string>2. LOEB</string>
+				<string>Loeb Classical Library 1.1 (DT3)</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
-				<string>2A5487AA-EE7C-4EBC-BBB0-8BCCFD6CC3F4</string>
+				<string>84E64D46-5007-4E34-A2F3-76ABCB92C978</string>
 			</dict>
 		</array>
-		<key>Modifiers</key>
-		<integer>0</integer>
 		<key>Name</key>
-		<string>ω TLG &amp; LOEB</string>
-		<key>PaletteUnderMouse</key>
-		<true/>
-		<key>Theme</key>
-		<dict>
-			<key>Columns</key>
-			<integer>10</integer>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>30</integer>
-			<key>Theme</key>
-			<string>Red Wine</string>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseText</key>
-			<false/>
-			<key>UseTitle</key>
-			<false/>
-		</dict>
+		<string>Github</string>
 		<key>ToggleMacroUID</key>
-		<string>FB91381F-3D3A-4EBC-BCB4-31652E8878E1</string>
+		<string>D5AE2710-779F-4DE3-855E-24CA9568D196</string>
 		<key>UID</key>
-		<string>FA396A86-39BB-4EB6-9442-427BD0710CE9</string>
+		<string>50439185-5BA6-4B90-A4D6-CC53EB0DE544</string>
 	</dict>
 </array>
 </plist>

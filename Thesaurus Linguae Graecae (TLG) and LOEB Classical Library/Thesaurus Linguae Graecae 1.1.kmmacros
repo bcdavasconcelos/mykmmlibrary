@@ -4,263 +4,9 @@
 <array>
 	<dict>
 		<key>Activate</key>
-		<string>ActiveAndOnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
+		<string>Normal</string>
 		<key>CreationDate</key>
-		<real>580484712.26169801</real>
-		<key>CustomIconData</key>
-		<data>
-		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
-		ZWxHUgAAACIAAAP8cHRQTwAAACYAAAQebmxOTAAAACgAAAREZXNFUwAAACYA
-		AAQedGhUSAAAACQAAARsdHJUUgAAACIAAASQZmlGSQAAACgAAASyaHJIUgAA
-		ACgAAATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUuYXJFRwAAACYAAAVQZW5V
-		UwAAACYAAAV2AFYBYQBlAG8AYgBlAGMAbgD9ACAAUgBHAEIAIABwAHIAbwBm
-		AGkAbABHAGUAbgBlAHIAZQBsACAAUgBHAEIALQBiAGUAcwBrAHIAaQB2AGUA
-		bABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcAZQBuAOgAcgBpAGMAQx6l
-		AHUAIABoAOwAbgBoACAAUgBHAEIAIABDAGgAdQBuAGcAUABlAHIAZgBpAGwA
-		IABSAEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAEMwQwBDsETAQ9BDgEOQAg
-		BD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIAbwBmAGkAbAAgAGcA6QBuAOkA
-		cgBpAHEAdQBlACAAUgBWAEIAwQBsAHQAYQBsAOEAbgBvAHMAIABSAEcAQgAg
-		AHAAcgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9pY8+P8ABHAGUAbgBlAHIA
-		aQBzAGsAIABSAEcAQgAtAHAAcgBvAGYAaQBsAE8AYgBlAGMAbgD9ACAAUgBH
-		AEIAIABwAHIAbwBmAGkAbAXkBegF1QXkBdkF3AAgAFIARwBCACAF2wXcBdwF
-		2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUAbgBlAHIAaQBjAG8AUABy
-		AG8AZgBpAGwAIABSAEcAQgAgAGcAZQBuAGUAcgBpAGMAQQBsAGwAZwBlAG0A
-		ZQBpAG4AZQBzACAAUgBHAEIALQBQAHIAbwBmAGkAbMd8vBgAIABSAEcAQgAg
-		1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072TgCCLAAgAFIARwBCACAw
-		1zDtMNUwoTCkMOsDkwO1A70DuQO6A8wAIAPAA8EDvwPGA68DuwAgAFIARwBC
-		AFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUAbgDpAHIAaQBjAG8AQQBsAGcA
-		ZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkAZQBsDkIOGw4jDkQOHw4l
-		DkwAIABSAEcAQgAgDhcOMQ5IDicORA4bAEcAZQBuAGUAbAAgAFIARwBCACAA
-		UAByAG8AZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAAUgBHAEIALQBwAHIAbwBm
-		AGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkAIABSAEcAQgAgAHAAcgBvAGYA
-		aQBsAFUAbgBpAHcAZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYAaQBsACAAUgBH
-		AEIEHgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAgAFIARwBCBkUGRAZBACAG
-		KgY5BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYnBkUARwBlAG4AZQByAGkAYwAg
-		AFIARwBCACAAUAByAG8AZgBpAGwAZXRleHQAAAAAQ29weXJpZ2h0IDIwMDcg
-		QXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZlZC4AWFlaIAAAAAAAAPNS
-		AAEAAAABFs9YWVogAAAAAAAAdE0AAD3uAAAD0FhZWiAAAAAAAABadQAArHMA
-		ABc0WFlaIAAAAAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEBzQAAc2YzMgAA
-		AAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L///2jAAAD3AAAwGyAACBQOCQW
-		DQeEQmFQuGQ2HQ+IRGJROKRWLReMRmNRuOR2CgEBgUEhAXkVAvNtMhMPx6O5
-		vR6YTGHgYIBgWBMblFKgkOCofOxjKk5PJrsRHzKkUmDBAXERABIak4/v99vo
-		APh0t1juddJgegB/v9+0qyRwAgEBBgiGZfgkNCUfWKx2B/PtzLZJDZ9O9ztC
-		y3+LgcKB4cBkkGpiACzgOwP/FAQDAB4M9cIR3tFdH3AZuJhUdldSAsQjArvB
-		ortA0ynSACgO9uhs3dJDGxPt75zcQcCA0JiQOE46NN7uZtL91MFRE8Mkk1so
-		DhMOjCCOlfJ4mvZyNdabnuQMIjEkojvkg7uiuk7sNdZg8VkA71AnIjGgB6uB
-		oLHjqMod3OAIDgUCjfjoax+nyep2nMWpItofp+HwAgGAkEINCYOBogEAoEAa
-		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
-		AAAERGVzRVMAAAAmAAAEHnRoVEgAAAAkAAAEbHRyVFIAAAAiAAAEkGZpRkkA
-		AAAoAAAEsmhySFIAAAAoAAAE2nBsUEwAAAAsAAAFAnJ1UlUAAAAiAAAFLmFy
-		RUcAAAAmAAAFUGVuVVMAAAAmAAAFdgBWAWEAZQBvAGIAZQBjAG4A/QAgAFIA
-		RwBCACAAcAByAG8AZgBpAGwARwBlAG4AZQByAGUAbAAgAFIARwBCAC0AYgBl
-		AHMAawByAGkAdgBlAGwAcwBlAFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUA
-		bgDoAHIAaQBjAEMepQB1ACAAaADsAG4AaAAgAFIARwBCACAAQwBoAHUAbgBn
-		AFAAZQByAGYAaQBsACAAUgBHAEIAIABHAGUAbgDpAHIAaQBjAG8EFwQwBDME
-		MAQ7BEwEPQQ4BDkAIAQ/BEAEPgREBDAEOQQ7ACAAUgBHAEIAUAByAG8AZgBp
-		AGwAIABnAOkAbgDpAHIAaQBxAHUAZQAgAFIAVgBCAMEAbAB0AGEAbADhAG4A
-		bwBzACAAUgBHAEIAIABwAHIAbwBmAGkAbJAadSgAIABSAEcAQgAggnJfaWPP
-		j/AARwBlAG4AZQByAGkAcwBrACAAUgBHAEIALQBwAHIAbwBmAGkAbABPAGIA
-		ZQBjAG4A/QAgAFIARwBCACAAcAByAG8AZgBpAGwF5AXoBdUF5AXZBdwAIABS
-		AEcAQgAgBdsF3AXcBdkAUAByAG8AZgBpAGwAbwAgAFIARwBCACAAZwBlAG4A
-		ZQByAGkAYwBvAFAAcgBvAGYAaQBsACAAUgBHAEIAIABnAGUAbgBlAHIAaQBj
-		AEEAbABsAGcAZQBtAGUAaQBuAGUAcwAgAFIARwBCAC0AUAByAG8AZgBpAGzH
-		fLwYACAAUgBHAEIAINUEuFzTDMd8Zm6QGgAgAFIARwBCACBjz4/wZYdO9k4A
-		giwAIABSAEcAQgAgMNcw7TDVMKEwpDDrA5MDtQO9A7kDugPMACADwAPBA78D
-		xgOvA7sAIABSAEcAQgBQAGUAcgBmAGkAbAAgAFIARwBCACAAZwBlAG4A6QBy
-		AGkAYwBvAEEAbABnAGUAbQBlAGUAbgAgAFIARwBCAC0AcAByAG8AZgBpAGUA
-		bA5CDhsOIw5EDh8OJQ5MACAAUgBHAEIAIA4XDjEOSA4nDkQOGwBHAGUAbgBl
-		AGwAIABSAEcAQgAgAFAAcgBvAGYAaQBsAGkAWQBsAGUAaQBuAGUAbgAgAFIA
-		RwBCAC0AcAByAG8AZgBpAGkAbABpAEcAZQBuAGUAcgBpAQ0AawBpACAAUgBH
-		AEIAIABwAHIAbwBmAGkAbABVAG4AaQB3AGUAcgBzAGEAbABuAHkAIABwAHIA
-		bwBmAGkAbAAgAFIARwBCBB4EMQRJBDgEOQAgBD8EQAQ+BEQEOAQ7BEwAIABS
-		AEcAQgZFBkQGQQAgBioGOQYxBkoGQQAgAFIARwBCACAGJwZEBjkGJwZFAEcA
-		ZQBuAGUAcgBpAGMAIABSAEcAQgAgAFAAcgBvAGYAaQBsAGV0ZXh0AAAAAENv
-		cHlyaWdodCAyMDA3IEFwcGxlIEluYy4sIGFsbCByaWdodHMgcmVzZXJ2ZWQu
-		AFhZWiAAAAAAAADzUgABAAAAARbPWFlaIAAAAAAAAHRNAAA97gAAA9BYWVog
-		AAAAAAAAWnUAAKxzAAAXNFhZWiAAAAAAAAAoGgAAFZ8AALg2Y3VydgAAAAAA
-		AAABAc0AAHNmMzIAAAAAAAEMQgAABd7///MmAAAHkgAA/ZH///ui///9owAA
-		A9wAAMBsgAAgUDgkFg0HhEJhULhkNAABAgGBgAfz9fL/ir7h0bjkDAYKBwbC
-		5BMKxd7NWp4e7obi8jsvhoNEo3M4WIJgTDwaC5TDtZSwNMwoUFAIDAgHCo9L
-		SqAICAkRCYbGjlWKMFD+fT3d9DmAKDwsKQKDQnJTxa7CRocJ52azrYqpMT0b
-		rMT9cjoBCxAL6yeTXYiOfDpbq/DJINTHh9Fc64Sw4AD/jF2hIHCgeHARGBHQ
-		zoXqdIuPioMEY0MIVHhZTzmWqQHD5djjZOShAUHRWUT5dbhYrzbbJTMEAQHB
-		QTDhQO7bezhaSudjIVpk2UDAgMCQiCw/LqudC7TRBrFahATG5RTAMEIyLTkW
-		CJEr9fD0dOSCIyJKJANFAruZq0OUMygOhuDQmDgZB2mOVo2nkbJjEooQBAMB
-		IIgyI40mKdRhFIKZ9nidRroa+4BsKNZkqKo5zlsSYZIwfqNI2BwTh0NoDgsE
-		IenWYZSisoQGBEGQvAqHwuFCc5bkqITAsGhkSgPAQ4GmfR2nIZR7nObaXMSh
-		zIAGBIHg2CYbCeQh6G4ZRWwuUoqIYAQCgOBoIBaIg/gCAwEAc+6IKGyB/Mgf
-		58n4eh3HGeJqmARDo0OmCAgAABEBAAADAAAAAQAQAAABAQADAAAAAQAQAAAB
-		AgADAAAABAAAIqQBAwADAAAAAQAFAAABBgADAAAAAQACAAABCgADAAAAAQAB
-		AAABEQAEAAAAAQAAIAQBEgADAAAAAQABAAABFQADAAAAAQAEAAABFgADAAAA
-		AQAQAAABFwAEAAAAAQAAAc0BHAADAAAAAQABAAABKAADAAAAAQACAAABPQAD
-		AAAAAQACAAABUgADAAAAAQABAAABUwADAAAABAAAIqyHcwAHAAAH2AAAIrQA
-		AAAAAAgACAAIAAgAAQABAAEAAQAAB9hhcHBsAiAAAG1udHJSR0IgWFlaIAfZ
-		AAIAGQALABoAC2Fjc3BBUFBMAAAAAGFwcGwAAAAAAAAAAAAAAAAAAAAAAAD2
-		1gABAAAAANMtYXBwbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-		AAAAAAAAAAAAAAAAAAAAC2Rlc2MAAAEIAAAAb2RzY20AAAF4AAAFnGNwcnQA
-		AAcUAAAAOHd0cHQAAAdMAAAAFHJYWVoAAAdgAAAAFGdYWVoAAAd0AAAAFGJY
-		WVoAAAeIAAAAFHJUUkMAAAecAAAADmNoYWQAAAesAAAALGJUUkMAAAecAAAA
-		DmdUUkMAAAecAAAADmRlc2MAAAAAAAAAFEdlbmVyaWMgUkdCIFByb2ZpbGUA
-		AAAAAAAAAAAAABRHZW5lcmljIFJHQiBQcm9maWxlAAAAAAAAAAAAAAAAAAAA
-		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtbHVjAAAAAAAA
-		AB8AAAAMc2tTSwAAACgAAAGEZGFESwAAAC4AAAGsY2FFUwAAACQAAAHadmlW
-		TgAAACQAAAH+cHRCUgAAACYAAAIidWtVQQAAACoAAAJIZnJGVQAAACgAAAJy
-		aHVIVQAAACgAAAKaemhUVwAAABYAAALCbmJOTwAAACYAAALYY3NDWgAAACIA
-		AAL+aGVJTAAAAB4AAAMgaXRJVAAAACgAAAM+cm9STwAAACQAAANmZGVERQAA
-		ACwAAAOKa29LUgAAABYAAAO2c3ZTRQAAACYAAALYemhDTgAAABYAAAPMamFK
-		UAAAABoAAAPiZWxHUgAAACIAAAP8cHRQTwAAACYAAAQebmxOTAAAACgAAARE
-		ZXNFUwAAACYAAAQedGhUSAAAACQAAARsdHJUUgAAACIAAASQZmlGSQAAACgA
-		AASyaHJIUgAAACgAAATacGxQTAAAACwAAAUCcnVSVQAAACIAAAUuYXJFRwAA
-		ACYAAAVQZW5VUwAAACYAAAV2AFYBYQBlAG8AYgBlAGMAbgD9ACAAUgBHAEIA
-		IABwAHIAbwBmAGkAbABHAGUAbgBlAHIAZQBsACAAUgBHAEIALQBiAGUAcwBr
-		AHIAaQB2AGUAbABzAGUAUABlAHIAZgBpAGwAIABSAEcAQgAgAGcAZQBuAOgA
-		cgBpAGMAQx6lAHUAIABoAOwAbgBoACAAUgBHAEIAIABDAGgAdQBuAGcAUABl
-		AHIAZgBpAGwAIABSAEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAEMwQwBDsE
-		TAQ9BDgEOQAgBD8EQAQ+BEQEMAQ5BDsAIABSAEcAQgBQAHIAbwBmAGkAbAAg
-		AGcA6QBuAOkAcgBpAHEAdQBlACAAUgBWAEIAwQBsAHQAYQBsAOEAbgBvAHMA
-		IABSAEcAQgAgAHAAcgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9pY8+P8ABH
-		AGUAbgBlAHIAaQBzAGsAIABSAEcAQgAtAHAAcgBvAGYAaQBsAE8AYgBlAGMA
-		bgD9ACAAUgBHAEIAIABwAHIAbwBmAGkAbAXkBegF1QXkBdkF3AAgAFIARwBC
-		ACAF2wXcBdwF2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUAbgBlAHIA
-		aQBjAG8AUAByAG8AZgBpAGwAIABSAEcAQgAgAGcAZQBuAGUAcgBpAGMAQQBs
-		AGwAZwBlAG0AZQBpAG4AZQBzACAAUgBHAEIALQBQAHIAbwBmAGkAbMd8vBgA
-		IABSAEcAQgAg1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072TgCCLAAg
-		AFIARwBCACAw1zDtMNUwoTCkMOsDkwO1A70DuQO6A8wAIAPAA8EDvwPGA68D
-		uwAgAFIARwBCAFAAZQByAGYAaQBsACAAUgBHAEIAIABnAGUAbgDpAHIAaQBj
-		AG8AQQBsAGcAZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkAZQBsDkIO
-		Gw4jDkQOHw4lDkwAIABSAEcAQgAgDhcOMQ5IDicORA4bAEcAZQBuAGUAbAAg
-		AFIARwBCACAAUAByAG8AZgBpAGwAaQBZAGwAZQBpAG4AZQBuACAAUgBHAEIA
-		LQBwAHIAbwBmAGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkAIABSAEcAQgAg
-		AHAAcgBvAGYAaQBsAFUAbgBpAHcAZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYA
-		aQBsACAAUgBHAEIEHgQxBEkEOAQ5ACAEPwRABD4ERAQ4BDsETAAgAFIARwBC
-		BkUGRAZBACAGKgY5BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYnBkUARwBlAG4A
-		ZQByAGkAYwAgAFIARwBCACAAUAByAG8AZgBpAGwAZXRleHQAAAAAQ29weXJp
-		Z2h0IDIwMDcgQXBwbGUgSW5jLiwgYWxsIHJpZ2h0cyByZXNlcnZlZC4AWFla
-		IAAAAAAAAPNSAAEAAAABFs9YWVogAAAAAAAAdE0AAD3uAAAD0FhZWiAAAAAA
-		AABadQAArHMAABc0WFlaIAAAAAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEB
-		zQAAc2YzMgAAAAAAAQxCAAAF3v//8yYAAAeSAAD9kf//+6L///2jAAAD3AAA
-		wGw=
-		</data>
-		<key>DisplayToggle</key>
-		<false/>
-		<key>KeyCode</key>
-		<integer>115</integer>
+		<real>587329043.32769895</real>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -269,58 +15,170 @@
 					<dict>
 						<key>ActionColor</key>
 						<string>Yellow</string>
+						<key>ActionName</key>
+						<string>Macro info</string>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC5xAgAAKwAAAAEA
-						AABpAgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC6HAgAAKwAAAAEA
+						AAB/AgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNjcx
-						XGNvY29hc3VicnRmNTAwCntcZm9u
-						dHRibFxmMFxmc3dpc3NcZmNoYXJz
-						ZXQwIEhlbHZldGljYTt9CntcY29s
-						b3J0Ymw7XHJlZDI1NVxncmVlbjI1
-						NVxibHVlMjU1O30Ke1wqXGV4cGFu
-						ZGVkY29sb3J0Ymw7O30KXHBhcmRc
-						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
-						eDIyNDBcdHgyODAwXHR4MzM2MFx0
-						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
-						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
-						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
-						ZW5mYWN0b3IwCgpcZjBcZnMyNCBc
-						Y2YwIE1hY3JvIGJ5IEJlcm5hcmRv
-						IENEQSBWYXNjb25jZWxvc1wKUGxl
-						YXNlIGNoZWNrIGh0dHBzOi8vdGlu
-						eXVybC5jb20veTJtd3lxejQgZm9y
-						IHVwZGF0ZXMgKHNob3VsZCB0aGVy
-						ZSBldmVyIGJlIGFueSkuXApcClRo
-						YW5rcyB0byBTdGVwaGVuIE1hcmdo
-						ZWltIGZvciB0aGUgZGF0YSBpbiBK
-						U09OOyBEYW4gVGhvbWFzIGZvciBc
-						JzkzU3BvdGxpZ2h0IFNlYXJjaCBQ
-						cm9tcHRcJzk0IGFuZCBKTWljaGFl
-						bFRYIGZvciBSZWdleCBtYWNyb3Mg
-						c2hhcmVkIG9uIEtNIEZvcnVtLlwK
-						U291cmNlOiBodHRwczovL2dpdGh1
-						Yi5jb20vYmNkYXZhc2NvbmNlbG9z
-						L215a21tbGlicmFyeX0BAAAAIwAA
-						AAEAAAAHAAAAVFhULnJ0ZhAAAABU
-						U/xctgEAAAAAAAAAAAAA
+						XGNvY29hc3VicnRmNjAwCntcZm9u
+						dHRibFxmMFxmbmlsXGZjaGFyc2V0
+						MCBTb3VyY2VDb2RlUHJvRm9yUG93
+						ZXJsaW5lLVJlZ3VsYXI7fQp7XGNv
+						bG9ydGJsO1xyZWQyNTVcZ3JlZW4y
+						NTVcYmx1ZTI1NTt9CntcKlxleHBh
+						bmRlZGNvbG9ydGJsOzt9ClxwYXJk
+						XHR4NTYwXHR4MTEyMFx0eDE2ODBc
+						dHgyMjQwXHR4MjgwMFx0eDMzNjBc
+						dHgzOTIwXHR4NDQ4MFx0eDUwNDBc
+						dHg1NjAwXHR4NjE2MFx0eDY3MjBc
+						cGFyZGlybmF0dXJhbFxwYXJ0aWdo
+						dGVuZmFjdG9yMAoKXGYwXGZzMzAg
+						XGNmMCBNYWNybyBieSBCZXJuYXJk
+						byBDREEgVmFzY29uY2Vsb3NcClBs
+						ZWFzZSBjaGVjayBodHRwczovL3Rp
+						bnl1cmwuY29tL3kybXd5cXo0IGZv
+						ciB1cGRhdGVzIChzaG91bGQgdGhl
+						cmUgZXZlciBiZSBhbnkpLlwKXApU
+						aGFua3MgdG8gU3RlcGhlbiBNYXJn
+						aGVpbSBmb3IgdGhlIGRhdGEgaW4g
+						SlNPTjsgRGFuIFRob21hcyBmb3Ig
+						XCc5M1Nwb3RsaWdodCBTZWFyY2gg
+						UHJvbXB0XCc5NCBhbmQgSk1pY2hh
+						ZWxUWCBmb3IgUmVnZXggbWFjcm9z
+						IHNoYXJlZCBvbiBLTSBGb3J1bS5c
+						ClNvdXJjZTogaHR0cHM6Ly9naXRo
+						dWIuY29tL2JjZGF2YXNjb25jZWxv
+						cy9teWttbWxpYnJhcnl9AQAAACMA
+						AAABAAAABwAAAFRYVC5ydGYQAAAA
+						5FxRXbYBAAAAAAAAAAAAAA==
 						</data>
 						<key>Title</key>
 						<string>Info and thanks</string>
 					</dict>
 					<dict>
 						<key>ActionName</key>
-						<string>JSON</string>
+						<string>JSON Section</string>
 						<key>Actions</key>
 						<array>
 							<dict>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>title: TLG Works and Authors
+								<key>ActionName</key>
+								<string>JSON Parser and Data</string>
+								<key>Actions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Red</string>
+										<key>ActionName</key>
+										<string>Info</string>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>Comment</string>
+										<key>StyledText</key>
+										<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6kAgAA
+								KwAAAAEAAACc
+								AgAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNjAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBTb3VyY2VD
+								b2RlUHJvRm9y
+								UG93ZXJsaW5l
+								LUJvbGQ7XGYx
+								XGZuaWxcZmNo
+								YXJzZXQwIFNv
+								dXJjZUNvZGVQ
+								cm9Gb3JQb3dl
+								cmxpbmUtUmVn
+								dWxhcjtcZjJc
+								Zm5pbFxmY2hh
+								cnNldDAgU291
+								cmNlQ29kZVBy
+								b0ZvclBvd2Vy
+								bGluZS1JdDsK
+								fQp7XGNvbG9y
+								dGJsO1xyZWQy
+								NTVcZ3JlZW4y
+								NTVcYmx1ZTI1
+								NTt9CntcKlxl
+								eHBhbmRlZGNv
+								bG9ydGJsOzt9
+								ClxwYXJkXHR4
+								NTYwXHR4MTEy
+								MFx0eDE2ODBc
+								dHgyMjQwXHR4
+								MjgwMFx0eDMz
+								NjBcdHgzOTIw
+								XHR4NDQ4MFx0
+								eDUwNDBcdHg1
+								NjAwXHR4NjE2
+								MFx0eDY3MjBc
+								cGFyZGlybmF0
+								dXJhbFxwYXJ0
+								aWdodGVuZmFj
+								dG9yMAoKXGYw
+								XGJcZnMzMCBc
+								Y2YwIFBhcnNl
+								ciBTZXR0aW5n
+								cwpcZjFcYjAg
+								XApZb3UgY2Fu
+								IGN1c3RvbWl6
+								ZSB0aGUgIgpc
+								ZjJcaSBjdXN0
+								b21Qcm9tcHRX
+								aWR0aApcZjFc
+								aTAgIiB0byBt
+								YWtlIGl0IHNt
+								YWxsZXIgb3Ig
+								YmlnZ2VyLiAK
+								XGYwXGIgRG9u
+								J3QgbWVzcyB3
+								aXRoIHRoZSBv
+								dGhlciBzZXR0
+								aW5ncy5cClwK
+								SlNPTiBEQVRB
+								XAoKXGYxXGIw
+								IFNvbWUgd29y
+								a3MgbWlnaHQg
+								YmUgbWlzc2lu
+								ZyBmcm9tIHRo
+								aXMgbGlzdCBz
+								byBlZGl0aW5n
+								IG1pZ2h0IGJl
+								IGluZXZpdGFi
+								bGUuIH0BAAAA
+								IwAAAAEAAAAH
+								AAAAVFhULnJ0
+								ZhAAAAASaVFd
+								tgEAAAAAAAAA
+								AAAA
+										</data>
+										<key>Title</key>
+										<string></string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>Parser Settings</string>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>title: Thesaurus Linguae Graecae
 helpMacroUUID: 
 dataType: json
 jsonDisplayField: title
@@ -328,15 +186,19 @@ jsonReturnField: URN
 jsonAdditionalSearchFields: title, Author, URN
 jsonStatusLineFields: Author, URN
 jsonStatusLineTemplate: $1, $2
-customPromptWidth: 500</string>
-								<key>Variable</key>
-								<string>sspOptions</string>
-							</dict>
-							<dict>
-								<key>MacroActionType</key>
-								<string>SetVariableToText</string>
-								<key>Text</key>
-								<string>[
+customPromptWidth: 700</string>
+										<key>Variable</key>
+										<string>sspOptions</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>JSON Data</string>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>[
     {
         "title": "Abdicatus",
         "URN": "urn:cts:greekLit:tlg0062.tlg052",
@@ -12092,7 +11954,13 @@ customPromptWidth: 500</string>
         "Language": "Greek"
     },
     {
-        "title": "Republic",
+        "title": "Republic (Slings)",
+        "URN": "urn:cts:greekLit:tlg0059.tlg042",
+        "Author": "Plato",
+        "Language": "Greek"
+    },
+       {
+        "title": "Republic (Burnet)",
         "URN": "urn:cts:greekLit:tlg0059.tlg030",
         "Author": "Plato",
         "Language": "Greek"
@@ -14498,30 +14366,421 @@ customPromptWidth: 500</string>
         "Language": "Greek"
     }
 ]</string>
-								<key>Variable</key>
-								<string>sspData</string>
-							</dict>
-							<dict>
-								<key>ActionColor</key>
-								<string>Green</string>
-								<key>Asynchronously</key>
+										<key>Variable</key>
+										<string>sspData</string>
+									</dict>
+									<dict>
+										<key>ActionColor</key>
+										<string>Green</string>
+										<key>Asynchronously</key>
+										<false/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>ExecuteMacro</string>
+										<key>MacroUID</key>
+										<string>0BC9A4AD-D089-4160-B5E5-ECF032644797</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+										<key>UseParameter</key>
+										<false/>
+									</dict>
+								</array>
+								<key>IsDisclosed</key>
 								<false/>
 								<key>MacroActionType</key>
-								<string>ExecuteMacro</string>
-								<key>MacroUID</key>
-								<string>0BC9A4AD-D089-4160-B5E5-ECF032644797</string>
+								<string>Group</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
-								<key>UseParameter</key>
+							</dict>
+							<dict>
+								<key>ActionName</key>
+								<string>JSON Data Filter</string>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>sspResult</string>
+											<key>VariableConditionType</key>
+											<string>IsNotEmpty</string>
+											<key>VariableValue</key>
+											<string>value</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActionListDisclosed</key>
 								<false/>
+								<key>ElseActions</key>
+								<array/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionColor</key>
+										<string>Yellow</string>
+										<key>ActionName</key>
+										<string>Info</string>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>Comment</string>
+										<key>StyledText</key>
+										<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6yAQAA
+								KwAAAAEAAACq
+								AQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNjAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBTb3VyY2VD
+								b2RlUHJvRm9y
+								UG93ZXJsaW5l
+								LVJlZ3VsYXI7
+								fQp7XGNvbG9y
+								dGJsO1xyZWQy
+								NTVcZ3JlZW4y
+								NTVcYmx1ZTI1
+								NTt9CntcKlxl
+								eHBhbmRlZGNv
+								bG9ydGJsOzt9
+								ClxwYXJkXHR4
+								NTYwXHR4MTEy
+								MFx0eDE2ODBc
+								dHgyMjQwXHR4
+								MjgwMFx0eDMz
+								NjBcdHgzOTIw
+								XHR4NDQ4MFx0
+								eDUwNDBcdHg1
+								NjAwXHR4NjE2
+								MFx0eDY3MjBc
+								cGFyZGlybmF0
+								dXJhbFxwYXJ0
+								aWdodGVuZmFj
+								dG9yMAoKXGYw
+								XGZzMzAgXGNm
+								MCBGaXJzdCB2
+								YXJpYWJsZSBo
+								YXMgNCBkaWdp
+								dHMgaXNvbGF0
+								ZXMgdGhlIEF1
+								dGhvciBjb2Rl
+								LlwKU2Vjb25k
+								IHZhcmlhYmxl
+								IGhhcyAzIGRp
+								Z2l0cyBhbmQg
+								aXNvbGF0ZXMg
+								dGhlIHdvcmsg
+								Y29kZS59AQAA
+								ACMAAAABAAAA
+								BwAAAFRYVC5y
+								dGYQAAAAZWFR
+								XbYBAAAAAAAA
+								AAAAAA==
+										</data>
+										<key>Title</key>
+										<string></string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>First variable (TLG author code)</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>ActionColor</key>
+												<string>Teal</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%Variable%sspResult%</string>
+												<key>Variable</key>
+												<string>Local__Source_Data</string>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Yellow</string>
+												<key>Actions</key>
+												<array>
+													<dict>
+														<key>Action</key>
+														<string>IgnoreCaseRegEx</string>
+														<key>ActionColor</key>
+														<string>Yellow</string>
+														<key>ActionName</key>
+														<string>Extract Just the Number in Capture Group #1</string>
+														<key>Captures</key>
+														<array>
+															<string></string>
+														</array>
+														<key>MacroActionType</key>
+														<string>SearchRegEx</string>
+														<key>Search</key>
+														<string>\d{4}</string>
+														<key>Source</key>
+														<string>Variable</string>
+														<key>Variable</key>
+														<string>Local__Number</string>
+													</dict>
+													<dict>
+														<key>MacroActionType</key>
+														<string>SetVariableToText</string>
+														<key>Text</key>
+														<string>%Variable%Local__TestResult%%Variable%Local__Number%
+</string>
+														<key>Variable</key>
+														<string>Local__TestResult_UM</string>
+													</dict>
+												</array>
+												<key>Collections</key>
+												<dict>
+													<key>CollectionList</key>
+													<array>
+														<dict>
+															<key>CollectionType</key>
+															<string>SubstringsIn</string>
+															<key>ResultType</key>
+															<string>String</string>
+															<key>Search</key>
+															<string>\d{4}</string>
+															<key>SearchKind</key>
+															<string>Match</string>
+															<key>Source</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>Local__Source_Data</string>
+														</dict>
+													</array>
+												</dict>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>For</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>Variable</key>
+												<string>Local__Number</string>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Orange</string>
+												<key>IsActive</key>
+												<false/>
+												<key>JustDisplay</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetClipboardToText</string>
+												<key>Text</key>
+												<string>%Variable%Local__TestResult_UM%</string>
+											</dict>
+										</array>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>Second variable (TLG work code)</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>ActionColor</key>
+												<string>Teal</string>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%Variable%sspResult%</string>
+												<key>Variable</key>
+												<string>Local__Source_Data</string>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Yellow</string>
+												<key>Actions</key>
+												<array>
+													<dict>
+														<key>Action</key>
+														<string>IgnoreCaseRegEx</string>
+														<key>ActionColor</key>
+														<string>Yellow</string>
+														<key>ActionName</key>
+														<string>Extract Just the Number in Capture Group #1</string>
+														<key>Captures</key>
+														<array>
+															<string></string>
+														</array>
+														<key>MacroActionType</key>
+														<string>SearchRegEx</string>
+														<key>Search</key>
+														<string>\d{3}</string>
+														<key>Source</key>
+														<string>Variable</string>
+														<key>Variable</key>
+														<string>Local__Number</string>
+													</dict>
+													<dict>
+														<key>MacroActionType</key>
+														<string>SetVariableToText</string>
+														<key>Text</key>
+														<string>%Variable%Local__TestResult%%Variable%Local__Number%
+</string>
+														<key>Variable</key>
+														<string>Local__TestResult_DOIS</string>
+													</dict>
+												</array>
+												<key>Collections</key>
+												<dict>
+													<key>CollectionList</key>
+													<array>
+														<dict>
+															<key>CollectionType</key>
+															<string>SubstringsIn</string>
+															<key>ResultType</key>
+															<string>String</string>
+															<key>Search</key>
+															<string>\d{3}</string>
+															<key>SearchKind</key>
+															<string>Match</string>
+															<key>Source</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>Local__Source_Data</string>
+														</dict>
+													</array>
+												</dict>
+												<key>MacroActionType</key>
+												<string>For</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>Variable</key>
+												<string>Local__Number</string>
+											</dict>
+										</array>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>Text replace in both variables (\n replacement)</string>
+										<key>Actions</key>
+										<array>
+											<dict>
+												<key>Action</key>
+												<string>IgnoreCaseString</string>
+												<key>MacroActionType</key>
+												<string>SearchReplace</string>
+												<key>Replace</key>
+												<string></string>
+												<key>Search</key>
+												<string>\n</string>
+												<key>Source</key>
+												<string>Variable</string>
+												<key>Variable</key>
+												<string>Local__TestResult_UM</string>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>IgnoreCaseString</string>
+												<key>MacroActionType</key>
+												<string>SearchReplace</string>
+												<key>Replace</key>
+												<string></string>
+												<key>Search</key>
+												<string>\n</string>
+												<key>Source</key>
+												<string>Variable</string>
+												<key>Variable</key>
+												<string>Local__TestResult_DOIS</string>
+											</dict>
+										</array>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>Group</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
 							</dict>
 						</array>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
 					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>ActionName</key>
+						<string>Prompt: "DT3"</string>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>What is the prefered source: TLG Online or Diogenes?
+
+ATTENTION: DIOGENES MUST BE RUNNING at all times for the offline link to work.</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>Source</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string>ONLINE|OFFLINE</string>
+								<key>Variable</key>
+								<string>Source</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>ActionName</key>
+						<string>Main Switch</string>
 						<key>Conditions</key>
 						<dict>
 							<key>ConditionList</key>
@@ -14530,20 +14789,46 @@ customPromptWidth: 500</string>
 									<key>ConditionType</key>
 									<string>Variable</string>
 									<key>Variable</key>
-									<string>sspResult</string>
+									<string>Source</string>
 									<key>VariableConditionType</key>
-									<string>IsNotEmpty</string>
+									<string>Is</string>
 									<key>VariableValue</key>
-									<string>value</string>
+									<string>Offline</string>
 								</dict>
 							</array>
 							<key>ConditionListMatch</key>
 							<string>All</string>
 						</dict>
-						<key>ElseActionListDisclosed</key>
-						<false/>
 						<key>ElseActions</key>
-						<array/>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>SAFARI</string>
+								<key>Actions</key>
+								<array>
+									<dict>
+										<key>ActionName</key>
+										<string>Open link</string>
+										<key>IsDefaultApplication</key>
+										<true/>
+										<key>MacroActionType</key>
+										<string>OpenURL</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+										<key>URL</key>
+										<string>http://stephanus.tlg.uci.edu/Iris/indiv/browser.jsp#doc=tlg&amp;aid=%Variable%Local__TestResult_UM%&amp;wid=%Variable%Local__TestResult_DOIS%&amp;st=0</string>
+									</dict>
+								</array>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>Group</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -14551,232 +14836,201 @@ customPromptWidth: 500</string>
 						<key>ThenActions</key>
 						<array>
 							<dict>
+								<key>ActionColor</key>
+								<string>Red</string>
 								<key>ActionName</key>
-								<string>Primeira variável</string>
+								<string>Read me</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>Comment</string>
+								<key>StyledText</key>
+								<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC4fBQAA
+								KwAAAAEAAAAX
+								BQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNjAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBTb3VyY2VD
+								b2RlUHJvRm9y
+								UG93ZXJsaW5l
+								LVJlZ3VsYXI7
+								XGYxXGZuaWxc
+								ZmNoYXJzZXQw
+								IFNvdXJjZUNv
+								ZGVQcm9Gb3JQ
+								b3dlcmxpbmUt
+								SXQ7XGYyXGZu
+								aWxcZmNoYXJz
+								ZXQwIFNvdXJj
+								ZUNvZGVQcm9G
+								b3JQb3dlcmxp
+								bmUtQm9sZDsK
+								fQp7XGNvbG9y
+								dGJsO1xyZWQy
+								NTVcZ3JlZW4y
+								NTVcYmx1ZTI1
+								NTt9CntcKlxl
+								eHBhbmRlZGNv
+								bG9ydGJsOzt9
+								ClxwYXJkXHR4
+								NTYwXHR4MTEy
+								MFx0eDE2ODBc
+								dHgyMjQwXHR4
+								MjgwMFx0eDMz
+								NjBcdHgzOTIw
+								XHR4NDQ4MFx0
+								eDUwNDBcdHg1
+								NjAwXHR4NjE2
+								MFx0eDY3MjBc
+								cGFyZGlybmF0
+								dXJhbFxwYXJ0
+								aWdodGVuZmFj
+								dG9yMAoKXGYw
+								XGZzMzAgXGNm
+								MCBNb3N0IGxp
+								a2VseSBpdCB3
+								aWxsIHdvcmsg
+								YXMgaXQgaXMu
+								IEhvd2V2ZXIs
+								IHlvdSAKXGYx
+								XGkgbWlnaHQK
+								XGYwXGkwICBu
+								ZWVkIHRvIGNv
+								cnJlY3QgdGhl
+								IFVSTCBhbmQg
+								cmVtb3ZlIHRo
+								ZSBwb3J0IGZy
+								b20gdGhlIGFk
+								ZHJlc3MuIFRo
+								YXQgbWVhbnMg
+								cmVtb3Zpbmcg
+								dGhlICIKXGYy
+								XGIgOjg4ODgK
+								XGYwXGIwICIg
+								cGFydC4gRG9u
+								J3QgZm9yZ2V0
+								IHRoYXQgRElP
+								R0VORVMgTVVT
+								VCBCRSBSVU5O
+								SU5HIGZvciB0
+								aGlzIGxpbmsg
+								dG8gd29yay5c
+								ClwKaHR0cDov
+								L2xvY2FsaG9z
+								dDoKXGYyXGIg
+								ODg4OApcZjBc
+								YjAgL0Rpb2dl
+								bmVzLmNnaT9K
+								dW1wVG89Jkp1
+								bXBGcm9tUXVl
+								cnk9Jkp1bXBG
+								cm9tTGFuZz0m
+								SnVtcEZyb21B
+								Y3Rpb249Jmxl
+								dmVsXzM9MCZs
+								ZXZlbF8yPTAm
+								bGV2ZWxfMT0w
+								JmxldmVsXzA9
+								MCZzdWJtaXQ9
+								U2hvdyttZSt0
+								aGlzK3Bhc3Nh
+								Z2UmSnVtcEZy
+								b21MYW5nWFhz
+								dGF0ZT0mSnVt
+								cFRvWFhzdGF0
+								ZT0mYWN0aW9u
+								WFhzdGF0ZT1i
+								cm93c2UmYXV0
+								aG9yWFhzdGF0
+								ZT0lVmFyaWFi
+								bGUlTG9jYWxf
+								X1Rlc3RSZXN1
+								bHRfVU0lJnF1
+								ZXJ5WFhzdGF0
+								ZT0lVmFyaWFi
+								bGUlTG9jYWxf
+								X1Rlc3RSZXN1
+								bHRfVU0lJmdy
+								ZWVrX291dHB1
+								dF9mb3JtYXRY
+								WHN0YXRlPVVU
+								Ri04Jkp1bXBG
+								cm9tUXVlcnlY
+								WHN0YXRlPSZs
+								ZXZlbHNYWHN0
+								YXRlPTMmSnVt
+								cEZyb21BY3Rp
+								b25YWHN0YXRl
+								PSZjb3JwdXNY
+								WHN0YXRlPVRM
+								RytUZXh0cyZj
+								dXJyZW50X3Bh
+								Z2VYWHN0YXRl
+								PWJyb3dzZXJf
+								cGFzc2FnZSZ3
+								b3JrWFhzdGF0
+								ZT0lVmFyaWFi
+								bGUlTG9jYWxf
+								X1Rlc3RSZXN1
+								bHRfRE9JUyUm
+								Z29YWHN0YXRl
+								PUdvJnN1Ym1p
+								dFhYc3RhdGU9
+								RmluZCthK3Bh
+								c3NhZ2UraW4r
+								dGhpcyt3b3Jr
+								JnNwbGFzaFhY
+								c3RhdGU9dHJ1
+								ZSZ0eXBlWFhz
+								dGF0ZT1UTEcr
+								VGV4dHMmc2hv
+								cnRfdHlwZVhY
+								c3RhdGU9dGxn
+								fQEAAAAjAAAA
+								AQAAAAcAAABU
+								WFQucnRmEAAA
+								AHd5UV22AQAA
+								AAAAAAAAAAA=
+								</data>
+								<key>Title</key>
+								<string></string>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>Open in default browser</string>
 								<key>Actions</key>
 								<array>
 									<dict>
-										<key>ActionColor</key>
-										<string>Teal</string>
+										<key>IsDefaultApplication</key>
+										<true/>
+										<key>IsDisclosed</key>
+										<false/>
 										<key>MacroActionType</key>
-										<string>SetVariableToText</string>
-										<key>Text</key>
-										<string>%Variable%sspResult%</string>
-										<key>Variable</key>
-										<string>Local__Source_Data</string>
-									</dict>
-									<dict>
-										<key>ActionColor</key>
-										<string>Yellow</string>
-										<key>Actions</key>
-										<array>
-											<dict>
-												<key>Action</key>
-												<string>IgnoreCaseRegEx</string>
-												<key>ActionColor</key>
-												<string>Yellow</string>
-												<key>ActionName</key>
-												<string>Extract Just the Number in Capture Group #1</string>
-												<key>Captures</key>
-												<array>
-													<string></string>
-												</array>
-												<key>MacroActionType</key>
-												<string>SearchRegEx</string>
-												<key>Search</key>
-												<string>\d{4}</string>
-												<key>Source</key>
-												<string>Variable</string>
-												<key>Variable</key>
-												<string>Local__Number</string>
-											</dict>
-											<dict>
-												<key>MacroActionType</key>
-												<string>SetVariableToText</string>
-												<key>Text</key>
-												<string>%Variable%Local__TestResult%%Variable%Local__Number%
-</string>
-												<key>Variable</key>
-												<string>Local__TestResult_UM</string>
-											</dict>
-										</array>
-										<key>Collections</key>
-										<dict>
-											<key>CollectionList</key>
-											<array>
-												<dict>
-													<key>CollectionType</key>
-													<string>SubstringsIn</string>
-													<key>ResultType</key>
-													<string>String</string>
-													<key>Search</key>
-													<string>\d{4}</string>
-													<key>SearchKind</key>
-													<string>Match</string>
-													<key>Source</key>
-													<string>Variable</string>
-													<key>Variable</key>
-													<string>Local__Source_Data</string>
-												</dict>
-											</array>
-										</dict>
-										<key>MacroActionType</key>
-										<string>For</string>
+										<string>OpenURL</string>
 										<key>TimeOutAbortsMacro</key>
 										<true/>
-										<key>Variable</key>
-										<string>Local__Number</string>
-									</dict>
-									<dict>
-										<key>ActionColor</key>
-										<string>Orange</string>
-										<key>IsActive</key>
-										<false/>
-										<key>JustDisplay</key>
-										<false/>
-										<key>MacroActionType</key>
-										<string>SetClipboardToText</string>
-										<key>Text</key>
-										<string>%Variable%Local__TestResult_UM%</string>
+										<key>URL</key>
+										<string>http://localhost:8888/Diogenes.cgi?JumpTo=&amp;JumpFromQuery=&amp;JumpFromLang=&amp;JumpFromAction=&amp;level_3=0&amp;level_2=0&amp;level_1=0&amp;level_0=0&amp;submit=Show+me+this+passage&amp;JumpFromLangXXstate=&amp;JumpToXXstate=&amp;actionXXstate=browse&amp;authorXXstate=%Variable%Local__TestResult_UM%&amp;queryXXstate=%Variable%Local__TestResult_UM%&amp;greek_output_formatXXstate=UTF-8&amp;JumpFromQueryXXstate=&amp;levelsXXstate=3&amp;JumpFromActionXXstate=&amp;corpusXXstate=TLG+Texts&amp;current_pageXXstate=browser_passage&amp;workXXstate=%Variable%Local__TestResult_DOIS%&amp;goXXstate=Go&amp;submitXXstate=Find+a+passage+in+this+work&amp;splashXXstate=true&amp;typeXXstate=TLG+Texts&amp;short_typeXXstate=tlg</string>
 									</dict>
 								</array>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>Group</string>
 								<key>TimeOutAbortsMacro</key>
 								<true/>
-							</dict>
-							<dict>
-								<key>ActionName</key>
-								<string>Segunda variável</string>
-								<key>Actions</key>
-								<array>
-									<dict>
-										<key>ActionColor</key>
-										<string>Teal</string>
-										<key>MacroActionType</key>
-										<string>SetVariableToText</string>
-										<key>Text</key>
-										<string>%Variable%sspResult%</string>
-										<key>Variable</key>
-										<string>Local__Source_Data</string>
-									</dict>
-									<dict>
-										<key>ActionColor</key>
-										<string>Yellow</string>
-										<key>Actions</key>
-										<array>
-											<dict>
-												<key>Action</key>
-												<string>IgnoreCaseRegEx</string>
-												<key>ActionColor</key>
-												<string>Yellow</string>
-												<key>ActionName</key>
-												<string>Extract Just the Number in Capture Group #1</string>
-												<key>Captures</key>
-												<array>
-													<string></string>
-												</array>
-												<key>MacroActionType</key>
-												<string>SearchRegEx</string>
-												<key>Search</key>
-												<string>\d{3}</string>
-												<key>Source</key>
-												<string>Variable</string>
-												<key>Variable</key>
-												<string>Local__Number</string>
-											</dict>
-											<dict>
-												<key>MacroActionType</key>
-												<string>SetVariableToText</string>
-												<key>Text</key>
-												<string>%Variable%Local__TestResult%%Variable%Local__Number%
-</string>
-												<key>Variable</key>
-												<string>Local__TestResult_DOIS</string>
-											</dict>
-										</array>
-										<key>Collections</key>
-										<dict>
-											<key>CollectionList</key>
-											<array>
-												<dict>
-													<key>CollectionType</key>
-													<string>SubstringsIn</string>
-													<key>ResultType</key>
-													<string>String</string>
-													<key>Search</key>
-													<string>\d{3}</string>
-													<key>SearchKind</key>
-													<string>Match</string>
-													<key>Source</key>
-													<string>Variable</string>
-													<key>Variable</key>
-													<string>Local__Source_Data</string>
-												</dict>
-											</array>
-										</dict>
-										<key>MacroActionType</key>
-										<string>For</string>
-										<key>TimeOutAbortsMacro</key>
-										<true/>
-										<key>Variable</key>
-										<string>Local__Number</string>
-									</dict>
-									<dict>
-										<key>Action</key>
-										<string>IgnoreCaseString</string>
-										<key>MacroActionType</key>
-										<string>SearchReplace</string>
-										<key>Replace</key>
-										<string></string>
-										<key>Search</key>
-										<string>\n</string>
-										<key>Source</key>
-										<string>Variable</string>
-										<key>Variable</key>
-										<string>Local__TestResult_UM</string>
-									</dict>
-									<dict>
-										<key>Action</key>
-										<string>IgnoreCaseString</string>
-										<key>MacroActionType</key>
-										<string>SearchReplace</string>
-										<key>Replace</key>
-										<string></string>
-										<key>Search</key>
-										<string>\n</string>
-										<key>Source</key>
-										<string>Variable</string>
-										<key>Variable</key>
-										<string>Local__TestResult_DOIS</string>
-									</dict>
-									<dict>
-										<key>ActionColor</key>
-										<string>Orange</string>
-										<key>IsActive</key>
-										<false/>
-										<key>JustDisplay</key>
-										<false/>
-										<key>MacroActionType</key>
-										<string>SetClipboardToText</string>
-										<key>Text</key>
-										<string>%Variable%Local__TestResult_UM%.%Variable%Local__TestResult_DOIS%</string>
-									</dict>
-								</array>
-								<key>MacroActionType</key>
-								<string>Group</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-							</dict>
-							<dict>
-								<key>IsDefaultApplication</key>
-								<true/>
-								<key>MacroActionType</key>
-								<string>OpenURL</string>
-								<key>TimeOutAbortsMacro</key>
-								<true/>
-								<key>URL</key>
-								<string>http://stephanus.tlg.uci.edu/Iris/indiv/csearch.jsp#doc=tlg&amp;aid=%Variable%Local__TestResult_UM%&amp;wid=%Variable%Local__TestResult_DOIS%&amp;q=%Variable%Local__TestResult_UM%.%Variable%Local__TestResult_DOIS%&amp;dt=list&amp;cs_sort=1_sortname_asc&amp;st=work_title&amp;aw=&amp;verndipl=0&amp;per=100&amp;c=2&amp;acp=&amp;editid=</string>
 							</dict>
 						</array>
 						<key>TimeOutAbortsMacro</key>
@@ -14784,12 +15038,44 @@ customPromptWidth: 500</string>
 					</dict>
 					<dict>
 						<key>ActionColor</key>
-						<string>Yellow</string>
+						<string>Orange</string>
 						<key>ActionName</key>
 						<string>Cleanup Variables</string>
 						<key>Actions</key>
 						<array>
 							<dict>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Delete%</string>
+								<key>Variable</key>
+								<string>DT3</string>
+							</dict>
+							<dict>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Delete%</string>
+								<key>Variable</key>
+								<string>recordname</string>
+							</dict>
+							<dict>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%Delete%</string>
+								<key>Variable</key>
+								<string>Source</string>
+							</dict>
+							<dict>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -14798,6 +15084,8 @@ customPromptWidth: 500</string>
 								<string>sspResult</string>
 							</dict>
 							<dict>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -14806,6 +15094,8 @@ customPromptWidth: 500</string>
 								<string>Local__TestResult_UM</string>
 							</dict>
 							<dict>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -14814,6 +15104,8 @@ customPromptWidth: 500</string>
 								<string>Local__TestResult_DOIS</string>
 							</dict>
 							<dict>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>SetVariableToText</string>
 								<key>Text</key>
@@ -15263,43 +15555,24 @@ customPromptWidth: 500</string>
 				AAC4NmN1cnYAAAAAAAAAAQHNAABzZjMyAAAAAAABDEIA
 				AAXe///zJgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 				</data>
+				<key>IsActive</key>
+				<false/>
 				<key>ModificationDate</key>
-				<real>581733075.57551003</real>
+				<real>587330207.948403</real>
 				<key>Name</key>
-				<string>1. TLG Online</string>
+				<string>Thesaurus Linguae Graecae 1.1</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
-				<string>A8804CBF-5407-470B-813E-AD6D7A2CFA9A</string>
+				<string>66436150-42AD-4037-9BD5-B9F75D0AC03D</string>
 			</dict>
 		</array>
-		<key>Modifiers</key>
-		<integer>0</integer>
 		<key>Name</key>
-		<string>ω TLG &amp; LOEB</string>
-		<key>PaletteUnderMouse</key>
-		<true/>
-		<key>Theme</key>
-		<dict>
-			<key>Columns</key>
-			<integer>10</integer>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>30</integer>
-			<key>Theme</key>
-			<string>Red Wine</string>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseText</key>
-			<false/>
-			<key>UseTitle</key>
-			<false/>
-		</dict>
+		<string>Github</string>
 		<key>ToggleMacroUID</key>
-		<string>FB91381F-3D3A-4EBC-BCB4-31652E8878E1</string>
+		<string>D5AE2710-779F-4DE3-855E-24CA9568D196</string>
 		<key>UID</key>
-		<string>FA396A86-39BB-4EB6-9442-427BD0710CE9</string>
+		<string>50439185-5BA6-4B90-A4D6-CC53EB0DE544</string>
 	</dict>
 </array>
 </plist>
