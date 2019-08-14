@@ -5,3 +5,5 @@ I hope they will be useful to you.
 
 Enjoy.
 
+## UPDATES:
+2019-08-14: New macro: **Corpora**, on the [Thesaurus Linguae Graecae (TLG) and LOEB Classical Library section](https://github.com/bcdavasconcelos/mykmmlibrary/tree/master/Thesaurus%20Linguae%20Graecae%20(TLG)%20and%20LOEB%20Classical%20Library).
