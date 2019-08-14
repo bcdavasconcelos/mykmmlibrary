@@ -1,7 +1,5 @@
 # TLG & Loeb Macros
-A Keyboard Maestro Macro for ultra-fast access to the Thesaurus Linguae Graecae and the LOEB Classical Library.
-
-![Video demonstration][https://youtu.be/UxVfdw6Kx6s]
+A Keyboard Maestro Macro for ultra-fast access to the Thesaurus Linguae Graecae and the LOEB Classical Library. See this [video demonstration][https://youtu.be/UxVfdw6Kx6s].
 
 ## 2019-08-13
 A brand new macro was created and a lot of work was put into this.
