@@ -1,6 +1,6 @@
 # Normalize greek text
 
-This macro is for removing converting the verse-like formating of TLG texts into prose-like greek text without the numbering on each line.
+This macro is for converting the verse-like formating of TLG texts into prose-like greek text without the numbering on each line.
 
 Rep358a07 Οἶδα, ἦν δ᾽ ἐγώ, ὅτι δοκεῖ οὕτω καὶ πάλαι ὑπὸ Θρασυ–  
 Rep358a08 μάχου ὡς τοιοῦτον ὂν ψέγεται, ἀδικία δ᾽ ἐπαινεῖται· ἀλλ᾽  
